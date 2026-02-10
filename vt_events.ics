@@ -25,7 +25,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:vt-event-122@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260211T180000
 DTEND;TZID=America/New_York:20260211T193000
 SUMMARY:Flying Trapeze Beginner Drop In Class
@@ -35,7 +35,7 @@ URL:https://iputney.com/event/flying-trapeze-beginner-drop-in-class-3/?instance_
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-172@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260211T190000
 DTEND;TZID=America/New_York:20260211T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -45,7 +45,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/166730
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-134@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260213T200000
 DTEND;TZID=America/New_York:20260213T220000
 SUMMARY:Wicked Game: A Gothic Promenade
@@ -55,7 +55,7 @@ URL:https://stonechurchvt.com#/events/157998
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-173@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260213T173000
 DTEND;TZID=America/New_York:20260213T193000
 SUMMARY:Putney Community Supper
@@ -64,8 +64,18 @@ DESCRIPTION:Putney Community SupperFriday, Feb 13Minimum age:All agesShow time:5
 URL:https://www.nextstagearts.org/events-calendar#/events/168873
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-202@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260213T183000
+DTEND;TZID=America/New_York:20260213T210000
+SUMMARY:BLADE RUNNER: Final Cut! w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:BLADE RUNNER (1982, 117 mins, Dir. Ridley Scott), In the year 2019, Ex-cop Rick Deckard (Harrison Ford) hunts down fugitive, human-like androids called “replicants” in a dystopian, twenty-first century Los Angeles, where neon saturates the crowded landscape and the traffic woes are quelled by endless skyways for flying vehicles. Based on Philip K. Dick’s 1968 novelDo Androids Dream of Electric Sheep?(and borrowing the title of a short story by William S. Burroughs), the film and its story popularized the now-classic cyberpunk conflict about the boundary between human consciousness and artificial intelligence.BLADE RUNNER is one of the most influential films of the past 30 years. While so many special effects spectacles are lost in time "like tears in the rain", the film remains every bit as influential in its vision as was Fritz Lang’sMetropolisover a half century before. Working with an innovative art department and synth…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/blade-runner-final-cut-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
+URL:https://www.epsilonspires.org/event-info/blade-runner-final-cut-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-124@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents The Baffo Box Show
@@ -78,7 +88,7 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-125@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260214T113000
 DTEND;TZID=America/New_York:20260214T130000
 SUMMARY:Flying Trapeze All Levels Drop In Class
@@ -88,7 +98,7 @@ URL:https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-10/?instan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-126@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260214T170000
 DTEND;TZID=America/New_York:20260214T211500
 SUMMARY:Kids Night Out
@@ -106,7 +116,7 @@ URL:https://iputney.com/event/kids-night-out-2/?instance_id=5190
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-135@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260214T200000
 DTEND;TZID=America/New_York:20260214T220000
 SUMMARY:Melt
@@ -116,7 +126,7 @@ URL:https://stonechurchvt.com#/events/162922
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-127@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260215T150000
 DTEND;TZID=America/New_York:20260215T170000
 SUMMARY:Home Land: Paintings by Finn Campman: Opening Reception
@@ -127,7 +137,7 @@ URL:https://iputney.com/event/home-land-paintings-by-finn-campman-opening-recept
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-174@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260215T150000
 DTEND;TZID=America/New_York:20260215T170000
 SUMMARY:Home Land: Paintings by Finn Campman
@@ -136,8 +146,18 @@ DESCRIPTION:NXT GalleryHome Land: Paintings by Finn CampmanOpening ReceptionSund
 URL:https://www.nextstagearts.org/events-calendar#/events/168053
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-203@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260215T180000
+DTEND;TZID=America/New_York:20260215T200000
+SUMMARY:ESCAPES (2017)
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:ESCAPES (2017, 89 minutes).Directed by Michael Almereyda (Experimenter) and executive produced by Wes Anderson (The Grand Budapest Hotel),Escapesblazes a wild path through mid-20th-century Hollywood via the experiences of Hampton Fancher – flamenco dancer, actor, and the unlikely producer and screenwriter of the landmark sci-fi classicBladeRunner. (Fancher also penned the story for its sequel,Blade Runner 2049.) A consummate raconteur, Fancher recounts episodes from his remarkable life — romantic misadventures with silver-screen stars, wayward acts of chivalry, jealousy, and friendship — matched with a parallel world of film and TV footage wherein Fancher plays cowboys, killers, fops, cads, and the occasional hero.Escapesshows how one man’s personal journey can unexpectedly shape a medium’s future.CRITICAL ACCLAIM:“A thoroughly charming, thoroughly engaging portrait of this great adventurer. Part of the pleasure ofEscapesis how Mr. Almereyda, drawing deeply from the American pop archives… connects the originalBlade…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/escapes-2017
+URL:https://www.epsilonspires.org/event-info/escapes-2017
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-128@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260218T180000
 DTEND;TZID=America/New_York:20260218T193000
 SUMMARY:Flying Trapeze Beginner Drop In Class
@@ -147,7 +167,7 @@ URL:https://iputney.com/event/flying-trapeze-beginner-drop-in-class-4/?instance_
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-175@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260218T110000
 DTEND;TZID=America/New_York:20260218T130000
 SUMMARY:Volunteer Income Tax Preparation Assistance (VITA) Program
@@ -157,7 +177,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168874
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-136@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260220T200000
 DTEND;TZID=America/New_York:20260220T220000
 SUMMARY:The Gaslight Tinkers
@@ -167,7 +187,7 @@ URL:https://stonechurchvt.com#/events/158650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-176@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260220T193000
 DTEND;TZID=America/New_York:20260220T213000
 SUMMARY:Queralt Giralt Soler Trio
@@ -177,7 +197,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168554
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-199@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:What's On
@@ -186,8 +206,18 @@ DESCRIPTION:Source: Bellows Falls Opera House\n\nDetails: https://www.bellowsfal
 URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-204@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260220T183000
+DTEND;TZID=America/New_York:20260220T200000
+SUMMARY:THE FLYING ACE w/ Pipe Organ Score by Jeff Rapsis!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:Can discrimination exist in an America where everyone is Black? That's among the questions posted byTHE FLYING ACE(Dir. Richard E. Norman, 60 mins, 1926).A former railway detective turned decorated fighter pilot comes home from the Great War just in time to foil nefarious local ne’er-do-wells and save the girl. The only "Race Film" production byJacksonville’s Norman Studiosto survive in its entirety features an all-Black cast led by Laurence Criner and Kathryn Boyd and inspired a generation of real-life heroes and first Black pilots to fly with the U.S. Air Force, the Tuskegee Airmen.The Flying Acewas inspired byBessie Coleman, America’s first black female licensed pilot, with whom filmmaker Richard Norman had discussed making an aviation movie. Unfortunately, Coleman was killed in an April 1926 plane crash while practicing for an air show at Jacksonville’s Paxon Airfield, now the Paxon School for Advanced Studies. Norman based…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/the-flying-ace-w-pipe-organ-score-by-jeff-rapsis
+URL:https://www.epsilonspires.org/event-info/the-flying-ace-w-pipe-organ-score-by-jeff-rapsis
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-130@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents Party Animals
@@ -199,7 +229,7 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-131@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260221T100000
 DTEND;TZID=America/New_York:20260221T113000
 SUMMARY:Flying Trapeze All Levels Drop In Class
@@ -209,7 +239,7 @@ URL:https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-8/?instanc
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-137@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260221T200000
 DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:North Mississippi All Stars
@@ -219,7 +249,7 @@ URL:https://stonechurchvt.com#/events/158374
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-138@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260222T190000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Dueling Duets- Coleman Williams + Lightnin' Luke
@@ -229,7 +259,7 @@ URL:https://stonechurchvt.com#/events/159674
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-177@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260222T140000
 DTEND;TZID=America/New_York:20260222T160000
 SUMMARY:The Equivalent Lands
@@ -238,8 +268,18 @@ DESCRIPTION:Putney Historical SocietyThe Equivalent LandsA filmed play on 18th-c
 URL:https://www.nextstagearts.org/events-calendar#/events/169153
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-205@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260222T183000
+DTEND;TZID=America/New_York:20260222T210000
+SUMMARY:Frank Capra's LOST HORIZON (1937)
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:LOST HORIZON (1937, 133 mins). We offer you a radical change of pace for director Frank Capra (It's A Wonderful Life)– adapted by Robert Riskin from James Hilton’s philosophical best-seller. Ronald Colman finds long-sought-for harmony – and love – in the Himalayan mountains. Experience edge-of-your-seat adventure and romance with an exploration of what it truly means to be at peace with oneself. Visually stunning and brilliant on all levels, from the supporting cast including a luminously spirited Jane Wyatt to the gorgeous set design of Shangri-La. This new 4K restoration, including a newly-recovered scene missing for over 75 years, is the most complete version since its original release.Popcorn Provided! Doors open at 6:30pm, Film Begins at 7pm.The National Film Registry honored the film as “an emotional respite to an American public seeking escape from the Depression and yearning for their own personal utopias.”Lost Horizonreceived seven Oscar…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/frank-capras-lost-horizon-1937
+URL:https://www.epsilonspires.org/event-info/frank-capras-lost-horizon-1937
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-139@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260225T200000
 DTEND;TZID=America/New_York:20260225T220000
 SUMMARY:SKELETON CREWE
@@ -248,8 +288,18 @@ DESCRIPTION:SKELETON CREWE ROB BARRACO, BARRY SLESS, STEPHEN INGLIS, PETE SEARS
 URL:https://stonechurchvt.com#/events/160254
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-206@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260225T183000
+DTEND;TZID=America/New_York:20260225T210000
+SUMMARY:BRAZIL (1985) w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:RETRO-FUTURISM FILM NOIR SERIES! Before each screening will be a live performance of ambient/folk-jazz music inspired by the film by REVENANT SEA (Sheri Hupfer & Mark Schwaber) and a raffle to win a $25 gift certificate toVerdigris Antiques! Doors 6:30pm. Show 7:00. Film 7:30pm. Popcorn Included! Please bring cash for the bar.“Our baby, BRAZIL, is now 40 years old. It left home long ago. I’m glad to see it has grown with age. So many governments are now trying to imitate it.” -Director, Terry GilliamBRAZIL:Director's Cut (2 hours, 12 mins, 1985)In the dystopian masterpieceBRAZIL,Jonathan Pryce plays a daydreaming everyman who finds himself caught in the soul-crushing gears of a nightmarish bureaucracy. This cautionary tale by Terry Gilliam—one of the great films of the 1980s—has come to be esteemed alongside anti-totalitarian works by the likes of George Orwell, Aldous Huxley, and Kurt Vonnegut. In terms…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/brazil-1985-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
+URL:https://www.epsilonspires.org/event-info/brazil-1985-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-140@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260226T200000
 DTEND;TZID=America/New_York:20260226T220000
 SUMMARY:Moviola/Wet Tuna/Animal Piss It's Everywhere
@@ -259,7 +309,7 @@ URL:https://stonechurchvt.com#/events/155759
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-178@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260227T190000
 DTEND;TZID=America/New_York:20260227T210000
 SUMMARY:Johnny Cash! The Man\, His World\, His Music
@@ -268,8 +318,18 @@ DESCRIPTION:Johnny Cash! The Man, His World, His MusicAn intimate cinéma vérit
 URL:https://www.nextstagearts.org/events-calendar#/events/169539
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-207@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260227T190000
+DTEND;TZID=America/New_York:20260227T230000
+SUMMARY:SHIRAZ: ROMANCE OF INDIA w/ Music Score by Utsav Lal!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:Trailblazing pianistUtsav Lalimprovises a new score to this ravishing, romantic tale about the building of the Taj Mahal.Based on the romance between 17th-century Mughal ruler Shah Jahan and his queen, this epic silent film is the captivating story behind the creation of one of the architectural wonders of the world, the Taj Mahal. Shot entirely on location in India, with an all-Indian cast, it features lavish costumes and gorgeous settings. Choosing to perform on an instrument that has traditionally been considered unsuitable for Hindustani classical music, Utsav’s innovative handling of a raga blends his diverse musical influences and has left listeners spellbound. Utsav has performed at leading classical concert venues worldwide, including The Kennedy Centre, Carnegie Hall, Southbank Centre and The Bridgewater Hall, Manchester.Shiraz: A Romance of India(1929, 120 Mins), Doors 7:00pm, Show begins 7:30pm."Imperialism for the masses, the movie culture of the 1920s, purveyed…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/shiraz-romance-of-india-w-music-score-by-utsav-lal
+URL:https://www.epsilonspires.org/event-info/shiraz-romance-of-india-w-music-score-by-utsav-lal
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-141@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260228T200000
 DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:A Band of Brothers
@@ -279,7 +339,7 @@ URL:https://stonechurchvt.com#/events/152452
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-179@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260228T193000
 DTEND;TZID=America/New_York:20260228T213000
 SUMMARY:Corey Harris with Sunny Lowdown
@@ -289,7 +349,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169559
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-142@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260305T200000
 DTEND;TZID=America/New_York:20260305T220000
 SUMMARY:Nathan Evans & The Saint PHNX Band
@@ -299,7 +359,7 @@ URL:https://stonechurchvt.com#/events/161469
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-143@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260306T190000
 DTEND;TZID=America/New_York:20260306T210000
 SUMMARY:Sepsiss\, Awaiting Abigail\, Under The Horizon\, Pulsifier
@@ -309,7 +369,7 @@ URL:https://stonechurchvt.com#/events/164287
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-180@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260306T193000
 DTEND;TZID=America/New_York:20260306T213000
 SUMMARY:Kalos plus Dan Houghton & Rachel Clemente
@@ -319,7 +379,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169579
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-144@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260307T200000
 DTEND;TZID=America/New_York:20260307T220000
 SUMMARY:The Slackers
@@ -328,8 +388,18 @@ DESCRIPTION:The SlackersThe AttractorsSaturday March 7Minimum age:All agesShow t
 URL:https://stonechurchvt.com#/events/153480
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-208@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260307T183000
+DTEND;TZID=America/New_York:20260307T213000
+SUMMARY:NAKED LUNCH w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:NAKED LUNCH (1991, 115 mins, Dir. David Cronenberg).MATURE AUDIENCES ONLY, PLEASE.Leave logic at the door and embrace our insect overlords in one of the most hallucinatory films ever made! This singular cinematic oddity sprung from the minds of one of the great poets of the 20th century and one of the great filmmakers – and undoubtedly a huge amount of mind-altering substances! In this adaptation of William S. Burroughs’s hallucinatory, once-thought-unfilmable novelNaked Lunch, Bill Lee (Peter Weller aka:Robocop) is an exterminator with a penchant for ingesting pesticides. While hallucinating, Bill begins to take orders from a giant beetle that commands him to kill his wife and flee into the Interzone. There, he meets his wife’s doppelgänger and his typewriter morphs into a cockroach and begins to produce the book that the film is based upon. And that’s just the start of this surrealist masterpiece’s convoluted and…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/naked-lunch-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
+URL:https://www.epsilonspires.org/event-info/naked-lunch-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-145@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260311T200000
 DTEND;TZID=America/New_York:20260311T220000
 SUMMARY:Eilen Jewell
@@ -339,7 +409,7 @@ URL:https://stonechurchvt.com#/events/141805
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-181@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260311T190000
 DTEND;TZID=America/New_York:20260311T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -349,7 +419,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169586
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-146@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260312T200000
 DTEND;TZID=America/New_York:20260312T220000
 SUMMARY:Pat Travers
@@ -359,7 +429,7 @@ URL:https://stonechurchvt.com#/events/157888
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-182@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T210000
 SUMMARY:Community Sing-Along
@@ -368,8 +438,18 @@ DESCRIPTION:Community Sing-Alongwith Rich GrumbineFriday, Mar 13Minimum age:All 
 URL:https://www.nextstagearts.org/events-calendar#/events/169599
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-209@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260313T190000
+DTEND;TZID=America/New_York:20260313T204000
+SUMMARY:MAINTENANCE ARTIST: Documentary w/ Director Q&A
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:Maintenance Artist (2025, 90 min, English and Japanese with English subtitles). Screening will be followed by an in-person conversation with Director Toby Perl Frielich.This vibrant portrait chronicles the life and work of trailblazing artist Mierle Laderman Ukeles, drawing from never-before-seen archival footage,Maintenance Artistoffers a deeply moving meditation on care, labor, and visibility during the social and artistic upheavals of the last fifty years.“After the Revolution, who’s going to pick up the garbage on Monday morning?” challenged artist Mierle Laderman Ukeles. After she became a mother, Ukeles published a daring manifesto declaring all her acts of household maintenance, including childcare, to be performance art. As she blasted her way into the largely male late-1960s avant-garde, Ukeles began to scale up her “maintenance revolution,” collaborating with the invisible class of workers who maintain museums, galleries and public spaces. In 1977, she radically reframed public art by becoming the first official,…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/maintenance-artist-documentary-w-director-q-a
+URL:https://www.epsilonspires.org/event-info/maintenance-artist-documentary-w-director-q-a
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-147@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260314T200000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:LEFTöVER CRACK
@@ -379,7 +459,7 @@ URL:https://stonechurchvt.com#/events/161798
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-183@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260314T193000
 DTEND;TZID=America/New_York:20260314T213000
 SUMMARY:Race & Song: A Musical Conversation
@@ -389,7 +469,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169612
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-148@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T210000
 SUMMARY:Moon Walker | Demi the Daredevil |  Sarah and the Safe Word
@@ -399,7 +479,7 @@ URL:https://stonechurchvt.com#/events/164869
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-184@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260320T193000
 DTEND;TZID=America/New_York:20260320T213000
 SUMMARY:Singer/Songwriter Showcase
@@ -409,7 +489,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/170375
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-200@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:February 2026
@@ -418,8 +498,18 @@ DESCRIPTION:Source: Bellows Falls Opera House\n\nDetails: https://www.bellowsfal
 URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-210@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260320T190000
+DTEND;TZID=America/New_York:20260320T204000
+SUMMARY:PEACHES GOES BANANAS! +Director Q&A!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:PEACHES GOES BANANAS! (Marie Losier, 2024, France & Belgium, 73 min, in English) FOR MATURE AUDIENCES.For 17 years, director Marie Losier has followed the trailblazing, provocative, and taboo-shattering career of artist and musician Peaches. From her early life, to her ascent towards becoming a queer feminist icon, her story is one that has defied expectations and exemplified fearless exploration and rebellion. PEACHES GOES BANANAS is an intimate portrait of this singular artist. Capturing her thrilling live shows, artistic process, close relationships with her family, and her rise to fame, the film is a “poetic…two-decade long conversation between two artists” (The Upcoming). Synopsis courtesy ofFilmMovementCRITICAL ACCLAIM:"The documentary, which follows the career of Canadian musician Peaches... shows why her brand of feminist punk and electroclash has resonated for 20+ years."Rosie Long Decter,Billboard"Shot over 17 years, it mingles intimate personal moments with visceral concert footage, its…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/peaches-goes-bananas-director-q-a
+URL:https://www.epsilonspires.org/event-info/peaches-goes-bananas-director-q-a
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-149@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260321T200000
 DTEND;TZID=America/New_York:20260321T220000
 SUMMARY:New Planets
@@ -429,7 +519,7 @@ URL:https://stonechurchvt.com#/events/161825
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-150@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260325T200000
 DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:The Cold Stares
@@ -439,7 +529,7 @@ URL:https://stonechurchvt.com#/events/165921
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-151@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260327T200000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Little Lies- Fleetwood Mac Tribute
@@ -449,7 +539,7 @@ URL:https://stonechurchvt.com#/events/155750
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-185@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260327T193000
 DTEND;TZID=America/New_York:20260327T213000
 SUMMARY:Vermont Comedy All Stars Live Stand-up Comedy Showcase!
@@ -459,7 +549,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169619
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-152@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260328T200000
 DTEND;TZID=America/New_York:20260328T220000
 SUMMARY:Bearly Dead
@@ -469,7 +559,7 @@ URL:https://stonechurchvt.com#/events/159705
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-153@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260403T200000
 DTEND;TZID=America/New_York:20260403T220000
 SUMMARY:The Meteors
@@ -479,7 +569,7 @@ URL:https://stonechurchvt.com#/events/161480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-186@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260403T193000
 DTEND;TZID=America/New_York:20260403T213000
 SUMMARY:The Gaslight Tinkers Dance Party
@@ -489,7 +579,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169621
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-154@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260404T200000
 DTEND;TZID=America/New_York:20260404T220000
 SUMMARY:Wild Party/Capital Soiree
@@ -499,7 +589,7 @@ URL:https://stonechurchvt.com#/events/159959
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-187@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260408T190000
 DTEND;TZID=America/New_York:20260408T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -509,7 +599,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169623
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-155@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260410T200000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:Tanya Donelly and Chris Brokaw
@@ -519,7 +609,7 @@ URL:https://stonechurchvt.com#/events/156021
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-156@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260411T200000
 DTEND;TZID=America/New_York:20260411T220000
 SUMMARY:lespecial
@@ -529,7 +619,7 @@ URL:https://stonechurchvt.com#/events/166473
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-188@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260411T193000
 DTEND;TZID=America/New_York:20260411T213000
 SUMMARY:É.T.É
@@ -539,7 +629,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169227
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-157@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260412T190000
 DTEND;TZID=America/New_York:20260412T210000
 SUMMARY:Pallbearer
@@ -549,7 +639,7 @@ URL:https://stonechurchvt.com#/events/157992
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-158@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260417T200000
 DTEND;TZID=America/New_York:20260417T220000
 SUMMARY:The Antlers
@@ -559,7 +649,7 @@ URL:https://stonechurchvt.com#/events/156610
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-189@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260417T193000
 DTEND;TZID=America/New_York:20260417T213000
 SUMMARY:Jake Shulman-Ment
@@ -569,7 +659,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169639
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-159@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260420T190000
 DTEND;TZID=America/New_York:20260420T210000
 SUMMARY:Weedeater + Conan
@@ -579,7 +669,7 @@ URL:https://stonechurchvt.com#/events/160572
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-160@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260423T200000
 DTEND;TZID=America/New_York:20260423T220000
 SUMMARY:Courtney Marie Andrews
@@ -589,7 +679,7 @@ URL:https://stonechurchvt.com#/events/141536
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-161@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260430T200000
 DTEND;TZID=America/New_York:20260430T220000
 SUMMARY:Haley Heynderickx & Max Garcia Conover
@@ -598,8 +688,18 @@ DESCRIPTION:Haley Heynderickx & Max Garcia ConoverThursday April 30Minimum age:A
 URL:https://stonechurchvt.com#/events/158537
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-211@things-we-love
+DTSTAMP:20260210T013707Z
+DTSTART;TZID=America/New_York:20260430T190000
+DTEND;TZID=America/New_York:20260430T213000
+SUMMARY:Whitney Johnson - Lia Kohl - Macie Stewart Trio
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:Whitney Johnson,Lia Kohl, andMacie Stewartare a trio who utilize string instruments, voices, and manual tape effect processing to craft compositions from alternately tranquil and disquieting improvised music. The three musicians are individually rooted in deep sound exploration, multi-disciplinary composition, and all manner of cross-genre collaboration. The musical ground covered by their solo practices is correspondingly expansive, and their individual recording and performance credits read as a veritable who’s who, ranging from DIY darlings to household names of experimental avant-garde, electronic, indie rock, and more.BODY SOUND, their debut album, will be released by International Anthem onMarch 20, 2026.Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/whitney-johnson-lia-kohl-macie-stewart-trio
+URL:https://www.epsilonspires.org/event-info/whitney-johnson-lia-kohl-macie-stewart-trio
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-162@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260501T200000
 DTEND;TZID=America/New_York:20260501T220000
 SUMMARY:Juice
@@ -609,7 +709,7 @@ URL:https://stonechurchvt.com#/events/162699
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-163@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260502T200000
 DTEND;TZID=America/New_York:20260502T220000
 SUMMARY:ULTRA SUNN
@@ -619,7 +719,7 @@ URL:https://stonechurchvt.com#/events/139076
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-190@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260508T193000
 DTEND;TZID=America/New_York:20260508T213000
 SUMMARY:Victoria Redel in Conversation with Robin MacArthur
@@ -629,7 +729,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-191@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260513T190000
 DTEND;TZID=America/New_York:20260513T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -639,7 +739,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169686
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-164@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260515T200000
 DTEND;TZID=America/New_York:20260515T220000
 SUMMARY:TAGABOW
@@ -649,7 +749,7 @@ URL:https://stonechurchvt.com#/events/164398
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-192@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260517T190000
 DTEND;TZID=America/New_York:20260517T210000
 SUMMARY:John Gorka
@@ -659,7 +759,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169652
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-165@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260523T200000
 DTEND;TZID=America/New_York:20260523T220000
 SUMMARY:King Tuff
@@ -669,7 +769,7 @@ URL:https://stonechurchvt.com#/events/154304
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-166@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260527T200000
 DTEND;TZID=America/New_York:20260527T220000
 SUMMARY:Oranssi Pazuzu
@@ -679,7 +779,7 @@ URL:https://stonechurchvt.com#/events/149483
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-193@things-we-love
-DTSTAMP:20260210T012423Z
+DTSTAMP:20260210T013707Z
 DTSTART;TZID=America/New_York:20260527T100000
 DTEND;TZID=America/New_York:20260527T120000
 SUMMARY:American Red Cross Blood Drive
