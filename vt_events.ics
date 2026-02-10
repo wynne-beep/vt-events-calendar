@@ -24,18 +24,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:vt-event-122@things-we-love
-DTSTAMP:20260210T025356Z
-DTSTART;TZID=America/New_York:20260211T180000
-DTEND;TZID=America/New_York:20260211T193000
-SUMMARY:Flying Trapeze Beginner Drop In Class
-LOCATION:Putney\, VT\, Putney
-DESCRIPTION:A bar hanging from two ropes, but 20 feet in the air (don’t worry… there’s a net!) The flyer, holding the bar, jumps from a platform, swings through the air with the option for tricks and poses. Progressions include releasing and re-catching the bar, and being caught by a “catcher” on a second trapeze spaced perfectly across from it. Flyers fall into a net below, dismount, and get ready to fly all over again! NECCA offers drop-in classes for various circus classes throughout the session. Students can reserve their spot ahead of time on our website or show up 15 minutes early to class to register in person. (Note: we cannot guarantee space in the class if you do not pre-register.) Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/flying-trapeze-beginner-drop-in-class-3/?instance_id=5183
-URL:https://iputney.com/event/flying-trapeze-beginner-drop-in-class-3/?instance_id=5183
-END:VEVENT
-BEGIN:VEVENT
 UID:vt-event-172@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260211T190000
 DTEND;TZID=America/New_York:20260211T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -45,7 +35,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/166730
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-212@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260211T190000
 DTEND;TZID=America/New_York:20260211T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -55,7 +45,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169948
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-213@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260212T180000
 DTEND;TZID=America/New_York:20260212T200000
 SUMMARY:Jump In! Clown for Stage Session 2
@@ -65,7 +55,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/166127
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-134@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260213T200000
 DTEND;TZID=America/New_York:20260213T220000
 SUMMARY:Wicked Game: A Gothic Promenade
@@ -75,7 +65,7 @@ URL:https://stonechurchvt.com#/events/157998
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-173@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260213T173000
 DTEND;TZID=America/New_York:20260213T193000
 SUMMARY:Putney Community Supper
@@ -85,7 +75,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168873
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-202@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260213T183000
 DTEND;TZID=America/New_York:20260213T210000
 SUMMARY:BLADE RUNNER: Final Cut! w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -95,7 +85,7 @@ URL:https://www.epsilonspires.org/event-info/blade-runner-final-cut-w-live-music
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-214@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260213T190000
 DTEND;TZID=America/New_York:20260213T210000
 SUMMARY:Heartache Hideaway
@@ -105,7 +95,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169952
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-223@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260213T170000
 DTEND;TZID=America/New_York:20260213T210000
 SUMMARY:Get Lucky Valentines Makers' Market!
@@ -115,7 +105,7 @@ URL:https://www.novaarts.org/events/getlucky
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-124@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents The Baffo Box Show
@@ -127,36 +117,8 @@ A daring work of puppetry and object manipulation, full of beautiful images, jun
 URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents-the-baffo-box-show/?instance_id=5153
 END:VEVENT
 BEGIN:VEVENT
-UID:vt-event-125@things-we-love
-DTSTAMP:20260210T025356Z
-DTSTART;TZID=America/New_York:20260214T113000
-DTEND;TZID=America/New_York:20260214T130000
-SUMMARY:Flying Trapeze All Levels Drop In Class
-LOCATION:Putney\, VT\, Putney
-DESCRIPTION:A bar hanging from two ropes, but 20 feet in the air (don’t worry… there’s a net!) The flyer, holding the bar, jumps from a platform, swings through the air with the option for tricks and poses. Progressions include releasing and re-catching the bar, and being caught by a “catcher” on a second trapeze spaced perfectly across from it. Flyers fall into a net below, dismount, and get ready to fly all over again! NECCA offers drop-in classes for various circus classes throughout the session. Students can reserve their spot ahead of time on our website or show up 15 minutes early to class to register in person. (Note: we cannot guarantee space in the class if you do not pre-register.) Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-10/?instance_id=5180
-URL:https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-10/?instance_id=5180
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-126@things-we-love
-DTSTAMP:20260210T025356Z
-DTSTART;TZID=America/New_York:20260214T170000
-DTEND;TZID=America/New_York:20260214T211500
-SUMMARY:Kids Night Out
-LOCATION:Putney\, VT\, Putney
-DESCRIPTION:Dimly-lit restaurants and talking about school? Boooring. How about a night time hangout with your friends (while making some new ones) at NECCA instead?
-With games, art, a movie, and of course plenty of circus, a night at NECCA is like going to that friend’s house who has all the cool stuff, except the cool stuff is an Olympic trampoline and foam pit. Spend all your time at your favorite activity, or try them all! Each student is able to move about the trapezium at their own pace to make the most of their night out.
-Schedule
-Drop off: between 5:00 PM – 7:00 PM
-Pick up: anytime before or at 9:15 PM
-5:00 – 6:30: Fabric, Trapeze, Trampoline, Foam Pit, Games, Art, and more
-6:30 – 7:00: Dinner (Parent provided – NECCA does not provide dinner)
-7:00 – 9:00: Movie & Fabric, Trapeze, Trampoline, Foam Pit, Games, Art, and more
-9:00 – 9:15: Pick Up\n\nSource: iPutney\n\nDetails: https://iputney.com/event/kids-night-out-2/?instance_id=5190
-URL:https://iputney.com/event/kids-night-out-2/?instance_id=5190
-END:VEVENT
-BEGIN:VEVENT
 UID:vt-event-135@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260214T200000
 DTEND;TZID=America/New_York:20260214T220000
 SUMMARY:Melt
@@ -166,7 +128,7 @@ URL:https://stonechurchvt.com#/events/162922
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-215@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260214T210000
 DTEND;TZID=America/New_York:20260214T230000
 SUMMARY:Drama Qweenz: Black Lovers\, a Drag Show
@@ -176,7 +138,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169953
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-224@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260214T190000
 DTEND;TZID=America/New_York:20260214T220000
 SUMMARY:Mardi Gras Dance Party w/ Folksoul Band & Celebration Brass Band
@@ -194,7 +156,7 @@ URL:https://www.novaarts.org/events/mardigras2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-127@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260215T150000
 DTEND;TZID=America/New_York:20260215T170000
 SUMMARY:Home Land: Paintings by Finn Campman: Opening Reception
@@ -205,7 +167,7 @@ URL:https://iputney.com/event/home-land-paintings-by-finn-campman-opening-recept
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-174@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260215T150000
 DTEND;TZID=America/New_York:20260215T170000
 SUMMARY:Home Land: Paintings by Finn Campman
@@ -215,7 +177,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168053
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-203@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260215T180000
 DTEND;TZID=America/New_York:20260215T200000
 SUMMARY:ESCAPES (2017)
@@ -224,18 +186,8 @@ DESCRIPTION:ESCAPES (2017, 89 minutes).Directed by Michael Almereyda (Experiment
 URL:https://www.epsilonspires.org/event-info/escapes-2017
 END:VEVENT
 BEGIN:VEVENT
-UID:vt-event-128@things-we-love
-DTSTAMP:20260210T025356Z
-DTSTART;TZID=America/New_York:20260218T180000
-DTEND;TZID=America/New_York:20260218T193000
-SUMMARY:Flying Trapeze Beginner Drop In Class
-LOCATION:Putney\, VT\, Putney
-DESCRIPTION:A bar hanging from two ropes, but 20 feet in the air (don’t worry… there’s a net!) The flyer, holding the bar, jumps from a platform, swings through the air with the option for tricks and poses. Progressions include releasing and re-catching the bar, and being caught by a “catcher” on a second trapeze spaced perfectly across from it. Flyers fall into a net below, dismount, and get ready to fly all over again! NECCA offers drop-in classes for various circus classes throughout the session. Students can reserve their spot ahead of time on our website or show up 15 minutes early to class to register in person. (Note: we cannot guarantee space in the class if you do not pre-register.) Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/flying-trapeze-beginner-drop-in-class-4/?instance_id=5184
-URL:https://iputney.com/event/flying-trapeze-beginner-drop-in-class-4/?instance_id=5184
-END:VEVENT
-BEGIN:VEVENT
 UID:vt-event-175@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260218T110000
 DTEND;TZID=America/New_York:20260218T130000
 SUMMARY:Volunteer Income Tax Preparation Assistance (VITA) Program
@@ -245,7 +197,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168874
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-216@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260218T190000
 DTEND;TZID=America/New_York:20260218T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -255,7 +207,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169949
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-217@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260219T190000
 DTEND;TZID=America/New_York:20260219T210000
 SUMMARY:Lavender Line Dancing
@@ -265,7 +217,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169954
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-225@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260219T170000
 DTEND;TZID=America/New_York:20260219T190000
 SUMMARY:What Can We Do About It Here? Session 1
@@ -275,7 +227,7 @@ URL:https://www.novaarts.org/events/whatcanwedo1
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-136@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260220T200000
 DTEND;TZID=America/New_York:20260220T220000
 SUMMARY:The Gaslight Tinkers
@@ -285,7 +237,7 @@ URL:https://stonechurchvt.com#/events/158650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-176@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260220T193000
 DTEND;TZID=America/New_York:20260220T213000
 SUMMARY:Queralt Giralt Soler Trio
@@ -295,7 +247,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168554
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-199@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:What's On
@@ -305,7 +257,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-204@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260220T183000
 DTEND;TZID=America/New_York:20260220T200000
 SUMMARY:THE FLYING ACE w/ Pipe Organ Score by Jeff Rapsis!
@@ -315,7 +267,7 @@ URL:https://www.epsilonspires.org/event-info/the-flying-ace-w-pipe-organ-score-b
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-218@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260220T190000
 DTEND;TZID=America/New_York:20260220T210000
 SUMMARY:Two-Step Night
@@ -325,7 +277,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169955
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-130@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents Party Animals
@@ -336,18 +288,8 @@ For nearly two decades, the Winter Sunshine Series has been a warm beacon during
 URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents-party-animals/?instance_id=5154
 END:VEVENT
 BEGIN:VEVENT
-UID:vt-event-131@things-we-love
-DTSTAMP:20260210T025356Z
-DTSTART;TZID=America/New_York:20260221T100000
-DTEND;TZID=America/New_York:20260221T113000
-SUMMARY:Flying Trapeze All Levels Drop In Class
-LOCATION:Putney\, VT\, Putney
-DESCRIPTION:A bar hanging from two ropes, but 20 feet in the air (don’t worry… there’s a net!) The flyer, holding the bar, jumps from a platform, swings through the air with the option for tricks and poses. Progressions include releasing and re-catching the bar, and being caught by a “catcher” on a second trapeze spaced perfectly across from it. Flyers fall into a net below, dismount, and get ready to fly all over again! NECCA offers drop-in classes for various circus classes throughout the session. Students can reserve their spot ahead of time on our website or show up 15 minutes early to class to register in person. (Note: we cannot guarantee space in the class if you do not pre-register.) Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-8/?instance_id=5178
-URL:https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-8/?instance_id=5178
-END:VEVENT
-BEGIN:VEVENT
 UID:vt-event-137@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260221T200000
 DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:North Mississippi All Stars
@@ -357,7 +299,7 @@ URL:https://stonechurchvt.com#/events/158374
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-219@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260221T190000
 DTEND;TZID=America/New_York:20260221T210000
 SUMMARY:Queer Strip Night
@@ -367,7 +309,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169417
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-226@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260221T190000
 DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:Wolfman Jack Play Primal Dead! 
@@ -385,7 +327,7 @@ URL:https://www.novaarts.org/events/wolfmanjack221
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-138@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260222T190000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Dueling Duets- Coleman Williams + Lightnin' Luke
@@ -395,7 +337,7 @@ URL:https://stonechurchvt.com#/events/159674
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-177@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260222T140000
 DTEND;TZID=America/New_York:20260222T160000
 SUMMARY:The Equivalent Lands
@@ -405,7 +347,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169153
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-205@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260222T183000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Frank Capra's LOST HORIZON (1937)
@@ -415,7 +357,7 @@ URL:https://www.epsilonspires.org/event-info/frank-capras-lost-horizon-1937
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-139@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260225T200000
 DTEND;TZID=America/New_York:20260225T220000
 SUMMARY:SKELETON CREWE
@@ -425,7 +367,7 @@ URL:https://stonechurchvt.com#/events/160254
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-206@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260225T183000
 DTEND;TZID=America/New_York:20260225T210000
 SUMMARY:BRAZIL (1985) w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -435,7 +377,7 @@ URL:https://www.epsilonspires.org/event-info/brazil-1985-w-live-music-by-revenan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-220@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260225T190000
 DTEND;TZID=America/New_York:20260225T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -445,7 +387,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169951
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-140@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260226T200000
 DTEND;TZID=America/New_York:20260226T220000
 SUMMARY:Moviola/Wet Tuna/Animal Piss It's Everywhere
@@ -455,7 +397,7 @@ URL:https://stonechurchvt.com#/events/155759
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-221@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260226T180000
 DTEND;TZID=America/New_York:20260226T200000
 SUMMARY:Jump In! Clown for Stage Session 3
@@ -465,7 +407,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/166128
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-178@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260227T190000
 DTEND;TZID=America/New_York:20260227T210000
 SUMMARY:Johnny Cash! The Man\, His World\, His Music
@@ -475,7 +417,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169539
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-207@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260227T190000
 DTEND;TZID=America/New_York:20260227T230000
 SUMMARY:SHIRAZ: ROMANCE OF INDIA w/ Music Score by Utsav Lal!
@@ -485,7 +427,7 @@ URL:https://www.epsilonspires.org/event-info/shiraz-romance-of-india-w-music-sco
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-141@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260228T200000
 DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:A Band of Brothers
@@ -495,7 +437,7 @@ URL:https://stonechurchvt.com#/events/152452
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-179@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260228T193000
 DTEND;TZID=America/New_York:20260228T213000
 SUMMARY:Corey Harris with Sunny Lowdown
@@ -505,7 +447,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169559
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-227@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260228T190000
 DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:Jonee Earthquake Band w/ Coffin Flop & Phrogs
@@ -523,7 +465,7 @@ URL:https://www.novaarts.org/events/joneeearthquake
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-142@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260305T200000
 DTEND;TZID=America/New_York:20260305T220000
 SUMMARY:Nathan Evans & The Saint PHNX Band
@@ -533,7 +475,7 @@ URL:https://stonechurchvt.com#/events/161469
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-143@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260306T190000
 DTEND;TZID=America/New_York:20260306T210000
 SUMMARY:Sepsiss\, Awaiting Abigail\, Under The Horizon\, Pulsifier
@@ -543,7 +485,7 @@ URL:https://stonechurchvt.com#/events/164287
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-180@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260306T193000
 DTEND;TZID=America/New_York:20260306T213000
 SUMMARY:Kalos plus Dan Houghton & Rachel Clemente
@@ -553,7 +495,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169579
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-144@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260307T200000
 DTEND;TZID=America/New_York:20260307T220000
 SUMMARY:The Slackers
@@ -563,7 +505,7 @@ URL:https://stonechurchvt.com#/events/153480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-208@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260307T183000
 DTEND;TZID=America/New_York:20260307T213000
 SUMMARY:NAKED LUNCH w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -573,7 +515,7 @@ URL:https://www.epsilonspires.org/event-info/naked-lunch-w-live-music-by-revenan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-145@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260311T200000
 DTEND;TZID=America/New_York:20260311T220000
 SUMMARY:Eilen Jewell
@@ -583,7 +525,7 @@ URL:https://stonechurchvt.com#/events/141805
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-181@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260311T190000
 DTEND;TZID=America/New_York:20260311T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -593,7 +535,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169586
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-146@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260312T200000
 DTEND;TZID=America/New_York:20260312T220000
 SUMMARY:Pat Travers
@@ -603,7 +545,7 @@ URL:https://stonechurchvt.com#/events/157888
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-182@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T210000
 SUMMARY:Community Sing-Along
@@ -613,7 +555,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169599
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-209@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T204000
 SUMMARY:MAINTENANCE ARTIST: Documentary w/ Director Q&A
@@ -623,7 +565,7 @@ URL:https://www.epsilonspires.org/event-info/maintenance-artist-documentary-w-di
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-147@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260314T200000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:LEFTöVER CRACK
@@ -633,7 +575,7 @@ URL:https://stonechurchvt.com#/events/161798
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-183@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260314T193000
 DTEND;TZID=America/New_York:20260314T213000
 SUMMARY:Race & Song: A Musical Conversation
@@ -643,7 +585,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169612
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-228@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260314T190000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:Terraces / Sunset Mission
@@ -661,7 +603,7 @@ URL:https://www.novaarts.org/events/terracessunsetmission
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-148@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T210000
 SUMMARY:Moon Walker | Demi the Daredevil |  Sarah and the Safe Word
@@ -671,7 +613,7 @@ URL:https://stonechurchvt.com#/events/164869
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-184@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260320T193000
 DTEND;TZID=America/New_York:20260320T213000
 SUMMARY:Singer/Songwriter Showcase
@@ -681,7 +623,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/170375
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-200@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:February 2026
@@ -691,7 +633,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-210@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T204000
 SUMMARY:PEACHES GOES BANANAS! +Director Q&A!
@@ -701,7 +643,7 @@ URL:https://www.epsilonspires.org/event-info/peaches-goes-bananas-director-q-a
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-229@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T220000
 SUMMARY:The Great Groove Theory / Reckoners
@@ -719,7 +661,7 @@ URL:https://www.novaarts.org/events/greatgroovereckoners
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-149@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260321T200000
 DTEND;TZID=America/New_York:20260321T220000
 SUMMARY:New Planets
@@ -729,7 +671,7 @@ URL:https://stonechurchvt.com#/events/161825
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-150@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260325T200000
 DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:The Cold Stares
@@ -739,7 +681,7 @@ URL:https://stonechurchvt.com#/events/165921
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-151@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260327T200000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Little Lies- Fleetwood Mac Tribute
@@ -749,7 +691,7 @@ URL:https://stonechurchvt.com#/events/155750
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-185@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260327T193000
 DTEND;TZID=America/New_York:20260327T213000
 SUMMARY:Vermont Comedy All Stars Live Stand-up Comedy Showcase!
@@ -759,7 +701,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169619
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-230@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260327T190000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Sean Rowe w/ Simon Gray
@@ -777,7 +719,7 @@ URL:https://www.novaarts.org/events/seanrowe
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-152@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260328T200000
 DTEND;TZID=America/New_York:20260328T220000
 SUMMARY:Bearly Dead
@@ -787,7 +729,7 @@ URL:https://stonechurchvt.com#/events/159705
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-222@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260402T190000
 DTEND;TZID=America/New_York:20260402T210000
 SUMMARY:SARIKA with Alouette Batteau & Olivia Nied
@@ -797,7 +739,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/168675
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-153@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260403T200000
 DTEND;TZID=America/New_York:20260403T220000
 SUMMARY:The Meteors
@@ -807,7 +749,7 @@ URL:https://stonechurchvt.com#/events/161480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-186@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260403T193000
 DTEND;TZID=America/New_York:20260403T213000
 SUMMARY:The Gaslight Tinkers Dance Party
@@ -817,7 +759,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169621
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-154@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260404T200000
 DTEND;TZID=America/New_York:20260404T220000
 SUMMARY:Wild Party/Capital Soiree
@@ -827,7 +769,7 @@ URL:https://stonechurchvt.com#/events/159959
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-187@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260408T190000
 DTEND;TZID=America/New_York:20260408T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -837,7 +779,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169623
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-155@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260410T200000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:Tanya Donelly and Chris Brokaw
@@ -847,7 +789,7 @@ URL:https://stonechurchvt.com#/events/156021
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-156@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260411T200000
 DTEND;TZID=America/New_York:20260411T220000
 SUMMARY:lespecial
@@ -857,7 +799,7 @@ URL:https://stonechurchvt.com#/events/166473
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-188@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260411T193000
 DTEND;TZID=America/New_York:20260411T213000
 SUMMARY:É.T.É
@@ -867,7 +809,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169227
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-157@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260412T190000
 DTEND;TZID=America/New_York:20260412T210000
 SUMMARY:Pallbearer
@@ -877,7 +819,7 @@ URL:https://stonechurchvt.com#/events/157992
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-158@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260417T200000
 DTEND;TZID=America/New_York:20260417T220000
 SUMMARY:The Antlers
@@ -887,7 +829,7 @@ URL:https://stonechurchvt.com#/events/156610
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-189@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260417T193000
 DTEND;TZID=America/New_York:20260417T213000
 SUMMARY:Jake Shulman-Ment
@@ -897,7 +839,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169639
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-159@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260420T190000
 DTEND;TZID=America/New_York:20260420T210000
 SUMMARY:Weedeater + Conan
@@ -907,7 +849,7 @@ URL:https://stonechurchvt.com#/events/160572
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-160@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260423T200000
 DTEND;TZID=America/New_York:20260423T220000
 SUMMARY:Courtney Marie Andrews
@@ -917,7 +859,7 @@ URL:https://stonechurchvt.com#/events/141536
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-161@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260430T200000
 DTEND;TZID=America/New_York:20260430T220000
 SUMMARY:Haley Heynderickx & Max Garcia Conover
@@ -927,7 +869,7 @@ URL:https://stonechurchvt.com#/events/158537
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-211@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260430T190000
 DTEND;TZID=America/New_York:20260430T213000
 SUMMARY:Whitney Johnson - Lia Kohl - Macie Stewart Trio
@@ -937,7 +879,7 @@ URL:https://www.epsilonspires.org/event-info/whitney-johnson-lia-kohl-macie-stew
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-162@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260501T200000
 DTEND;TZID=America/New_York:20260501T220000
 SUMMARY:Juice
@@ -947,7 +889,7 @@ URL:https://stonechurchvt.com#/events/162699
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-163@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260502T200000
 DTEND;TZID=America/New_York:20260502T220000
 SUMMARY:ULTRA SUNN
@@ -957,7 +899,7 @@ URL:https://stonechurchvt.com#/events/139076
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-190@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260508T193000
 DTEND;TZID=America/New_York:20260508T213000
 SUMMARY:Victoria Redel in Conversation with Robin MacArthur
@@ -967,7 +909,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-191@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260513T190000
 DTEND;TZID=America/New_York:20260513T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -977,7 +919,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169686
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-164@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260515T200000
 DTEND;TZID=America/New_York:20260515T220000
 SUMMARY:TAGABOW
@@ -987,7 +929,7 @@ URL:https://stonechurchvt.com#/events/164398
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-231@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260515T160000
 DTEND;TZID=America/New_York:20260515T193000
 SUMMARY:Thing in the Spring Weekend Pass! 
@@ -1005,7 +947,7 @@ URL:https://www.novaarts.org/events/thing2026pass
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-232@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260515T160000
 DTEND;TZID=America/New_York:20260515T223000
 SUMMARY:Thing in the Spring FRIDAY
@@ -1023,7 +965,7 @@ URL:https://www.novaarts.org/events/thing2026friday
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-233@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260516T120000
 DTEND;TZID=America/New_York:20260516T190000
 SUMMARY:Thing in the Spring Saturday
@@ -1041,7 +983,7 @@ URL:https://www.novaarts.org/events/thing2026saturday
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-234@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260516T190000
 DTEND;TZID=America/New_York:20260516T220000
 SUMMARY:Thing in the Spring: Ghostface Killah w/ Sammus at The Colonial Theatre
@@ -1051,7 +993,7 @@ URL:https://www.novaarts.org/events/thingghostface
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-192@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260517T190000
 DTEND;TZID=America/New_York:20260517T210000
 SUMMARY:John Gorka
@@ -1061,7 +1003,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169652
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-235@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260517T120000
 DTEND;TZID=America/New_York:20260517T193000
 SUMMARY:Thing in the Spring Sunday
@@ -1079,7 +1021,7 @@ URL:https://www.novaarts.org/events/thing2026sunday
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-165@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260523T200000
 DTEND;TZID=America/New_York:20260523T220000
 SUMMARY:King Tuff
@@ -1089,7 +1031,7 @@ URL:https://stonechurchvt.com#/events/154304
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-166@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260527T200000
 DTEND;TZID=America/New_York:20260527T220000
 SUMMARY:Oranssi Pazuzu
@@ -1099,7 +1041,7 @@ URL:https://stonechurchvt.com#/events/149483
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-193@things-we-love
-DTSTAMP:20260210T025356Z
+DTSTAMP:20260210T025426Z
 DTSTART;TZID=America/New_York:20260527T100000
 DTEND;TZID=America/New_York:20260527T120000
 SUMMARY:American Red Cross Blood Drive
