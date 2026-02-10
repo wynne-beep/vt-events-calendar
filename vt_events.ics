@@ -5,11 +5,29 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:PutneyHub
 X-WR-CALDESC:Local events in southern Vermont
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:vt-event-122@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260211T180000
-DTEND:20260211T193000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260211T180000
+DTEND;TZID=America/New_York:20260211T193000
 SUMMARY:Flying Trapeze Beginner Drop In Class
 LOCATION:Putney\, VT\, Putney
 DESCRIPTION:A bar hanging from two ropes, but 20 feet in the air (don’t worry… there’s a net!) The flyer, holding the bar, jumps from a platform, swings through the air with the option for tricks and poses. Progressions include releasing and re-catching the bar, and being caught by a “catcher” on a second trapeze spaced perfectly across from it. Flyers fall into a net below, dismount, and get ready to fly all over again! NECCA offers drop-in classes for various circus classes throughout the session. Students can reserve their spot ahead of time on our website or show up 15 minutes early to class to register in person. (Note: we cannot guarantee space in the class if you do not pre-register.) Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/flying-trapeze-beginner-drop-in-class-3/?instance_id=5183
@@ -17,9 +35,9 @@ URL:https://iputney.com/event/flying-trapeze-beginner-drop-in-class-3/?instance_
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-172@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260211T190000
-DTEND:20260211T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260211T190000
+DTEND;TZID=America/New_York:20260211T210000
 SUMMARY:NXT Rockumentary Film Series
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:NXT Rockumentary Film SeriesUtopian rock festival dreams clash with commerce amid legendary 1970 sets.Wednesday, Feb 11Minimum age:All agesShow time:7:00 PMDoors open:6:15 PMNext Stage ArtsRSVPDescription$8 suggested donationJoin us for the next installment of the NXT Rockumentary Film Series, featuring a feature-length documentary that transports audiences to one of the most legendary large-scale music gatherings of the early rock era. Set over several unforgettable days in 1970, the film captures the electrifying live performances, the spirit and idealism of the crowd, and the behind-the-scenes challenges of staging a festival at the height of countercultural momentum. With stunning concert footage and candid moments on and off the stage, this screening offers a vivid portrait of a pivotal moment in music history.Due to licensing restrictions, we’re unable to publicly list the film title. To find out what’s screening, join our mailing list or contact us directly.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/166730
@@ -27,9 +45,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/166730
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-134@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260213T200000
-DTEND:20260213T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260213T200000
+DTEND;TZID=America/New_York:20260213T220000
 SUMMARY:Wicked Game: A Gothic Promenade
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Wicked Game: A Gothic PromenadePresented by Green Mountains of MadnessFriday February 13Minimum age:18 and overShow time:8:00 PMDoors open:7:30 PMStone ChurchTicketsDescription𝕨𝕚𝕔𝕜𝕖𝕕 𝕘𝕒𝕞𝕖 - 𝔞 𝔤𝔬𝔱𝔥𝔦𝔠 𝔭𝔯𝔬𝔪𝔢𝔫𝔞𝔡𝔢:: what a wicked game to play ::// slip into something darker this valentine’s day //Join us for an evening of sinister delights as we transform Stone Church into a gothic dreamland of beauty, intrigue, heartbreak, and darknessFeaturing music on the darker side of sound from Academy Order, Night Protocol, Dutch Experts, The Goat, Clock Serum and Vetica.Waltz with shadows and promenade between pole and burlesque dancers, dark decor, immersive visuals, dramatic lighting, a free photo booth, and a complete rejection of normality.Misfits Encouraged & A Dark Dress Code ExpectedPresented by Green Mountains of Madness\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/157998
@@ -37,9 +55,9 @@ URL:https://stonechurchvt.com#/events/157998
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-173@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260213T173000
-DTEND:20260213T193000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260213T173000
+DTEND;TZID=America/New_York:20260213T193000
 SUMMARY:Putney Community Supper
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Putney Community SupperFriday, Feb 13Minimum age:All agesShow time:5:30 PMDoors open:5:30 PMNext Stage ArtsMore InfoDescriptionAdmission is by donation and All Are Welcome!More info: Simoninvermont@gmail.com or mmrowicki@gmail.com\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/168873
@@ -47,7 +65,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168873
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-124@things-we-love
-DTSTAMP:20260210T012008Z
+DTSTAMP:20260210T012423Z
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents The Baffo Box Show
@@ -60,9 +78,9 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-125@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260214T113000
-DTEND:20260214T130000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260214T113000
+DTEND;TZID=America/New_York:20260214T130000
 SUMMARY:Flying Trapeze All Levels Drop In Class
 LOCATION:Putney\, VT\, Putney
 DESCRIPTION:A bar hanging from two ropes, but 20 feet in the air (don’t worry… there’s a net!) The flyer, holding the bar, jumps from a platform, swings through the air with the option for tricks and poses. Progressions include releasing and re-catching the bar, and being caught by a “catcher” on a second trapeze spaced perfectly across from it. Flyers fall into a net below, dismount, and get ready to fly all over again! NECCA offers drop-in classes for various circus classes throughout the session. Students can reserve their spot ahead of time on our website or show up 15 minutes early to class to register in person. (Note: we cannot guarantee space in the class if you do not pre-register.) Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-10/?instance_id=5180
@@ -70,9 +88,9 @@ URL:https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-10/?instan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-126@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260214T170000
-DTEND:20260214T211500
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260214T170000
+DTEND;TZID=America/New_York:20260214T211500
 SUMMARY:Kids Night Out
 LOCATION:Putney\, VT\, Putney
 DESCRIPTION:Dimly-lit restaurants and talking about school? Boooring. How about a night time hangout with your friends (while making some new ones) at NECCA instead?
@@ -88,9 +106,9 @@ URL:https://iputney.com/event/kids-night-out-2/?instance_id=5190
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-135@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260214T200000
-DTEND:20260214T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260214T200000
+DTEND;TZID=America/New_York:20260214T220000
 SUMMARY:Melt
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:MeltMimi FangSaturday February 14Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescription Pulsing with the energy of their hometown, New York City, ‘If There’s a  Heaven’ (2024) is the debut album from indie band Melt. Hear the band  simultaneously at their most airtight and freewheeling—evoking the raw,  communal spirit of Fleetwood Mac as well as the modern, danceable  hooks of MUNA. Recorded live to tape with producer Sam Evian (Big Thief), the eleven tracks span existential, feel-good pop (“Plant the Garden”), classic love ballads (“Your Name”) and lush, soulful rockers  (“Heaven”). Melt’s debut is a joyous, timeless soundtrack for coming of  age and finding oneself and one’s community. Melt formed in 2017 and cut their teeth touring on the heels of their viral  single “Sour Candy.” Called “one groovy superorganism” by NPR, the  band’s ecstatic live set has led them to supporting slots with a wide  array of artists from Grouplove, Lawrence, My Morning Jacket, and  Grace Potter. Back with their first release since ‘If There’s a Heaven,’ the band’s new  single “Stay for the High” is 2025’s “Yellow”—an early aughts heartbreaker with the edge of a queer rock band.LineupMeltMimi Fang\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/162922
@@ -98,9 +116,9 @@ URL:https://stonechurchvt.com#/events/162922
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-127@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260215T150000
-DTEND:20260215T170000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260215T150000
+DTEND;TZID=America/New_York:20260215T170000
 SUMMARY:Home Land: Paintings by Finn Campman: Opening Reception
 LOCATION:Putney\, VT\, Putney
 DESCRIPTION:Join us for the opening of Home Land, a new exhibition of paintings by Finn Campman. Rooted in place, memory, and presence, Campman’s work explores painting as a way of marking where we are—emotionally and physically—and affirming our connection to the land we inhabit. A Putney School alum and longtime multidisciplinary artist, Campman brings a rich creative history to this deeply personal body of work.
@@ -109,9 +127,9 @@ URL:https://iputney.com/event/home-land-paintings-by-finn-campman-opening-recept
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-174@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260215T150000
-DTEND:20260215T170000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260215T150000
+DTEND;TZID=America/New_York:20260215T170000
 SUMMARY:Home Land: Paintings by Finn Campman
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:NXT GalleryHome Land: Paintings by Finn CampmanOpening ReceptionSunday, Feb 15Minimum age:All agesShow time:3:00 PMDoors open:3:00 PMNext Stage ArtsRSVPDescriptionOpening reception 3:00-5:00pmArtist’s StatementMy process is about the act of reaching out to make sure I know where I am—to check my coordinates, to mark a signpost for my memories—as if to say, “This is where I am now.” My paintings serve as a tether to a place and a time, to a mood or disposition. Through painting, I recognize and affirm the connection I feel to the land. It becomes a kind of rite, a way of assuring myself that I am looking, that I am aware, and that I am part of this place—this Home Land.BiographyFinn Campman is a Putney School alum who studied printmaking, poetry, and literature at Sarah Lawrence College. In 1991, he joined Sandglass Theater and later founded Company of Strangers, whose production Moth and Moon received a UNIMA Citation of Excellence in 1999. He has toured extensively worldwide performing his theater work, created the video component for the Brattleboro Music Center’s production of Divine Chemistry, and presented work at three Puppetry in the Green Mountain festivals. More recently, Finn collaborated as a composer and puppeteer with Bodel Dance Arts on forecasts & findings. He is currently focusing his creative energy on painting and electronic music with his band, The Brothers Chorizo, and has taught English and Art at Hilltop Montessori School for 25 years.This show will remain on exhibit through May 10. The Next Stage Gallery is open during events, and by appointment with the artist or by contacting Next Stage at info@nextstagearts.org or (802) 387-0102.LineupFinn Campman\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/168053
@@ -119,9 +137,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168053
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-128@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260218T180000
-DTEND:20260218T193000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260218T180000
+DTEND;TZID=America/New_York:20260218T193000
 SUMMARY:Flying Trapeze Beginner Drop In Class
 LOCATION:Putney\, VT\, Putney
 DESCRIPTION:A bar hanging from two ropes, but 20 feet in the air (don’t worry… there’s a net!) The flyer, holding the bar, jumps from a platform, swings through the air with the option for tricks and poses. Progressions include releasing and re-catching the bar, and being caught by a “catcher” on a second trapeze spaced perfectly across from it. Flyers fall into a net below, dismount, and get ready to fly all over again! NECCA offers drop-in classes for various circus classes throughout the session. Students can reserve their spot ahead of time on our website or show up 15 minutes early to class to register in person. (Note: we cannot guarantee space in the class if you do not pre-register.) Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/flying-trapeze-beginner-drop-in-class-4/?instance_id=5184
@@ -129,9 +147,9 @@ URL:https://iputney.com/event/flying-trapeze-beginner-drop-in-class-4/?instance_
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-175@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260218T110000
-DTEND:20260218T130000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260218T110000
+DTEND;TZID=America/New_York:20260218T130000
 SUMMARY:Volunteer Income Tax Preparation Assistance (VITA) Program
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:SEVCAVolunteer Income Tax Preparation Assistance (VITA) ProgramWednesday, Feb 18Minimum age:All agesShow time:11:00 AMDoors open:11:00 AMNext Stage ArtsMore InfoDescriptionThe Volunteer Income Tax Assistance (VITA) program has been in existence for 50 years, offering free tax help to people who cannot afford professional assistance. Volunteers come from all backgrounds and undergo a comprehensive training program. Tax preparers must pass annual certifying exams to prove their understanding of relevant tax laws and proficiency of e-filing and tax preparation methods using IRS-approved software. SEVCA also provides assistance to Vermont residents that aren’t required to file a tax return, but need help with their Homestead Declaration, Property Tax Credit Claim, or Renter Credit Claim. We can support you year-round.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/168874
@@ -139,9 +157,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168874
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-136@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260220T200000
-DTEND:20260220T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260220T200000
+DTEND;TZID=America/New_York:20260220T220000
 SUMMARY:The Gaslight Tinkers
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:The Gaslight TinkersLuke ConcannonFriday February 20Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionThe Gaslight Tinkers' mix of global rhythms creates a joyous world beat sound around a core of traditional New England old time and Celtic fiddle music, merging boundless positive energy with melody and song. Drawing from their extensive musical backgrounds in traditional folk, Caribbean, old time, Celtic, and rock, I-Shea, Clara, Garrett, Elie, and Peter craft a sound that brings world traditions togetherLineupThe Gaslight TinkersLuke Concannon\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/158650
@@ -149,9 +167,9 @@ URL:https://stonechurchvt.com#/events/158650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-176@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260220T193000
-DTEND:20260220T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260220T193000
+DTEND;TZID=America/New_York:20260220T213000
 SUMMARY:Queralt Giralt Soler Trio
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Queralt Giralt Soler TrioA lyrical fusion of cello, voice, jazz, and Catalan folkFriday, Feb 20Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$22 Advance / $25 Door / $10 LivestreamCellist, vocalist, and composer Queralt Giralt Soler brings her deeply expressive trio to the stage for an evening of genre-blurring original music and inspired reinterpretations. Blending classical training with Catalan folk traditions, jazz, and contemporary sounds, Giralt Soler weaves cello and voice into a singular, intimate musical language.Based between the U.S. and Catalunya, she has performed internationally and collaborated with renowned artists including Kenny Barron, Joe Lovano, and Latin Grammy winners Las Migas, with performances heard at venues such as Carnegie Hall and the Detroit Jazz Festival. Joined by Mahya Hamedi on piano, percussion, and vocals, and Bahar Badiei on oud and vocals, the trio will present Giralt Soler’s original compositions alongside reimagined works by influential composers such as Hermeto Pascoal and Paco de Lucía—music that is lyrical, adventurous, and deeply personal.Funded in part by the New England States Touring program of the New England Foundation for the Arts, made possible with funding from the National Endowment for the Arts and the six New England state arts agencies.LineupQueralt Giralt Soler\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/168554
@@ -159,7 +177,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168554
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-199@things-we-love
-DTSTAMP:20260210T012008Z
+DTSTAMP:20260210T012423Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:What's On
@@ -169,7 +187,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-130@things-we-love
-DTSTAMP:20260210T012008Z
+DTSTAMP:20260210T012423Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents Party Animals
@@ -181,9 +199,9 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-131@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260221T100000
-DTEND:20260221T113000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260221T100000
+DTEND;TZID=America/New_York:20260221T113000
 SUMMARY:Flying Trapeze All Levels Drop In Class
 LOCATION:Putney\, VT\, Putney
 DESCRIPTION:A bar hanging from two ropes, but 20 feet in the air (don’t worry… there’s a net!) The flyer, holding the bar, jumps from a platform, swings through the air with the option for tricks and poses. Progressions include releasing and re-catching the bar, and being caught by a “catcher” on a second trapeze spaced perfectly across from it. Flyers fall into a net below, dismount, and get ready to fly all over again! NECCA offers drop-in classes for various circus classes throughout the session. Students can reserve their spot ahead of time on our website or show up 15 minutes early to class to register in person. (Note: we cannot guarantee space in the class if you do not pre-register.) Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-8/?instance_id=5178
@@ -191,9 +209,9 @@ URL:https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-8/?instanc
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-137@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260221T200000
-DTEND:20260221T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260221T200000
+DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:North Mississippi All Stars
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:North Mississippi All StarsSaturday February 21Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionNMA started by brother Luther and Cody Dickinson in 1996 as a loose collective of musicians from their North Mississippi home inspired by their father Jim Dickinson as well as neighbors and musical elders of their community; RL Burnside, Junior Kimbrough, Otha Turner and Fred McDowell.Luther’s first national tour was the RL Burnside Ass Pocket of Whiskey tour in 1997, selling out shows in the US and Canada. “Kenny Brown hired me to tour with RL and Cedric and showed me the ropes. That experience blew my mind. Cody and I have been on the road ever since.”NMA began touring in 1998 and over the years the touring lineup has included, Cedric, Duwayne and Garry Burnside, Chris Chew, Berry Oakley Jr, Oteil Burbruidgem  and currently Joey Williams of the Blind Boys of Alabama and Ray Ray Hollowman, guitar player for Eminem and Nee-O. Since their debut album in 2000 and hitting the never ending road, they have shared the stage with countless legends; Phil Lesh, Mavis Staples, Robert Plant, John Hiatt, the Allman Brothers, The Black Crowes, Buddy Guy, Snoop Dogg, and Jon Spencer to name a few, while earning multiple grammy nominations for their experimental albums of they like to call Modern Mississippi Music. LineupNorth Mississippi Allstars\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/158374
@@ -201,9 +219,9 @@ URL:https://stonechurchvt.com#/events/158374
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-138@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260222T190000
-DTEND:20260222T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260222T190000
+DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Dueling Duets- Coleman Williams + Lightnin' Luke
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Dueling Duets- Coleman Williams + Lightnin' LukeSunday February 22Minimum age:All agesShow time:7:00 PMDoors open:6:00 PMStone ChurchTicketsDescriptionJoin us for a special evening of Dueling Duets featuring Coleman Williams IV & Lightnin’ Luke of The Bridge City Sinners!LineupColeman WilliamsLightnin' Luke\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/159674
@@ -211,9 +229,9 @@ URL:https://stonechurchvt.com#/events/159674
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-177@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260222T140000
-DTEND:20260222T160000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260222T140000
+DTEND;TZID=America/New_York:20260222T160000
 SUMMARY:The Equivalent Lands
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Putney Historical SocietyThe Equivalent LandsA filmed play on 18th-century land disputes that shaped VermontSunday, Feb 22Minimum age:All agesShow time:2:00 PMDoors open:1:30 PMNext Stage ArtsRSVPDescription$10 suggested donationThe Putney Historical Society presents a video screening of The Equivalent Lands, a play written by Joe Greenhoe in 1976. The production dramatizes 18th-century land disputes in the Connecticut River Valley—conflicts between New York and New Hampshire that involved early settlers in southeastern Vermont and are often seen as a precursor to the Revolutionary War. Based on documented historical events, the play features characters whose descendants still live in the region today. A $10 donation will be requested at the door to support the work of the Putney Historical Society.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169153
@@ -221,9 +239,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169153
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-139@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260225T200000
-DTEND:20260225T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260225T200000
+DTEND;TZID=America/New_York:20260225T220000
 SUMMARY:SKELETON CREWE
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:SKELETON CREWE ROB BARRACO, BARRY SLESS, STEPHEN INGLIS, PETE SEARS & JAY LANEWednesday February 25Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionSkeleton Crewe invites audiences into an intimate, high-vibe musical journey led by masterful artistry and fearless exploration. Each performance blends original compositions, including many written by Robert Hunter in collaboration with Rob Barraco and with reimagined Grateful Dead favorites and expansive improvisations. Their sound moves effortlessly across genres, weaving traditional Hawaiian influences with psychedelic Americana to create a transportive, one-of-a-kind experience. Skeleton Crewe doesn’t just play a show, they create a musical conversation that feels both timeless and brand new.FEATURING:Rob Barraco - Keyboards & vocals (Dark Star Orchestra, Phil Lesh & Friends, The Dead)Barry Sless - Pedal Steel, electric guitar & vocals (Bobby Weir and Wolf Bros, David Nelson Band, Phil Lesh and Friends, MoonAlice)Stephen Inglis - Slack Key Guitar, electric guitar & vocals (Billy Kreutzmann, Dennis Kamakahi)Pete Sears - Bass (Jefferson Starship, Hot Tuna, Phil Lesh & Friends, David Nelson Band, MoonAlice)Jay Lane - Drums & vocals (Dead & Company, Bobby Weir & Wolf Bros, Ratdog)The worlds of Hawaiian slack key guitar, psychedelic pedal steel, masterful, keyboard, bass & drum work converge as five virtuosos of the jam band scene announce the formation of Skeleton Krewe. Born from a serendipitous collaboration in early 2024, this unique musical collective features Rob Barraco (Dark Star Orchestra, Phil Lesh & Friends, The Dead), Barry Sless (Bobby Weir and Wolf Bros, David Nelson Band, Phil Lesh and Friends), Grammy-nominated Hawaiian slack key guitarist Stephen Inglis (Billy Kreutzmann), Pete Sears (Jefferson Starship, Hot Tuna, Phil Lesh & Friends, David Nelson Band) & Jay Lane (Dead & Company, Bobby Weir & Wolf Bros, Ratdog).The group's formation traces back to January 2024, when Sless and Inglis first joined forces for what was meant to be a one-off performance. The chemistry was immediate and undeniable. The duo's successful California shows caught the attention of keyboard virtuoso Rob Barraco, who joined forces with Inglis during a Dark Star Orchestra show at the Hawaii Theatre in April 2024. The natural musical connection between all three players led to the formation of Skeleton Crewe Trio which in turn led to adding Barry’s longtime musical partners Pete Sears & Jay Lane on bass & drums. This collaboration brings together many musical traditions: Inglis's mastery of Hawaiian slack key guitar (he's a recipient of the prestigious Ki Hōʻalu Legacy Award), Sless's pioneering pedal steel work that has graced stages with Bob Weir and Phil Lesh, Barraco's sophisticated keyboard artistry that earned him a place in The Dead's lineup (an experience that preceded nearly two decades holding the keyboardist chameleon role within Dark Star Orchestra), the dynamic improvisational work of Pete Sears on bass, and the solid improvisational drumming of Jay Lane.Each performance, Skeleton Crewe promises to offer high level artistry hosting an intimate evening of original compositions (many of which were written by Robert Hunter in collaboration with Barraco), Grateful Dead interpretations, and dynamic improvisations that span genres from traditional Hawaiian to psychedelic Americana.FEATURING:Rob Barraco - Keyboards & vocals (Dark Star Orchestra, Phil Lesh & Friends, The Dead)Barry Sless - Pedal Steel, electric guitar & vocals (Bobby Weir and Wolf Bros, David Nelson Band, Phil Lesh and Friends, MoonAlice)Stephen Inglis - Slack Key Guitar, electric guitar & vocals (Billy Kreutzmann, Dennis Kamakahi)Pete Sears - Bass (Jefferson Starship, Hot Tuna, Phil Lesh & Friends, David Nelson Band, MoonAlice)Jay Lane - Drums & vocals (Dead & Company, Bobby Weir & Wolf Bros, Ratdog)LineupSkeleton CreweRob BarracoBarry SlessPete Sears\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/160254
@@ -231,9 +249,9 @@ URL:https://stonechurchvt.com#/events/160254
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-140@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260226T200000
-DTEND:20260226T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260226T200000
+DTEND;TZID=America/New_York:20260226T220000
 SUMMARY:Moviola/Wet Tuna/Animal Piss It's Everywhere
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Moviola/Wet Tuna/Animal Piss It's EverywhereThursday February 26Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionEarthbound. Interstellar overdriving or rooted in terra firma? Both, both. On their 11th album, 30 years down the line, Columbus, Ohio collective Moviola step on with a world-weary stride, holding two thoughts at the same time, containing multitudes, making the most personal, direct, and urgent music of their lives.In between the cracks of the musical Rust Belt, Columbus, Ohio’s Moviola has quietly—FOR 30 YEARS—produced an expansive catalog, with (now) 11 records and countless 7” inch singles, a radio show, and a concert film to their name, spanning everything from 4-track fuzz-pop to hi-fi country soul. With five equal singers and songwriters—the whole is greater than the parts, democratic ideals, fucking Gestalt theory in action. Recording themselves, in studios that they built themselves. Writing and performing fully fleshed concert films. As much prankster art collective as…band. Some parallel universe Midwestern EGOT stuff, right there. A small cadre of supportive labels, writers and fans have followed along for the ride. This August, they return with record #11, Earthbound, their first on Kingston, New York-based Dromedary Records. Started by Jake Housh in 1993 in a duplex near Ohio State, the band, on early 45s and 1994’s Frantic sounded less like their Columbus punk contemporaries, and more like “Neil Young’s noisy nephews” (LA Weekly). Throughout their early career, the group played live shows with kindred bands like Fruitbats, Flaming Lips, Calexico, Califone, Guided By Voices, and many others, yet it was the pursuit of collective learning-by-doing, happy accidents, experimentation and recording in various basement, warehouse, and attic studios that became their primary raison d'être. In quick succession, The Year You Were Born (1997), Glen Echo Autoharp (1998), and The Durable Dream (1999) saw the group cover wide sonic turf, traversing buzzing lo-fi rock, Space Echo® folk, pure pop arrangements, and nooks in between. Split singles were fast and frequent as well, sharing sides with like-minded friends like the Handsome Family, Cobra Verde, Tobin Sprout, Hiss Golden Messenger and Eric’s Trip. Rumors of the Faithful (2001), East of Eager (2004) and Dead Knowledge (2007) came next, and found the band growing in sound and scope. A singles compilation Broken Horses (2008), Scrape and Cuss (2019), Broken Rainbows (2022) bring us up to the release of Earthbound. As has been the unique blueprint for how they approach music-making, Earthbound contains multitudes: shared songwriting from each member of the group, at times lush, at others coarse, yet the result has a singular “Moviola-ness” about it all, occupying its own headspace. Recorded in Columbus, Brooklyn, and Brattleboro, it’s the most realized, succinct and least ambiguous effort of their career. Five separate voices, coming off as one, a band of brothers, no time for mincing words. Can a group be hitting its stride 30 years in? It seems so. Listen in.LineupMoviolaWet TunaAnimal Piss, It's Everywhere\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/155759
@@ -241,9 +259,9 @@ URL:https://stonechurchvt.com#/events/155759
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-178@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260227T190000
-DTEND:20260227T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260227T190000
+DTEND;TZID=America/New_York:20260227T210000
 SUMMARY:Johnny Cash! The Man\, His World\, His Music
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Johnny Cash! The Man, His World, His MusicAn intimate cinéma vérité portrait of Johnny Cash, onstage and off.Friday, Feb 27Minimum age:All agesShow time:7:00 PMDoors open:6:15 PMNext Stage ArtsTicketsDescription$10 General AdmissionRobert Elfstrom, 1h 34mProduced in 1968, this film comes from early in the career of local filmmaker Alan Dater, who served as the film’s sound recordist. It follows Johnny Cash on the road and in concert with the Carter Family, the Statler Brothers, and Carl Perkins. The film includes rare footage of Cash recording with Bob Dylan at Columbia Studios, where they work together on several songs.The filmmakers also spent time with Cash and June Carter at their home in Hendersonville, Tennessee, as well as with Cash’s parents and children in California. The film returns with Cash to his childhood hometown in Arkansas and features a moving sequence filmed at the Rosebud Reservation in South Dakota and at the site of the Wounded Knee Massacre.Alan Dater will be present at the screening to introduce the film and take part in a discussion afterward. Prior to the screening, a short video interview with the film’s director, Bob Elfstrom, will be shown, discussing the making of the film.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169539
@@ -251,9 +269,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169539
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-141@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260228T200000
-DTEND:20260228T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260228T200000
+DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:A Band of Brothers
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:A Band of BrothersSaturday February 28Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionA Band of Brothers return for another blistering night of Allman Brothers classics!\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/152452
@@ -261,9 +279,9 @@ URL:https://stonechurchvt.com#/events/152452
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-179@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260228T193000
-DTEND:20260228T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260228T193000
+DTEND;TZID=America/New_York:20260228T213000
 SUMMARY:Corey Harris with Sunny Lowdown
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Corey Harris with Sunny LowdownAn evening of acoustic bluesSaturday, Feb 28Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$22 Advance / $26 Door / $10 LivestreamCorey Harris is a guitarist, vocalist, songwriter, and bandleader who has carved out a singular place in contemporary blues. Since beginning his career as a New Orleans street singer, Harris has toured extensively throughout North America, Europe, Brazil, the Caribbean, West Africa, Asia, Australia, and New Zealand.In his early twenties, Harris lived in Cameroon, West Africa for a year—an experience that profoundly shaped his musical voice. Deeply rooted in blues tradition, his work expands the genre by weaving in elements of reggae, soul, rock, and West African music. His 1995 album Between Midnight and Day paid homage to acoustic blues traditions, while more than a dozen subsequent releases chart his evolution from interpreter to visionary songwriter.Harris has performed and recorded with an extraordinary range of artists, including B.B. King, Taj Mahal, Buddy Guy, R.L. Burnside, Dave Matthews Band, Tracy Chapman, Wilco, and Natalie Merchant. In 2003, he was featured as artist and narrator in Martin Scorsese’s film Feel Like Going Home, which traced the blues’ journey from West Africa to the American South.In recognition of his innovative and eclectic work, Harris received a MacArthur Fellowship (“Genius Grant”) in 2007, the same year he was awarded an honorary Doctor of Music degree from Bates College. With one foot firmly in tradition and the other in bold experimentation, Corey Harris remains a truly distinctive voice in modern music.Sunny Lowdown is a master of slide guitar, known for deep grooves, slow-burning blues, and a raw, hypnotic sound steeped in tradition. His career began early—at just sixteen, he played his first professional gig backing John Lee Hooker—and has since included collaborations with blues legends such as Hubert Sumlin, Pinetop Perkins, Otis Rush, George “Wild Child” Butler, R.L. Burnside, and Cedell Davis.Lowdown’s 2018 release Down Loaded earned a Blues Blast Music Award nomination, and in 2019 he won the Vermont Blues Challenge, advancing to the International Blues Challenge in Memphis. Whether playing electric or acoustic guitar, Sunny’s approach is understated and powerful—his strength lies in tone, phrasing, and feel rather than flash.This concert is co-sponsored by the Vermont Blues Society.  The Vermont Blues Society is a 501c3 non-profit dedicated to preserving the heritage of blues music through concerts, workshops and education, enhancing opportunities for Vermont-based blues musicians, and insuring that the future of this uniquely American art form is alive and well in Vermont. Website: https://www.vermontbluessociety.orgFacebook:https://www.facebook.com/VermontBluesSocietyLineupCorey HarrisSunny Lowdown\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169559
@@ -271,9 +289,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169559
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-142@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260305T200000
-DTEND:20260305T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260305T200000
+DTEND;TZID=America/New_York:20260305T220000
 SUMMARY:Nathan Evans & The Saint PHNX Band
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Nathan Evans & The Saint PHNX BandThursday March 5Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionNathan Evans made serious waves in 2021 with his debut single, “Wellerman”, a reimagining of a traditional sea shanty. The track became a global viral phenomenon, amassing just shy of 1 billion streams on Spotify alone and topping the UK Singles Chart. Since that breakout moment, Nathan has carved out a sonic of his own, blending Scottish folk with pop. His debut album, 1994, showcased his growth as an artist and established Nathan as one of Scotland’s most exciting new voices. The album reached #1 on the Scottish Albums Chart and #2 on the UK Folk Albums Chart. Lead single, “Heather On The Hill” became a fan favourite, achieving over 75 million streams.2025 has been a standout year for Nathan’s live career. He performed to 25,000 fans on a sold out UK & EU tour, and in October he will be stepping onto the biggest stage of his career yet: his first headline arena show at Glasgow’s OVO Hydro Arena, with all 14,000 tickets selling out in minutes. Nathan has been collaborating with Glaswegian duo SAINT PHNX, co-writing, performing live, and now making and releasing records together.LineupNathan EvansSaint PHNX\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/161469
@@ -281,9 +299,9 @@ URL:https://stonechurchvt.com#/events/161469
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-143@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260306T190000
-DTEND:20260306T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260306T190000
+DTEND;TZID=America/New_York:20260306T210000
 SUMMARY:Sepsiss\, Awaiting Abigail\, Under The Horizon\, Pulsifier
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Sepsiss, Awaiting Abigail, Under The Horizon, Pulsifier GRRRLS To The Front Graduation ShowFriday March 6Minimum age:All agesShow time:7:00 PMDoors open:6:30 PMStone ChurchTicketsDescription2026 Grrrls to the Front Graduation Show!Join us as our new GTTF sound production class graduates run the show!FeaturingSepsissAwaiting AbigailUnder The HorizonPulsifierLineupAwaiting AbigailUNDER THE HORIZONPulsifierSepsiss\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/164287
@@ -291,9 +309,9 @@ URL:https://stonechurchvt.com#/events/164287
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-180@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260306T193000
-DTEND:20260306T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260306T193000
+DTEND;TZID=America/New_York:20260306T213000
 SUMMARY:Kalos plus Dan Houghton & Rachel Clemente
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Twilight MusicKalos plus Dan Houghton & Rachel ClementeHigh-energy trad folk with pipes, fiddle, guitars, and fearless twistsFriday, Mar 6Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$22 Advance / $25 Door / $10 LivestreamKalos is a trio of innovative interpreters and composers of Celtic roots music: Eric McDonald, Ryan McKasson, and Jeremiah McLane. Masters of tradition, they purposefully explore its shadowed edges, delivering music of striking complexity, spontaneity, and joyful exuberance. Their sound sets a high bar for traditional repertoire, driven by a pulsing rhythmic energy and deep artistic integrity.Each member brings a remarkably diverse musical background. Eric studied jazz and bluegrass mandolin at the Berklee College of Music before finding his voice on DADGAD guitar. Ryan holds a degree in viola performance and is among the youngest musicians ever to win the U.S. National Scottish Fiddle Championship. Jeremiah, raised with Scottish roots, has studied Indonesian gamelan, West African drumming, and the works of minimalist composers Steve Reich and Philip Glass; his award-winning compositions have also been featured in film.Kalos is a band made for the stage—live performance is their heart and strength. Their close musical partnership, rooted in long-standing friendships, comes alive through an engaging and playful stage presence. Drawing from Celtic, Breton, American, and other traditions, Kalos forges a bold and contemporary path on accordion, guitar, fiddle, and vocals.While firmly rooted in the rich traditions of Scottish music, harpist Rachel Clemente and piper Dan Houghton bring a gritty, avant-garde edge that places them at the forefront of New England’s Celtic folk scene. Both are avid composers, and their repertoire blends original works with traditional melodies. Clemente was crowned U.S. National Scottish Harp Champion in 2016 and earned a bachelor’s degree in traditional Scottish music from the Royal Conservatoire of Scotland in Glasgow in 2018.Houghton, a Scottish piper, flautist, and DADGAD guitarist, has won numerous competitions, including the Scottish Lowland and Border Pipers’ Society “Open Borderpipes” and “New Composition” events, as well as the St. Chartier “Maître de Cornemuse.” He has toured and taught extensively across Britain, Europe, Ireland, America, Asia, and the Antipodes, performing both as a soloist and with ensembles such as Cantrip, the salsa-fusion band Salsa Celtica, Parcel of Rogues, the Celtic rock band Prydein, and Piper’s Den.LineupKalosDan ClementeRachel Clemente\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169579
@@ -301,9 +319,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169579
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-144@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260307T200000
-DTEND:20260307T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260307T200000
+DTEND;TZID=America/New_York:20260307T220000
 SUMMARY:The Slackers
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:The SlackersThe AttractorsSaturday March 7Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionThe Slackers have been called “the sound of New York” by the New York Times. They were described by Brooklyn Vegan as a “clean mix of ska, reggae, and soul that gets dirtied up by Vic Ruggiero’s tough New York accent.” Decades into their run, The Washington Post noted that the Slackers “remain at the top of their game.”  Since forming in 1991, the Slackers have released 16 albums, 5 EPs, and countless singles. They have performed thousands of energetic concerts for their global fanbase and remain unstoppably prolific.  In their 2025 releases on Pirates Press Records, the EP “Money is King,” an indictment of the powerful as only the Slackers can do, went straight to the top 25 of the Submodern Reports album list. Their single “My Last Star” was a tribute to Hepcat's Greg Lee, fulfilling the final creative vision of the late singer.  The 11-track compilation “Lost and Found Vol.2” had a surprise boogaloo breakout streaming hit with “Diskambobulated.” Their April 2022 album, “Don’t Let the Sunlight Fool Ya,” was the Slackers’ first charting record and qualified the sextet as a Billboard “new artist” – 30-plus years into their career! The power of the Slackers is nothing new to their fans, which number over 150K on social and thousands more via their direct-to-fan newsletter.  The Slackers regularly perform at clubs and festivals around the world. They’ve sold out multiple curated "slackfests" in London, Chicago, Austin, and Anaheim, as well as "5 days in LA" and their "5 boro tour" of New York CityBrooklyn’s Attractors bring Early Jamaican & American Jazz-influenced music smooshed together & delivered in a bite size packageLineupThe SlackersThe Attactors\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/153480
@@ -311,9 +329,9 @@ URL:https://stonechurchvt.com#/events/153480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-145@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260311T200000
-DTEND:20260311T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260311T200000
+DTEND;TZID=America/New_York:20260311T220000
 SUMMARY:Eilen Jewell
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Eilen JewellWednesday March 11Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionHailed by American Songwriter as “one of America’s most intriguing, creative, and idiosyncratic voices,” Eilen Jewell rises from the ashes on her captivating new album, Get Behind The Wheel, picking up the pieces of her shattered world and finding new purpose and meaning after watching her marriage, her band, and what felt like her entire career fall apart in a series of spectacular, heartbreaking implosions. Co-produced by multi-instrumental wizard Will Kimbrough (Todd Snider, Hayes Carll), the collection pushes the acclaimed singer and songwriter’s trademark blend of vintage roots-noir into more psychedelic territory, with spacious, cinematic arrangements complementing her revelatory explorations of grief, loss, resilience, and redemption. An Idaho native, Jewell built her career the old fashioned way, touring relentlessly with the kind of undeniable live show that converts the uninitiated into instant acolytes. Over the course of nine albums, she’s crisscrossed the globe countless times and shared bills with the likes of Lucinda Williams, Loretta Lynn, Mavis Staples, Wanda Jackson, George Jones, and Emmylou Harris. Rolling Stone lauded Jewell’s “clever writing,” while NPR declared that she has a “sweet and clear voice with a killer instinct lurking beneath the shiny surface,” and The Washington Post mused that “if Neko Case, Madeleine Peyroux and Billie Holiday had a baby girl who grew up to front a rockabilly band, she’d probably sound a lot like Eilen Jewell.”LineupEilen Jewell\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/141805
@@ -321,9 +339,9 @@ URL:https://stonechurchvt.com#/events/141805
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-181@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260311T190000
-DTEND:20260311T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260311T190000
+DTEND;TZID=America/New_York:20260311T210000
 SUMMARY:NXT Rockumentary Film Series
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:NXT Rockumentary Film SeriesA raw concert documentary capturing a music scene in motion.Wednesday, Mar 11Minimum age:All agesShow time:7:00 PMDoors open:6:15 PMNext Stage ArtsRSVPDescription$8 suggested donationJoin us for the next installment of the NXT Rockumentary Film SeriesThis high-energy concert documentary drops viewers into a restless moment in music history, capturing one live performance after another from a wide range of touring acts. The result is loose, loud, and unpredictable—less a polished showcase than a raw snapshot of a scene in motion. From tense, provocative moments to playful bursts of pop energy, the film offers rare glimpses of artists who didn’t always make it into the history books, alongside performers on the verge of much wider recognition.Due to licensing restrictions, we’re unable to publicly list the film title. To find out what’s screening, join our mailing list or contact us directly.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169586
@@ -331,9 +349,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169586
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-146@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260312T200000
-DTEND:20260312T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260312T200000
+DTEND;TZID=America/New_York:20260312T220000
 SUMMARY:Pat Travers
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Pat TraversThursday March 12Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionPat Travers was born and raised in Toronto, Ontario. Soon after picking up the guitar at age 12, he saw Jimi Hendrix perform in Ottawa. Travers began playing in bands early in his teens; his first bands were the Music Machine (not to be confused with the Californian psychedelic/garage band of the same name), Red Hot, and Merge, which played in clubs in the Quebec area.While performing with Merge, he was noticed by rock artist Ronnie Hawkins, who invited Travers to perform with him. In his early twenties Travers moved to London and signed a recording contract with the Polydor label.[2] His self-titled debut album was released in 1976, and featured bassist Peter “Mars” Cowling, who would become a mainstay in Travers’ band for several years.[2] An appearance on the German TV show Rockpalast in November 1976 was later released on DVD under the title Hooked on Music. This performance showcases an early version of Travers’ band featuring Cowling and drummer.During 1977, Travers added a second guitarist to his band, changed drummers twice including using Clive Edwards, and by the time Heat in the Street was released in 1978 had put together the Pat Travers Band.[2] This grouping featured Travers on vocals and guitar, Pat Thrall on guitar, Cowling on bass, and Tommy Aldridge on drums and percussion.[2] The band toured heavily, also supporting Rush on their Drive til You Die tour in support of A Farewell to Kings.The guitar Travers most often appeared with on stage and on album covers in the band’s early years was a 1964/65 model double cutaway, double [humbucker] pickup Gibson Melody Maker.The band’s next release was a live album entitled Live! Go for What You Know, which charted in the Top 40 in the United States and included the tune “Boom Boom (Out Go The Lights)” (originally recorded by Little Walter, credited to Stan Lewis), which climbed even higher on the charts, entering the Top 20. “Snortin’ Whiskey” was a major American radio hit from 1980’s Crash and Burn.After an appearance before 35,000 people at the Reading Music Festival in England, both Thrall and Aldridge announced they were leaving the band to pursue other projects.[2] Travers and Cowling teamed up with drummer Sandy Gennaro and released Radio Active[2] that same year.A co-headlining tour with Rainbow followed, and the two bands performed in major arenas across North America. Although the tour was Travers’ most successful road outing, the Radio Active album barely made it into the Top 40, reaching only number 37.It was much different than Travers’ previous work, with more emphasis on keyboards than heavy guitars. Disappointed with the lack of sales, Polydor dropped Travers from their roster, and he in turn sued the record company on grounds that he was under contract with them to record more material. He won the lawsuit, and was able to release Black Pearl in 1982.This release also featured more mainstream music rather than the hard-driving rock Travers had recorded earlier, and included the hit single “I La La La Love You”, featured prominently on mainstream Top 40 and album oriented rock stations, and in the 1983 movie Valley Girl. Hot Shot was Travers’ last major label release of original music, and was a return to a harder-edge style of rock than his previous two albums had been. One of Travers’ best-recorded projects, it went basically unnoticed and is best remembered for the single “Killer”. It was during this time that Travers also released Just Another Killer Day, a 30-minute home video featuring music from Hot Shot that was a sci-fi type short story about sexy alien women searching for information on music here on earth. In 1984, Travers was again supporting Rush. Alex Lifeson is one of Travers’ many admirers.After Hot Shot’s release in 1984, Polydor made plans to issue a greatest hits package, and then ended their relationship with Travers.By 1990, he had gained a deal with a small European label and released School of Hard Knocks.The project was completely ignored by radio. A full-length concert video Boom Boom – Live at the Diamond Club 1990 was shot in Toronto to be released in audio version as CD Boom Boom next year, but Travers was still not able to return to the success he had ten years earlier, working only on indie labels, as with Lemon Recordings.Shortly after, Travers signed a deal with American-based Blues Bureau International Records, a company formed by noted producer Mike Varney. Travers’ first recording for the label was Blues Tracks released in 1992. It earned positive reviews from critics. Several more releases on the BBI label followed during the 1990s. In 1993, Travers parted company with both Jerry Riggs and Peter “Mars” Cowling, and Riggs was briefly replaced by former Foghat guitarist Erik Cartwright. The relationship was brief, and Travers has worked with a variety of musicians since that time.Travers has not been able to regain the level of commercial success he once had, despite a large and loyal fan base who call themselves “Hammer Heads”. He tours regularly in the U.S. and has made several trips to Europe in the last decade as well. In 2001 he was part of the “Voices of Classic Rock” tour, and had a minor hit with Leslie West from the band Mountain called “Rock Forever”. In 2004 he started a project with the veteran drummer Carmine Appice and started touring the U.S.; as of now there are 3 albums released. Travers recorded cover tunes from bands such as Led Zeppelin, Montrose, Queen, and Trapeze under the album name P.T. Power Trio 2, and they toured Europe in November 2006.Travers has lived in central Florida for several years, and is now married with two children. Travers is also a Black Belt in the style of Isshin Ryu Karate, and currently trains with 10 time World Champion, Mike Reeves Sensei in Apopka, Florida.From 2008-2016, was one of the longest/most consistent line ups for Pat Travers Band. Joining Pat was Kirk McKim (2006-2015)(Guitar/Vocals), Sean Shannon (2008-2010)(Drums), followed by Sandy Gennaro (2010-2016), and Rodney O’Quinn (2007-2016)(Bass/Vocals) Viewed as the “Must See Line up” for all die hard PTB fans, they never disappointed! From the smoking appearance on Bob Coburn’s Rockline Radio show, to the Moondance Jam show that aired on Direct TV’s “Audience” channel. The Pat Travers Band put out the album “Fidelis” in late 2009.In July 2013, The Pat Travers Band put out new album “CAN DO” released by Frontiers Records, a major label based in Italy for numerous artists in the field of classic rock. The CAN DO album was supported by PTB tours of the U.S., the U.K., and Europe during the later half of 2013. In January 2015, Frontiers Records released Pat Travers Band Live at the Iridium NYC, recorded in February 2012, which showed how deadly this line up was. Also featured Jon Paris playing blues harp on “If I Had Possession Over Judgment Day” and “Spoonful”.Travers sang on Boston metal band Extreme’s “Get the Funk Out” on their 1990 album Pornograffitti. Paul Gilbert has referred to Travers as a “guitar god”[6], and Kirk Hammett of Metallica has cited him as one of his favorite guitar players. Vito Bratta White Lion has stated Pat Travers is an influence to his soloing.The Pat Travers Band (PTB) currently consists of Pat Travers (guitars, vocals, keyboards), drummer Alex Petrosky and David Pastorius (bass/vocals) who have been together for the last several years, and recorded two studio albums together.LineupPat Travers Band\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/157888
@@ -341,9 +359,9 @@ URL:https://stonechurchvt.com#/events/157888
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-182@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260313T190000
-DTEND:20260313T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260313T190000
+DTEND;TZID=America/New_York:20260313T210000
 SUMMARY:Community Sing-Along
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Community Sing-Alongwith Rich GrumbineFriday, Mar 13Minimum age:All agesShow time:7:00 PMDoors open:6:45 PMNext Stage ArtsRSVPDescriptionJoin us after the September Putney Community Supper for an evening of joyful singing in the main performance space.Led by guitarist and song leader Rich Grumbine, this community sing-along invites everyone to take turns choosing favorites from a digital songbook of 100+ well-loved tunes. Lyrics will be projected on a big screen, so all can sing along with ease. Expect songs from many traditions—folk, golden oldies, gospel, Beatles, classic pop and rock, children’s songs, and show tunes.The event is free, open to all, and accessible to people with disabilities.For more information, contact Rich Grumbine at richgrumbine1@gmail.com or Next Stage Arts at info@nextstagearts.org.Next Stage Arts15 Kimball HillPutney, VT 05346www.nextstagearts.org\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169599
@@ -351,9 +369,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169599
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-147@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260314T200000
-DTEND:20260314T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260314T200000
+DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:LEFTöVER CRACK
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:LEFTöVER CRACKPilfersSaturday March 14Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionLeftöver Crack is an American punk rock band formed in 1998 following the breakup of its predecessor Choking Victim, sharing band members Stza Crack & Alec Baillie until Alec’s tragic death in November of 2021. The band has created the new record label RECIDIVIST BIBLE CAMP & Is co-releasing a 7” single with Austria’s SBAM records featuring the new song “White Guilt Atrocity Quilt” accompanied by a major motion music video. The song is also slated to be included on the as yet untitled 4th full length album from this New York City based Punk Band. The B side to this new single is an unreleased track from the 2014 “Constructs of the State” record titled “Brad Sabbath”, featuring the classic Leftöver Crack line-up of Stza, Baillie, Brad Logan, Donny Morris & Chris Mann with the more recent addition of singer Tibbie X, formerly of the NYC bands X-Possibles & Kissy Kamikaze as well as the Philly based band GASH. Along with this new single, Leftöver Crack are also in the works of reissuing all of their previous albums, with the exception of “Mediocre Generica” (which remains on Hellcat/Epitaph Records) through the partnership of RECIDIVIST & SBAM. Leftöver Crack’s current line-up consists of Scott Sturgeon aka Stza Crack (vocals, guitar, synth), Tibbie X (vocals, synth), Jon Yi (guitar, vocals) Skunk Chellovek of the LA band Informal Society (guitar, vocals), Marc Cody (bass, vocals) & Ethan Nickles (drums). Leftöver Crack has both defied genre pigeon-holing while creating the “Crack Rock Steady” musical genre (along with LöC predecessors Choking Victim & No Commercial Value) which mixes anarcho-punk with ska, hardcore, garage, crust-punk & the gloriously unholy metal trifecta of thrash, doom & death. All of this & many other styles are combined with grating crust-punk vocals delivered with a snotty snarling attitude by a multitude of genders & an endless list of vocal & musical inspirations including vastly contrasting musics from top 40 pop from the last 50 Years, to 90’s hip hop, early 80’s goth, late 80’s “alternative”, indie rock & most styles in between & outside of every box. The lyrical content is mostly political & of a radical leftist nature, opposing religion, capitalism, authority & prejudice. Members of Leftöver Crack’s band & crew traditionally reside at the infamous C-Squat near Tompkins square park in the Lower East Side of New York City. Band members have had a well-known history of back-and-forth conflict with the NYPD which precedes the band's formation. The name "Leftöver Crack" is explained by Stza as being "an oxymoron", based on the idea that crack cocaine addicts are known for vigorous use, and are unlikely to have any "leftover"(s). Leftover Crack’s band members & Collaborators have been in a plethora of other bands both punk & otherwise with recognizable names such as: Suicidal Tendencies, The Coup, Dead Milkmen, Nausea, The Beastie Boys, Reagan Youth, Dwarves, Skarp, F-Minus, D.R.I., Bouncing Souls, Dead Kennedy’s, Crass, NOFX, Riverboat Gamblers, Big Black, Street-Sweeper Social Club, The Adolescents, Star Fucking Hipsters, DayCare Swindlers, the Distillers, Phobia, The Hold Steady, Lard, X-Possibles, Operation Ivy, Band of Horses, MDC,No Commercial Value,John Cougar Mellencamp, World/Inferno Friendship Society, Classics of Love, Scoflaws, Total Chaos, Henry Thugsworth & the Severinator, Hepcat, Lagwagon,& many many others…After a long hiatus the Crack Rock Steady Beat Drums on with Leftöver Crack back for their first real new release since 2015 as well as their 4th full length album to be released this fall. Look for Leftöver Crack on tour all over the states, at several of the Punk in the Park festivals this year along with the 25th year of Punk Rock Bowling & then in Europe & fir their first time in Istanbul, South America & hopefully Asia.Pilfers, the iconic band hailing from the heart of New York City, is making waves in the music industry as their legendary album "Chawalaleng" sees the light of day once again after a quarter of a century. Sony Music, recognizing the timeless appeal of Pilfers' music, has officially re-released "Chawalaleng" on all major streaming platforms.This monumental event marks a rare occurrence for a small band, putting Pilfers in the esteemed company of musical legends like Bob Marley, Michael Jackson, and Elvis Presley. The re-release is a testament to the enduring quality and cultural significance of Pilfers' music, which continues to resonate with fans across generations.In celebration of this historic moment, Pilfers has announced a series of live shows scheduled for September, featuring the original members of the band. Fans can expect a nostalgic journey through the band's illustrious career, with performances that capture the energy and spirit of their early days.Adding to the excitement, there are strong rumors circulating within the music community that Pilfers is gearing up to return to the studio. The prospect of new material has sparked anticipation among fans, as the band is known for their genre-blending sound and socially conscious lyrics. If these rumors hold true, it would mark a significant chapter in Pilfers' musical journey.  Formed in 1997 with members of several bands in NYC. Lead Singer Coolie Ranx is known for his role in GTA IV as little Jacob and the former lead singer of New York City’s legendary band The Toaster. Vinny Nobile known for his Trombone and vocal style hails from Boston legendary band Bim Skala Bim. The Rhythm section ,James Blanck on the drums and Anna Milat Meyer on bass also hails from NYC band Skinnerbox. Guitar of Thunder Nicholas Bacon Together they seamlessly combine Hardcore, Punk, SKA, Dancehall, Reggae and dub to create a genre they  dubbed “Raggacore”LineupLeftöver CrackPilfers\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/161798
@@ -361,9 +379,9 @@ URL:https://stonechurchvt.com#/events/161798
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-183@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260314T193000
-DTEND:20260314T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260314T193000
+DTEND;TZID=America/New_York:20260314T213000
 SUMMARY:Race & Song: A Musical Conversation
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Opening Doors ProjectRace & Song: A Musical Conversationwith Pamela Means & Alastair MoockSaturday, Mar 14Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$20 Advance / $25 Door / $10 LivestreamJoin Opening Doors artists Pamela Means and Alastair Moock for an all-ages performance of "Race and Song: A Musical Conversation" at Next Stage Arts in Putney, VT.Pamela Means has been compared to Tracy Chapman, Ani DiFranco, a cross between Suzanne Vega and Jimi Hendrix, and an heir to the legacy of Nina Simone. She's “one of the fiercest guitar players and politically-rooted musicians in the industry today" (Curve Magazine), who has worn a hole in two of her guitars with her "insanely brilliant" (Press Herald, Portland ME) playing and “stark, defiant songs.” (New York Times). Alastair Moock is an award-winning singer-songwriter, GRAMMY-nominated family musician, social justice and songwriting educator, and co-founder of The Opening Doors Project. The Boston Globe calls Alastair “one of the town’s best and most adventurous songwriters.” The Washington Post says “every song is a gem.”LineupOpening Doors ProjectPamela MeansAlastair Moock\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169612
@@ -371,9 +389,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169612
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-148@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260320T190000
-DTEND:20260320T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260320T190000
+DTEND;TZID=America/New_York:20260320T210000
 SUMMARY:Moon Walker | Demi the Daredevil |  Sarah and the Safe Word
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Moon Walker | Demi the Daredevil |  Sarah and the Safe Word Moon Walker's Wasteland Country TourFriday March 20Minimum age:All agesShow time:7:00 PMDoors open:6:00 PMStone ChurchTicketsDescription In under 5 years, independent Brooklyn-based indie rocker, Moon Walker, has amassed over 100 million streams, sold out shows across America, and developed a loyal and enthusiastic fanbase. He has performed and toured with such artists as Tool, Primus, Coheed and Cambria, Fishbone and Will Wood. His next album “WASTELAND COUNTRY” is due out in the spring, less than a year after the release of his breakthrough fourth album “Is This The World You Wanted?” Demi the Daredevil writes dark theatrical alt-pop for the underdog: music for the weird kids, the overthinkers, and anyone trying to stay human in a world that loves numbness. In addition to influences spanning rock/emo legends like Queen, Green Day, The Used, and My Chemical Romance, Demi also draws upon the imaginative story-telling whimsy of greats like Tim Burton and Edgar Allan Poe to build a fantasy-tinged universe that’s equal parts catharsis and refuge. Demi has toured across the U.S., shared stages with SkyDxddy, TX2, Capstan, Jhariah, Confetti, Van Full of Nuns, WesGhost, Hotel Mira, and RudyWade. He's grown an impressive community resulting in over 20 Million Spotify streams, and 1,000+ fan art pieces, with features including Emo Nite, BuzzFeed, Relix, and The Punk Rock Museum  Sarah and the Safe Word is a cabaret rock band born in Atlanta. Fronted by vocalist Sarah Rose and co-founded with guitarist Kienan Dietrich, the band has built a storytelling world filled with undead pirates, demon racecar drivers, and vampire rodeo sweethearts. With Beth Ballinger on keys and Maddox Reksten on bass, the group delivers their signature blend of energy and theatrical flair across a sonic tapestry of strings, horns, and cinematic soundscapes. Their early work quickly drew industry attention, with Alternative Press hailing their first label release as “a contender for Debut of the Year” and Warped Tour founder Kevin Lyman personally inviting them to join the legendary tour’s 2017 run. Their flair for spectacle later earned them a cameo in the universe of The CW’s The Vampire Diaries, bringing their dark theatricality to the screen. Over the last ten years, Sarah and the Safe Word have cultivated a fiercely loyal community by doing what they do best: crafting big tales, holding space for queer joy, and turning every show into a celebratory ritual for the strange and spectacular. In 2026 and beyond, the band continues to evolve. Come along, the show is about to begin LineupMoon WalkerDemi the DaredevilSarah and the Safe Word\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/164869
@@ -381,9 +399,9 @@ URL:https://stonechurchvt.com#/events/164869
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-184@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260320T193000
-DTEND:20260320T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260320T193000
+DTEND;TZID=America/New_York:20260320T213000
 SUMMARY:Singer/Songwriter Showcase
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Twilight MusicSinger/Songwriter Showcasewith Andrea von Kampen plus Early Risers, Jake Klar, and Lizzy MandellFriday, Mar 20Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$22 Advance / $25 At the Door / $10 LivestreamEarly Risers, Jake Klar, and Lizzy Mandell will open the evening with a special in-the-round set, leading into Andrea von Kampen’s debut performance at Next Stage.Hailing from Nebraska’s Great Plains, Andrea von Kampen is a singer-songwriter celebrated for her introspective storytelling and captivating melodies. She has shared the stage with Watchhouse, Punch Brothers, The Wood Brothers, and Anaïs Mitchell’s Bonny Light Horseman; released three studio albums; and performed at the Newport Folk Festival and Rocky Mountain Folks Festival. Her headlining tours across North America and Europe have helped her reach a global audience, amassing more than 55 million Spotify streams. In 2022, Andrea made her acting debut in the independent film A Chance Encounter, starring in the film and writing and recording its soundtrack. This fall, she will release a powerful protest EP—an urgent collection of songs confronting resurgent hateful rhetoric in American politics and calling for justice and solidarity.Early Risers craft rootsy, lyric-driven songs marked by close vocal harmonies and rich, varied instrumentation, including banjo, guitar, mandolin, piano, and shruti box. After pursuing solo careers, Ashley and Putnam joined forces in 2015 and have since toured widely across the U.S. and Canada. Their debut album, Making Life Sweet, reached #1 on the Folk DJ Charts, with four songs landing in the top ten.Blending rhythm and groove with grit and honesty, Jake Klar brings a modern Americana sound that weaves rock and pop influences into folk sincerity. His music transforms simple tunes into emotionally resonant stories that linger long after the last note.Lizzy Mandell has released two albums: Made for Flying, which won Times Argus/Rutland Herald Tammie Awards for Best Singer/Songwriter and Best Album in 2012, and To the Moon (2025), created in partnership with fellow Vermonter and multi-instrumentalist, producer, and vocalist Colin McCaffrey.LineupAndrea von KampenEarly RisersJake KlarLizzy Mandell\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/170375
@@ -391,7 +409,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/170375
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-200@things-we-love
-DTSTAMP:20260210T012008Z
+DTSTAMP:20260210T012423Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:February 2026
@@ -401,9 +419,9 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-149@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260321T200000
-DTEND:20260321T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260321T200000
+DTEND;TZID=America/New_York:20260321T220000
 SUMMARY:New Planets
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:New PlanetsSaturday March 21Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionOther-Worldly, Party Music of the Past, Present, and Future, New Planets features an ever-changing lineup of singers and musicians. By combining diverse sonic stories and viewpoints, the group has gained fame for producing dance music that transcends borders and genres.LineupNew Planets\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/161825
@@ -411,9 +429,9 @@ URL:https://stonechurchvt.com#/events/161825
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-150@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260325T200000
-DTEND:20260325T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260325T200000
+DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:The Cold Stares
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:The Cold StaresWednesday March 25Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionThe Cold Stares are just fine with being one of the few modern blues-rock power trios in the world today. Based out of Evansville, Indiana, The Cold Stares continue to explore what it means to be a “modern” blues-rock trio on their upcoming album Texas—paying tribute to the state where so many of their influences like ZZ Top and the Vaughan brothers called home.Initially formed in 2012, The Cold Stares began their career as a duo, but expanded their sonic firepower with the addition of bassist Bryce Klueh in 2022. Fuzzed-out guitars, classic rock guitar riffs, and fleet-fingered Cream-style improvisations abound, as do nods to Delta blues and an emphasis on songwriting and lyricism. The group has been praised by Classic Rock Magazine, No Depression, and American Songwriter, among other outlets; they reached #1 on Amazon Music’s Blues Rock album chart; ant they’ve had consecutive albums in Billboard Blues top ten charts.The Cold Stares have earned prime sync license placements in commercials with Dodge and Chevy among others, had songs on hit television shows like Animal Kingdom and Sex Education,  and have become a staple on many video games including Cyberpunk 2077 and UFL.LineupThe Cold Stares\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/165921
@@ -421,9 +439,9 @@ URL:https://stonechurchvt.com#/events/165921
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-151@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260327T200000
-DTEND:20260327T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260327T200000
+DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Little Lies- Fleetwood Mac Tribute
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Little Lies- Fleetwood Mac TributeFriday March 27Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionLittle Lies is a touring, high-energy tribute band that captures the youthful spirit and classic sound of one of the most popular bands in the world, Fleetwood Mac.      Hailing from Boston, this eight person lineup of professional musicians carefully reconstructs the magic of Fleetwood Mac with soaring harmonies and a thundering rhythm section. Presenting a compelling show that has consistently sold out theatres across New England and the Tri-State region over the last two years.    The entire catalogue of Fleetwood Mac’s 50 year tenure with Stevie Nicks and Lyndsey Buckingham is passionately recreated with breezy summer hits like “Dreams”, “Go Your Own Way” and “Say You Love Me”. The preceding formative years of Fleetwood Mac are also authentically represented with favorites like Bob Welch’s “Sentimental Lady” and founding member Peter Green’s “Black Magic Woman”.    Come dance the night away and sing along to some of the most memorable music in rock history and join Little Lies: A Tribute to Fleetwood Mac for an evening of romance, drama and of course Rumours!Website: www.LittleLiesTribute.comFacebook: https://www.facebook.com/LittleLiesATributetoFleetwoodMacInstagram: https://www.instagram.com/littleliestribute/\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/155750
@@ -431,9 +449,9 @@ URL:https://stonechurchvt.com#/events/155750
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-185@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260327T193000
-DTEND:20260327T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260327T193000
+DTEND;TZID=America/New_York:20260327T213000
 SUMMARY:Vermont Comedy All Stars Live Stand-up Comedy Showcase!
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Vermont Comedy All Stars Live Stand-up Comedy Showcase!Friday, Mar 27Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$12 Advance / $15 DoorGordon Clark and his Vermont Comedy All Stars return for an unforgettable night of stand-up comedy.Gordon Clark, the show’s producer and host, is the director of the nonprofit Vermont Comedy All Stars, which produces stand-up comedy shows throughout the state. Since launching the organization in 2020, he has produced more than 100 comedy events, including multi-year runs at the late, iconic Nectar’s in Burlington, the Bent Nails Bistro in Montpelier, the Zen Barn in Waterbury, and Next Stage Arts in Putney. Gordon is also the oldest regularly performing comedian in Vermont—and sometimes it sure feels that way. He lives in Burlington with his wife, cat, and dog.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169619
@@ -441,9 +459,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169619
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-152@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260328T200000
-DTEND:20260328T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260328T200000
+DTEND;TZID=America/New_York:20260328T220000
 SUMMARY:Bearly Dead
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Bearly DeadSaturday March 28Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionDead & more like never before! Bearly Dead, a nationally-touring Grateful Dead tribute, is a true party band delivering a full-spectrum live experience filled with danceable energy, extraordinary performance antics, and world-class musicianship. The band's concert-style show celebrates the journey of the Grateful Dead from their earliest records until their final tours while weaving in potent classics from notable jam, rock, and funk artists. Each and every Grateful Dead member is honored through unique takes on the hits, b-sides, and deep cuts. Holding true to the spirit of the music, Bearly Dead frequently adds to their 250+ song catalog and continues to showcase spontaneous improvisation and exploratory jams – live and in-person – making each show a wildly cosmic experience you do not want to miss!LineupBearly Dead\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/159705
@@ -451,9 +469,9 @@ URL:https://stonechurchvt.com#/events/159705
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-153@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260403T200000
-DTEND:20260403T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260403T200000
+DTEND;TZID=America/New_York:20260403T220000
 SUMMARY:The Meteors
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:The MeteorsSlob DropFriday April 3Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionTHE METEORS started thirty years ago as a reaction against the soft rockabilly that was popular at that time, and they have now evolved to become the acknowledged "Kings of Psychobilly". Their audience has continually expanded, and includes not just psychobillies, but everybody from rockabillies and punks, to bikers, and most alternatives. They are the original creators of Psychobilly Music, and although they have spawned hundreds of imitations, THE METEORS are proud to be the only pure Psychobilly band ever. Their songs are inspired by their personal experiences and interests; Horror, Perversion, and Death in general. They list their hobbies as motorbikes, rock’n’roll, and burying the living; amongst their heroes are Michael Myers, Charles Manson and Mark Chapman the man who shot John Lennon. They have now made no less than 40 official albums, and countless singles, not to mention dozens of compilations and re-issues. Many were made in their own recording studio, "In Heaven" a fully working pro studio used by 100’s of bands including some very famous household names and lead-man PAUL FENECH has also released six successful solo albums. (They have also featured in many films and numerous TV shows) Worldwide sales have increased steadily over the years, and they have toured almost continuously to support these releases. Their live show is wild and addictive, (they have done it over thousands of times in fact this year passing their four thousand five hundredth) and has been seen in just about every country in the world, including Japan, several tours of America, and every major city in Europe and Scandinavia even spending a sell out week in Israel, Everybody is welcome at THE METEORS show, and the band make a point that THE METEORS Live is a political or religious free zone. People should come to enjoy the music, and to wreck if they are brave enough! It's wild and sweaty, but nobody gets seriously hurt. They are supported by a flourishing fan base, with thousands of supporters worldwide, who are kept in touch by the website www.kingsofpsychobilly.com which is updated daily with tours, band news and new merchandise, and there are several internet web sites devoted to them. And they receive daily e-mail from fans from the 4 corners of the earth. Although there have been line-up changes over the years, (PAUL FENECH being the only original member) the search for the perfect combination is now over. THE METEORS are a known name, experienced, professional working band, with an established audience. Their most recent release is "Hell Train Rollin’" from 2009.Whatever you do, don’t forget Only THE METEORS Are Pure PsychobillyLineupThe MeteorsSLOB DROP\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/161480
@@ -461,9 +479,9 @@ URL:https://stonechurchvt.com#/events/161480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-186@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260403T193000
-DTEND:20260403T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260403T193000
+DTEND;TZID=America/New_York:20260403T213000
 SUMMARY:The Gaslight Tinkers Dance Party
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:The Gaslight Tinkers Dance PartyThe genre-bending future of the music of the past. Friday, Apr 3Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$22 Advance / $25 Door / $10 LivestreamAfrican, Caribbean, funk, reggae, and Latin grooves collide with traditional fiddle music in a bold, genre-bending vision of the future of the past.The Gaslight Tinkers fuse global rhythms with a core of New England old-time and Celtic fiddle traditions, creating a joyously danceable sound fueled by melody, song, and boundless positive energy. Since forming in 2012, the band has lit up stages across the East Coast, West Coast, and Caribbean, headlining clubs, dances, and major festivals.Described by The Valley Advocate as “music that consistently fizzes and pops with unexpected textures and turns,” Gaslight Tinkers shows deliver delightful surprises, elated crowds, and exuberant musicianship. The sound and energy of I-Shea, Clara, Garrett, Elie, and Peter are universally irresistible.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169621
@@ -471,9 +489,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169621
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-154@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260404T200000
-DTEND:20260404T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260404T200000
+DTEND;TZID=America/New_York:20260404T220000
 SUMMARY:Wild Party/Capital Soiree
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Wild Party/Capital SoireeSaturday April 4Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionPlaying what they call “face-melting pop music” that mixes chunky guitars with subtle electronics and proud dance beats, Wild Party are a band from San Antonio, Texas whose music sounds more like the work of New York hipsters than folks from the Lone Star State. Wild Party were formed by lead singer Lincoln Kreifels and guitarist Lucas Hughes in 2009; the two had been friends since junior high, and while Hughes had played in local bands before, Wild Party marked Kreifels’ first time singing with a group. The two originally launched Wild Party as a recording project, putting songs on tape and then posting them online, but when a 2010 single caught the attention of British new wave revivalists the Wombats, Wild Party were invited to tour with them in the U.K. The overseas tour proved to be too much, too soon, and Wild Party took a hiatus of nearly two years before they re-formed with a new lineup, featuring Ethan Kaufmann on bass and Jake Kreifels (Lincoln’s brother) on drums.The new edition of the group put a greater emphasis on playing live, but they still focused much of their energy on recording, and in 2013 they released their album Phantom Pop as a digital download via iTunes. As the song “When I Get Older” gained buzz thanks to a music video, the album cracked the iTunes Top 100 Downloads chart, and in 2014 the album was reissued in physical form by the indie label Old Friends Records. By this time, Cary LaScala had replaced Jake Kreifels as the group’s drummer (LaScala also designs and markets a line of shirts for skinny guys, worn by Beck and Rivers Cuomo), and Wild Party were spending considerably more time on the road as their popularity grew.Wild Party is available for corporate events, private shows, milestone celebrations (birthday, anniversary), fundraisers, festivals, and moreband forever, band in loveCapital Soiree is an indie pop band from Chicago consisting of four brothers.* Starting as a childhood trio between best friends James Kourafas (vocals/guitar), Max Romero (bass), and Steven Rejdukowski (guitar), the band has grown from basement practices to playing some of the most acclaimed stages in Chicago; all while maintaining the enthusiasm of some neighborhood kids with a dream.With the addition of Dean Sinclair (drums), Capital Soiree’s latest EP, Reruns, demonstrates the band at their most current: a bit melancholic, weathered by change, and nostalgic for the past but still hopeful for the future.*not actually related but still in loveLineupWild PartyCapital Soiree\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/159959
@@ -481,9 +499,9 @@ URL:https://stonechurchvt.com#/events/159959
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-187@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260408T190000
-DTEND:20260408T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260408T190000
+DTEND;TZID=America/New_York:20260408T210000
 SUMMARY:NXT Rockumentary Film Series
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:NXT Rockumentary Film SeriesA moving documentary on the struggles and triumphs of an outsider musician.Wednesday, Apr 8Minimum age:All agesShow time:7:00 PMDoors open:6:15 PMNext Stage ArtsRSVPDescription$8 suggested donationJoin us for the next installment of the NXT Rockumentary Film Series. A poignant and unflinching look at an outsider musician, this documentary explores the beauty and vulnerability of his art alongside the challenges he faces in daily life. Thoughtful and compassionate, it examines the complex relationship between creativity, mental health, and those who love and support him, offering a moving portrait that lingers long after the music ends.Due to licensing restrictions, we’re unable to publicly list the film title. To find out what’s screening, join our mailing list or contact us directly.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169623
@@ -491,9 +509,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169623
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-155@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260410T200000
-DTEND:20260410T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260410T200000
+DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:Tanya Donelly and Chris Brokaw
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Tanya Donelly and Chris BrokawMadrigals and GuitarFriday April 10Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionTwo of Boston’s most influential and enduring voices have joined forces for a bold new project. Tanya Donelly—co-founder of Belly, Throwing Muses, and The Breeders—and Chris Brokaw, guitarist/singer for the legendary Come and longtime collaborator with Codeine, Thurston Moore, and The Lemonheads, have come together to reimagine the centuries-old form of medieval music for the modern era.Their forthcoming EP The Undone is Done Again (Fire Records, 2026) set for release in early 2026, offers a collection of modern interpretations of medieval music, built on the intimate interplay of Donelly’s luminous vocals and Brokaw’s intricate, atmospheric guitar work. The result is music that feels both ancient and immediate—haunting, beautiful, and defiantly new.Both artists bring decades of experience shaping alternative and indie rock history. Donelly’s unmistakable voice and songwriting have inspired generations, while Brokaw’s genre-spanning guitar work has pushed boundaries in rock, folk, and experimental music. Together, they create a duo project that is at once stark and lush, rooted and forward-looking, bridging Renaissance tradition with contemporary songcraft.Following the EP’s release, the pair will embark on a series of live concerts, bringing their unique collaboration to some unique spaces across North America, Europe, and beyond. Audiences can expect intimate, mesmerizing performances of the madrigals, where two artists at the height of their powers explore uncharted musical territory, and also will perform songs from their unique solo histories.Tanya Donelly: vocalsChris Brokaw: guitars“Having always been a big fan of all of Chris Brokaw’s music, bands, and projects, I asked him if he and I might team up to play a song or two for our mutual friend Hilken Mancini’s annual holiday event last year. He had the unusual and very cool idea to perform a medieval carol, in Latin, something far outside of anything I’d done before. We quickly synced up in practice, and I was (as usual) blown away by Chris’s gorgeous, trancy guitar. (His playing on this project reminds me somehow of throat-singing.) As it felt very natural to be playing this music together, we decided to work up a few more of these traditional pieces. We are very happy that Fire Records will be releasing this EP in April ’26, and we’re planning some shows for the Spring as well.” ~Tanya Donelly“In December 2024, Tanya asked me if I’d collaborate with her at a local (Boston) holiday benefit show we’ve both participated in for several years. I’d been listening to the Norwegian vocal group ‘Medieval Trio” and kind of on a lark suggested that we perform a medieval Christmas piece. Tanya quickly agreed, we did a little research, and arrived at the song ‘In Hoc Anni Circulo”. I invited her over, she started singing, I started playing electric guitar, and – I felt like we immediately came upon a new language, sound, dialect. It sounded more like Bedouin music to me than anything particularly ‘Christian’, or much like anything we were ostensibly drawing from. I found it really exciting, and suggested we pursue it further. We worked up another 3 pieces and decided that these 4 would be a complete statement. We went in the studio with David Minehan engineering and mixing in April 2025, finished it all in July. I’ve always loved Tanya’s music but her singing here is, I think, on an entirely new level. She’s amazing and I’m really proud + excited about this work.”  – Chris Brokaw, August 2025.LineupTanya DonellyChris Brokaw\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/156021
@@ -501,9 +519,9 @@ URL:https://stonechurchvt.com#/events/156021
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-156@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260411T200000
-DTEND:20260411T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260411T200000
+DTEND;TZID=America/New_York:20260411T220000
 SUMMARY:lespecial
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:lespecialSaturday April 11Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionlespecial is redefining the term “power trio”. The multi-instrumentalists from Connecticut continue to push the boundaries of what a three-piece band is capable of both live and in the studio ahead of their latest album, “Odd Times”. The band’s signature blend of “heavy futuregroove” combines head-banging metal riffage and surgical rhythmic precision with bone shaking808s, sub synths and ethereal vocal stylings for a dance floor that welcomes moshing, dancing and hip swaying alike. Listeners are taken on a journey to the musical netherworld through esoteric soundscapes punctuated by raw, primal power.Odd Times, lespecial’s darkest and heaviest record to date, is an enigmatic and compelling musical project that explores the ever-changing nature of time amidst isolation. With heavy riffs, tribal drumming, and hints of levity, it's a captivating journey crafted in collaboration with Havok's David Sanchez. An intriguing blend of old-school metal and modern djent-inspired riffage awaits in this haunting sonic experience.LineupLespecial\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/166473
@@ -511,9 +529,9 @@ URL:https://stonechurchvt.com#/events/166473
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-188@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260411T193000
-DTEND:20260411T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260411T193000
+DTEND;TZID=America/New_York:20260411T213000
 SUMMARY:É.T.É
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Twilight MusicÉ.T.ÉQuébécois trad reimagined with groove, harmony, and onstage magic.Saturday, Apr 11Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$22 Advance / $25 Door / $10 LivestreamÉ.T.É brings a fresh, contemporary vision to Québécois trad music. Violinist Élisabeth Moquin, bouzouki player Thierry Clouette, and cellist Élisabeth Giroux blend jazz, progressive rock, and classical influences to craft original compositions and inventive arrangements of Québécois and Acadian repertoire. Their rich vocal harmonies, infectious groove, and onstage chemistry transform every kitchen party into an unforgettable show. Since their 2017 debut Le bois des midnights, they’ve earned multiple awards—including OPUS “Discovery of the Year,” the Linda Lemay Award, and a GAMIQ “Lucien”—and toured across Canada, the U.S., Scotland, Belgium, and Australia. Their latest album, Sur ces eaux, was released in November 2022.Sponsored in part by Délégation du Québec à Boston.LineupÉ.T.É\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169227
@@ -521,9 +539,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169227
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-157@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260412T190000
-DTEND:20260412T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260412T190000
+DTEND;TZID=America/New_York:20260412T210000
 SUMMARY:Pallbearer
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:PallbearerKnollSunday April 12Minimum age:All agesShow time:7:00 PMDoors open:6:00 PMStone ChurchTicketsDescriptionPallbearer’s Foundations of Burden (2025 Redux) is a meticulous sonic reconstruction of their transformative, landmark 2014 album. The newly remixed and remastered version arrives digitally on Nov. 7, with physical editions (2xLP and CD) available on Dec. 5.“During the writing and preparation for Foundations, everything was ephemeral and we were practically feral,” recalls bassist/vocalist Joseph D. Rowland. “We had no real practice space, we barely had a single working computer between the four of us. Our demos of the record consisted of something barely discernible from white noise. Nevertheless, we knew we were working towards building a set of songs we were deeply enthusiastic about.Once in the thick of recording, the feeling went from dream to dreamlike very quickly, as we found ourselves in what felt like an endless churn of repetition. We slept at the studio on whatever soft surfaces we could find, waking each day to discover that some of the previous day’s work had been corrupted overnight. This resulted in some parts of the album being recorded many times over. The guitars in particular mutated into something Sisyphean.”Rowland continues, “Since the time that we finally committed the original version of Foundations to print, we knew it would be a sonic space we would eventually revisit. Its form did not unfold according to the original version as the numerous file corruptions, delays, and exhausted studio budget compounded into a final feverish push to finish the mix. We were relieved to get those massive and difficult mixes turned into finished songs just in time, but not without a nagging thought; we had to sacrifice much of the nuance we had spent so much time crafting.”More than a decade later, Pallbearer seized the opportunity to revisit the record from the ground up. Over the past year, the band meticulously reconstructed the album from the original sessions.“In the time since then, we have played most of the songs from Foundations more times than we can count, and they remain some of our favorites,” Rowland continues. “The songs have grown with us. And while we hold a deep love and attachment to what we created in 2014, we also gained a fuller understanding of how we would want to re-present them if we had a chance. After years of discussion, listening and learning, we found ourselves in the position to fulfill that vision.”Foundations of Burden (2025 Redux) features new mixes and mastering, plus new artwork featuring a painting by Benjamin Vierling. The six-song, 55-minute collection is produced by Pallbearer, mixed by Mario Quintero (Spotlights), and mastered by Adam Gonsalves.In celebration of the 2025 Redux edition of their landmark album Pallbearer will be playing select shows performing Foundations of Burden in full.LineupPallbearerKnoll\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/157992
@@ -531,9 +549,9 @@ URL:https://stonechurchvt.com#/events/157992
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-158@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260417T200000
-DTEND:20260417T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260417T200000
+DTEND;TZID=America/New_York:20260417T220000
 SUMMARY:The Antlers
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:The Antlerswith special guest TōthFriday April 17Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionThe follow-up to 2021’s rustic, folk-tinged Green to Gold, Blight asks many questions without offering easy answers. Over the course of nine new songs, the Antlers’ founder and primary songwriter Silberman reckons with our passively destructive tendencies – absentminded pollution, unwitting wastefulness, and the inadvertent devastation of the natural world. But despite its heavy themes, Blight is far from a punishing listen. With its adventurous arrangements and persistent momentum, it plays more like an iridescent odyssey.The album was recorded over the course of a few years, with the lion’s share tracked and produced in Silberman’s home studio in upstate New York, a compact outbuilding perched at the edge of a neighbor’s sprawling hayfield.“So much of the record was conceived while walking these massive fields,” he says. “I felt like I was wandering around an abandoned planet.”And in a sense, Blight does feel like science fiction, sounding as if it were delivered from the near future. The album is a work of meticulous world-building, teeming with ear candy and surprising stylistic shifts. While many songs begin with sparse elements— a fingerpicked guitar, hypnotic organ stabs, or a nimble piano melody — they rarely remain tethered to their foundations. They often reimagine themselves partway through, shifting mid-track from gentle ballad to throbbing electronica, only to land somewhere entirely different by the end.Silberman has been confronting weighty matters ever since The Antlers’ 2009 breakthrough Hospice, an unrelentingly heavy concept album about a child cancer patient and her caregiver that addressed psychological abuse and post-traumatic stress with explicit detail and unflinching vulnerability, resonating equally with those grieving loved ones and rocky relationships. The album’s ambitious sonics— an unlikely amalgam of intimate folk confessionals, haunted soundscapes, and sky-scraping post-rock— belied its modest origins: Hospice was mostly recorded alone in Silberman’s Brooklyn bedroom, with an economy of equipment and hardly any expectant audience. The surprise popularity of Hospice placed the Antlers on a rapid ascent, touring globally, playing major festivals, and supporting such luminaries as The National and Explosions in the Sky.The music that followed grew The Antlers’ sizable following while resisting the impulse to rehash their initial success. The electronic pop of 2011’s Burst Apart, the aquatic psychedelia of 2012’s Undersea EP, and the brass-laden soul of 2014’s Familiars all embraced the band’s ingenuity while simultaneously subverting expectations, expanding the band’s emotional palette beyond the morose rage and desperation that characterized Hospice to reveal a playful expansiveness. The Antlers further pushed the boundaries as a live entity, trading the lush orchestration of their ambitious recordings for wall-of-sound maximalism and thunderous dynamics.Sadly, Silberman was forced to scale back after an unexpected hearing incident left him temporarily deaf in one ear and hypersensitive to sound. Putting The Antlers on pause, he made 2017’s Impermanence, a meditative and minimal solo album, pairing his then-fragile voice with gentle guitar and an abundance of silence. After regaining his hearing and recovering from vocal cord surgery, Silberman and longtime drummer Michael Lerner revived The Antlers for 2021’s Green to Gold, a collection of songs notably devoid of the darkness that characterized the band’s previous work.Following Green to Gold, Silberman honed his collaborative chops, including co-producing Wild Pink’s critically-acclaimed breakout ILYSM. Shortly thereafter, he released the debut album from Cowboy Sadness, his instrumental band with David Moore (Bing & Ruth) and Nicholas Principe (Port St. Willow).During these intervening years between Antlers albums, Silberman and Lerner kept busy as well, releasing a series of free-standing singles unified by The Antlers’ gift for acid-dipped timbres, shape-shifting production, and impressionistic imagery.“These singles were metaphysical songs about connection with nature, which in turn put me in touch with all the ways that nature is under threat,” he says. “The smell of wildfire smoke on a sunny afternoon, the sound of chainsaws on a hike through the woods — these contradictions became impossible to ignore.”Whereas The Antlers have previously dealt in extended metaphors, Blight now takes a more direct approach. In “Calamity,” for instance, Silberman asks point-blank: “Who will look after what we leave behind?” The final and perhaps fundamental question posed by Blight appears in the penultimate track, the tragically relevant futuristic hymnal  “A Great Flood”, in which he wonders: “Will we be forgiven should there come a great flood to drown out our decisions?” This question hangs in the air unanswered. Blight invites listeners to consider it for themselves, as if the survival of the natural world is in their hands, slowly slipping through their fingertips. Brooklyn-based songwriter and trumpet player Tōth (Alex Toth of Rubblebucket) will return with his third album – And The Voice Said – on February 27, 2026 (Northern Spy//Egghunt Records). Tōth is known for his emotionally direct songwriting, magnetic stage presence and trumpet playing. His forthcoming album was co-produced by Grammy nominated artist Caroline Rose and features Kimbra. This record finds Toth fully blossomed as both a singer and a songwriter with his most potent music yet. LineupThe AntlersTōth\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/156610
@@ -541,9 +559,9 @@ URL:https://stonechurchvt.com#/events/156610
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-189@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260417T193000
-DTEND:20260417T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260417T193000
+DTEND;TZID=America/New_York:20260417T213000
 SUMMARY:Jake Shulman-Ment
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Jake Shulman-MentFierce klezmer violinist blending tradition, improvisation, and global soundsFriday, Apr 17Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$20 Advance / $25 Door / $10 Livestream"One of the finest klezmer fiddlers on the planet." — NPRJake Shulman-Ment is a leading voice in contemporary klezmer, a violinist and composer who bridges centuries of tradition with bold, boundary-pushing performance. He tours and records internationally as a soloist and with Midwood, Daniel Kahn, Abigale Reisman, and others. Known for his fierce improvisations, rich tone, and unflinching virtuosity, Jake moves effortlessly from haunting laments to foot-stomping celebrations.He has performed with Di Naye Kapelye, Joey Weisenberg, Frank London, and Duncan Sheik at venues and festivals worldwide, including Central Park SummerStage, Lincoln Center, Kennedy Center, Rudolstadt, Budapest Palace of the Arts, and the Krakow Jewish Culture Festival. Jake has appeared in Csaba Bereczki’s documentary Soul Exodus, and on screen in HBO’s Succession and Martin Scorsese’s The Irishman. A Fulbright scholar, he studied and documented traditional music in Romania and trained in violin styles across Hungary and Greece. In 2018, he received the prestigious NYSCA/NYFA Fellowship in Folk/Traditional Arts. His debut solo album, A Redele (A Wheel) (Oriente Musik, 2012), was nominated for the German Record Critics’ Award.Based in Brooklyn, NY, Jake collaborates on projects that bridge genres and cultures, moving fluidly between global traditions and local connections, showing that music can be both deeply rooted and endlessly expansive.LineupJake Shulman-Ment\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169639
@@ -551,9 +569,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169639
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-159@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260420T190000
-DTEND:20260420T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260420T190000
+DTEND;TZID=America/New_York:20260420T210000
 SUMMARY:Weedeater + Conan
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Weedeater + ConanMonday April 20Minimum age:All agesShow time:7:00 PMDoors open:6:00 PMStone ChurchTicketsDescriptionWEEDEATER are Southern sludge legends—slow, loud, and unapologetically filthy. Born in North Carolina, fueled by distortion, whiskey, and riffs that hit like a cinder block to the chest. No frills. No mercy. Just volume.Hear the roar of battle. Smell the stench of spilled blood. A thousand heads piled high like a grim mound of suffering. England’s doom metal masters CONAN strike back again!Following their much acclaimed 2018 full-length, Existential Void Guardian, and their Live at Freak Valley record released just last year, the trio is gearing up for the release of their fifth studio album, entitled Evidence of Immortality, due out on August 19, 2022 via Napalm Records.From colossal opening track 'A Cleaved Head No Longer Plots', CONAN’s upcoming magnum opus will overrun you like a steamroller. The British kings of brutally heavy slowness put their down-tuned pedals to the limit, crushing ears and minds when huge, rumbling chords and riff beasts muscle their way in over lances of infinite distortion.On tracks such as 'Levitation Hoax', CONAN showcases their trademark sound combined with uptempo, fierce riffage, and a pounding, impulsive groove in epic Caveman battle doom grandeur, before the song drags you into a safe, deep black hole.Second album single, 'Righteous Alliance', emphasizes that CONAN are the masters of their craft, while Jon Davis spits his lyrics over the uber-synchronized power chord changes and tempo shifts of the anti-holy trio of bass, drums and guitar.Evidence of Immortality was recorded and mixed by Chris Fielding, was mastered by James Plotkin, and also sees former band member Dave Perry performing on 'Grief Sequence'. Bow down and hail CONAN, as their sound will live immortal on the battlefield of doom, and their new album will be the ultimate Evidence of Immortality! LineupWeedeaterConan\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/160572
@@ -561,9 +579,9 @@ URL:https://stonechurchvt.com#/events/160572
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-160@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260423T200000
-DTEND:20260423T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260423T200000
+DTEND;TZID=America/New_York:20260423T220000
 SUMMARY:Courtney Marie Andrews
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Courtney Marie AndrewsMaia FriedmanThursday April 23Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionValentine is “a record in pursuit of love,” says Courtney Marie Andrews. But love, it turns out, “is a lot more than I gave it credit for,” she explains. “It’s built over years, it’s built with trust, with changes, it becomes something new and unrecognizable, the deeper you go.” Written at the junction of intense endings and beginnings in her life, Valentine demands more of those we love and reveals a stronger, wiser, and more clear-eyed Courtney Marie Andrews in the process. It is both lush and elemental, precise in its construction but rich with sonic and lyrical layers. In love and on Valentine, there is no quarter for empty gestures.From her very first recordings, to her 2016’s breakthrough Honest Life, to 2020’s Grammy- nominated Old Flowers and her most recent Loose Future, Andrews has been celebrated as an artist who challenges herself, and who finds new interplays of Folk and Americana. “As a songwriter you can make the same record over and over again,” Andrews says, “and I’m notinterested in that. I make records to stand alone and stand apart from each other.” Co-produced with Jerry Bernhardt and recorded almost entirely to tape, Valentine features complete in-studio performances, hinging on performance rather than perfection. “We thought a lot about Lee Hazlewood, about Big Star’s Third and Fleetwood Mac’s Tusk” says Andrews, and that constellation of stars is apparent here. Valentine feels elegant, disciplined and balanced but never cold, always vulnerable and human.“I was in one of the darkest periods of my life, and songs were the only way I could reckon with it,” says Andrews. “I felt cursed, and the only mental cure felt like songwriting and painting.” The near-death of a loved one loomed over everything, and while that person eventually recovered from both sickness and psychosis, Andrews was more sure that death was coming than recovery. Her grief was acute, volatile. The decline coincided with a new romance, but rather than lift her up, the two emotional poles seemed to bleed into each other to sow doubt, trouble, even obsession. “I was grappling with what I felt sure was death, and with the end of that relationship,” Andrews explains, “while I was also grappling with something new but quiteunstable. Here was this new relationship evolving alongside the collapse of another.”The result was what Andrews describes as limerence, but a somehow empowered limerence: consuming and fierce, piled high with insecurity and fantasy, and filling every inch of a space she feared was hollowing out. It was painful, she says, and not far off from the pain of grief. But through her own exploration of music and art, Andrews found a way to grow stronger inside this feeling. “I didn’t want to slink into my pain, I wanted to embrace it, own it.” The songs that emerged are devotional in their lyrics but defiant in their energy; it’s the very sound of a woman standing in her first wisdom.That high-wire balance permeates Valentine, and lead single “Everyone Wants to Feel Like You Do” embodies it fully. A Petty-esque drumbeat marches under an indictment of the all-too- common type of man, the type who feels they can move through the world however they want without consequence. Here, Andrews’s singing is classic honey-and-vinegar; she may soundsweet, but rest assured you’re gonna hear about it. “It’s this funny double-edged thing,” says Andrews, “because you do want to feel like that person, but you’re not sure if you should because it’s a person so disconnected, without a care in the world or a care for other people. I played the guitar solo like I didn’t care in that song,” she continues. “I thought ‘I’m just gonnaplay it like I don’t give a shit what anyone else is doing.’” When Andrews sings “Don’t make yourself small, baby, take up space” on this summer’s “Cons and Clowns”, the softness in her voice lands as both a whisper and a dare. “Little Picture of a Butterfly" is another example, one where the reclamation of power in the lyrics (“Soulmates what a pretty thought / but either you do, or you do not”) mirrors the same in the music. “It’s such a trad song in a lot of ways,” saysAndrews, “but we added flute, we added organ and all these Brian Wilson harmonies.” Those additions set the song alight, building on the insistent tempo and bassline and climbing to an expansive, sky-high final act.Album closer “Hangman” opens with an echo and a note that hits like an arrow. Andrews sings insistently “tell me now, tell me now, tell me now,” but it’s not a plea, it’s a threat: I can love you with defiance, and without sacrificing who I am. It’s not “love me back”, it’s “love me or don’t.” “Keeper” is the only co-write on the record, and its backstory reads like a short film. “I was atdinner with a dear friend,” says Andrews, “and I was really going through it. I asked her if I’m a keeper, and we both just started crying. We wrote the song then and there, line by line over dinner. I went home and put a melody over it after.” There’s a desperation to “Keeper”, even in its lovely, melodic sighs. It’s insistent, worn out from chasing a love that isn’t sure.Valentine is also Andrews’s most sonically explorative record – she plays flute, high strung guitars, myriad synths, and she draws heavy inspiration from her art outside of music. Andrews is a vivid poet and an accomplished painter, and across Valentine you can feel these disciplines interwoven, everything feeding the beauty and clarity of everything else. It’s unexpected, then, that Andrews only recently appreciated the centrality of her power as a singer. “Historically my favorite artists weren’t looked at as singers,” Andrews explains, “they were looked at as writers. And I sort of dissociated myself from singing; I chose to use it when it behooved me, but I wasn’t connected with it.” But the more interdisciplinary her work became, the more that belief seemed to dissolve. “Singing is another stroke,” she says, “the most direct line to your heart. Everything is color, texture. The way you sing can change everything, for both you and the people listening.” Andrews’s voice is gorgeous and acrobatic always, but on Valentine it finds a newdepth, an assertiveness that brings new dimension to its biggest anthems and its softest moment.Andrews is, and has always been, unafraid to say the thing. Her songs are challenging but compassionate, they welcome us in but push us to venture out. And this, in the end, may do the most to explain Valentine as both a theme and title. Andrews rejects the objectification of love, the love filled with gestures and objects instead of trust, mess, and growth. In doing so, shedelivers her most beautiful and loving album to date.From the first moments of Goodbye Long Winter Shadow, layers of strings, woodwinds, acoustic guitar and the warm anchoring voice of Maia Friedman blossom as if to say “you are here.” The lush arrangements and sage lyricism are an enveloping statement of intent. They carry the devotion to nature Friedman fostered growing up in California’s Sierra Nevada with a new mother’s exploration of time and transformation. Friedman spent months developing the language of the album, pursuing the music she envisioned with characteristic patience. Produced with Philip Weinrobe (Adrianne Lenker, Florist) and Oliver Hill (Magdalena Bay, Helado Negro), the result is chamber pop abounding with melodic intimacy, a world whereinstruments bob and weave around the heart-stopping clarity of Friedman’s voice.Though 2022’s acclaimed debut Under the New Light was the first album under her name, the California-born, New York-based singer, songwriter and multi-instrumentalist has honed her sound for years as a member of both Dirty Projectors and Coco, the shared project of Friedman, Hill and Dan Molad. Where her debut was built from collaborative improvisation,Goodbye Long Winter Shadow is a collection of songs in the classic sense. Intimate instrumentals punctuate its running time and emphasize the sonic palette of the orchestral arrangements. Friedman’s lyricism and writing here is timeless, tightly composed and interspersed with surprising harmonic turns. If not for the heightened quality of its recording by Weinrobe, it might have been made decades ago; it’s Nico’s Chelsea Girl for today.Goodbye Long Winter Shadow is full of elegant evolution as Maia Friedman, in the refinement of her craft and her new identity as a mother, finds new depths to explore. At turns it feels both fresh and like a private press record unearthed for cult listening. It marks new heights for a songwriter operating with supreme confidence, and she sings: “Now the curtains hang open / in the window, flowers bloom in their vase / for once in my life I’m in love again / and my love is here to stay.”LineupCourtney Marie AndrewsMaia Friedman\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/141536
@@ -571,9 +589,9 @@ URL:https://stonechurchvt.com#/events/141536
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-161@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260430T200000
-DTEND:20260430T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260430T200000
+DTEND;TZID=America/New_York:20260430T220000
 SUMMARY:Haley Heynderickx & Max Garcia Conover
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Haley Heynderickx & Max Garcia ConoverThursday April 30Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionHaley Heynderickx and Max García Conover made their second collaborative record in the spirit of Woody Guthrie. From opposite corners of the country, the two songwriters spent a year sharing songs while reading Woody’s words and biographies, slowly exploring a patchwork of Americanism to see where their stories fit. García Conover, half-Puerto Rican, and Heynderickx, half-Filipina, found themselves with this collection of music about the legacy of colonialism, generational identity, commercialism, and the slippery target of addressing social equity in song. Heynderickx’s precise, delicate eloquence met García Conover’s vivid, angular poetics in a barn in Vermont, where this record was recorded directly to tape in five days. With guitars, voices, and some found percussion, they played the record straight through, channeling Woody’s union of spontaneity, sweetness, and defiance.LineupHaley HeynderickxMax García Conover\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/158537
@@ -581,9 +599,9 @@ URL:https://stonechurchvt.com#/events/158537
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-162@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260501T200000
-DTEND:20260501T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260501T200000
+DTEND;TZID=America/New_York:20260501T220000
 SUMMARY:Juice
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:JuiceFriday May 1Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionBetween their tight grooves, radiant harmonies, heartfelt lyrics, and jaw-dropping solos ,there’s no simple, easy way to summarize New York City five-piece Juice.Pulling from pop and rock, hip-hop and R&amp;B, ‘90s alternative, modern electronic, folk, and more, their complexity is their strength: All six members are multi-instrumentalists from different musical backgrounds and upbringings, each one bringing his own unique flavor to the band. The result is a “multi-dimensional rock” identity that has continuously evolved over the past decade, as the band members themselves – Ben Stevens (vocals, keys), Christian Rose (vocals, violin), Kamau Burton (vocals, guitar), Daniel Moss (guitar), and Rami El-Abidin (bass) –went from students at Boston College to professional touring musicians and seasoned recording artists.Juice’s sound may be ever-evolving, but their bold energy is evergreen: The goal, both on stage and on record, is not just to connect on a human level, but to breathe life into every room.While they pack a punch on record, Juice shine their brightest onstage, bringing their music to life for all to see, hear, and feel. The band have played countless national tours over the past ten years, including four headline tours and support slots opening for bands like flipturn, OceanAlley, and The Dip.\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/162699
@@ -591,9 +609,9 @@ URL:https://stonechurchvt.com#/events/162699
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-163@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260502T200000
-DTEND:20260502T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260502T200000
+DTEND;TZID=America/New_York:20260502T220000
 SUMMARY:ULTRA SUNN
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:ULTRA SUNNForever GreySaturday May 2Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionULTRA SUNN, THE BRUSSELS DUO MAKING WAVES ACROSS THE USA AND EUROPE.FRONTMAN SAM HUGE AND KEYBOARDIST GAELLE SOUFLET, NOW JOINED ON STAGE BY ALEXIS ANDRIGO, BLEND MODERN EBM/NEW BEAT WITH KILLER COLLABORATIONS (FRONT LINE ASSEMBLY, TWIN TRIBES, KONTRAVOID,…) AND NODS TO LEGENDS LIKE FRONT 242 AND NITZER EBB.THEIR CHART-TOPPING HIT "KEEP YOUR EYES PEELED" PUT THEM ON THE MAP, AND THEY’VE BEEN UNSTOPPABLE EVER SINCE, PERFORMING EVERYWHERE FROM LOS ANGELES TO SÃO PAULO TO BERLIN.NOW, ULTRA SUNN HAVE ANNOUNCED THEIR HIGHLY ANTICIPATED NEW ALBUM, SET FOR RELEASE ON OCTOBER 3, 2025, FOLLOWED IMMEDIATELY BY AN EXTENSIVE EUROPEAN AND NORTH AMERICAN TOUR. THE MOMENTUM IS ALREADY ELECTRIC THANKS TO THEIR LATEST SINGLE, "THE BEAST IN YOU", WHICH IS QUICKLY BECOMING A NEW FAN-FAVORITE AND CLUB ANTHEM.EXPECT A HIGH-ENERGY LIVE SHOW WITH DEEP AND POWERFUL VOCALS ON HARD-HITTING BEATS WHERE EVERYBODY IS CELEBRATED, SEEN AND LOVED. BETWEEN THEIR SOUND OF BELGIUM HERITAGE AND BOLD MODERNITY, ULTRA SUNN IS NOT TO BE MISSEDLineupULTRA SUNNForever Grey\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/139076
@@ -601,9 +619,9 @@ URL:https://stonechurchvt.com#/events/139076
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-190@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260508T193000
-DTEND:20260508T213000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260508T193000
+DTEND;TZID=America/New_York:20260508T213000
 SUMMARY:Victoria Redel in Conversation with Robin MacArthur
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Victoria Redel in Conversation with Robin MacArthurA conversation on love, art, and identity in Victoria Redel’s I Am YouFriday, May 8Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescriptionTickets $10Join us for a conversation with acclaimed author Victoria Redel about her highly anticipated new novel, I Am You. Set in 1600s Amsterdam, this unforgettable love story explores art, politics, gender, and identity through the lives of Gerta Pieters, a young girl raised as a boy in service to a Dutch family, and Maria van Oosterwijck, a skilled painter navigating the Golden Age. Inspired by historical fact, Redel’s novel is a meditation on love, artistry, and the perils faced by women in history.Redel’s I Am You has been recognized as a Bustle Most Anticipated Book of Fall 2025, a Zibby Books Most Anticipated Book of Fall 2025, and a Book Riot Exciting New LGBTQ Historical Fiction Pick. It has received a Publisher’s Weekly Starred Review, been highlighted as an Amazon Editor’s October Best in Literature and Fiction, and named a People’s Best New Book. Foreign rights have sold in Dutch, Ukrainian, UK, and German markets.The conversation will be hosted by Robin MacArthur, award-winning author and educator, whose debut short story collection, Half Wild, won the PEN New England Award, and whose work has appeared in Orion, LitHub, The Washington Post, and on NPR.Experience an evening of literary insight, historical intrigue, and a deep dive into the creation of a remarkable novel. ByWay Books will be on site selling copies of I Am You and select backlist by both authors.LineupVictoria RedelRobin MacArthur\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169650
@@ -611,9 +629,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-191@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260513T190000
-DTEND:20260513T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260513T190000
+DTEND;TZID=America/New_York:20260513T210000
 SUMMARY:NXT Rockumentary Film Series
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:NXT Rockumentary Film SeriesA raw documentary about ambition, rivalry, and indie rock excess.Wednesday, May 13Minimum age:All agesShow time:7:00 PMDoors open:6:30 PMNext Stage ArtsRSVPDescription$8 suggested donationJoin us for the next installment of the NXT Rockumentary Film Series. Filmed over several years, this documentary chronicles the volatile rise of two closely linked indie-rock bands whose ambitions pull them in sharply different directions. What begins as camaraderie slowly curdles into rivalry, revealing how ego, obsession, and substance abuse can fracture both creative partnerships and personal lives. Darkly funny and deeply uncomfortable at times, the film becomes a cautionary portrait of how talent alone is never enough to hold a scene—or a friendship—together.Due to licensing restrictions, we’re unable to publicly list the film title. To find out what’s screening, join our mailing list or contact us directly.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169686
@@ -621,9 +639,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169686
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-164@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260515T200000
-DTEND:20260515T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260515T200000
+DTEND;TZID=America/New_York:20260515T220000
 SUMMARY:TAGABOW
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:TAGABOWFriday May 15Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionfrom the pits of heaven LineupThey Are Gutting a Body of Water\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/164398
@@ -631,9 +649,9 @@ URL:https://stonechurchvt.com#/events/164398
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-192@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260517T190000
-DTEND:20260517T210000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260517T190000
+DTEND;TZID=America/New_York:20260517T210000
 SUMMARY:John Gorka
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:Twilight MusicJohn GorkaSoulful, timeless folk music from a master of storytelling and song.Sunday, May 17Minimum age:All agesShow time:7:00 PMDoors open:6:15 PMNext Stage ArtsTicketsDescription$26 Advance / $30 Door / $15 Livestream“‘…the leading singer/songwriter of the New Folk movement.’ – Rolling Stone”From his early days at Godfrey Daniels in Pennsylvania to stages across the U.S. and Europe, John Gorka has built a career on soulful storytelling, masterful songwriting, and a voice that resonates with warmth and depth. With 11 acclaimed studio albums, collaborations with folk icons, and a dedication to artistic integrity, Gorka continues to captivate audiences worldwide. Join us for an unforgettable evening of timeless folk music from one of the genre’s true masters.LineupJohn Gorka\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169652
@@ -641,9 +659,9 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169652
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-165@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260523T200000
-DTEND:20260523T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260523T200000
+DTEND;TZID=America/New_York:20260523T220000
 SUMMARY:King Tuff
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:King TuffMod LangSaturday May 23Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionI got my Tascam 388 fixed, the same tape machine I had used to record my first album, King Tuff Was Dead. It had been sitting in my parent’s house in Vermont for the past 14 years, but I had finally dragged it out to LA. The first song I recorded on it was “Twisted On A Train”, and I was shocked by how instantly I sounded, and felt, like myself again. In fact, I wrote and recorded the whole dang song in the span of a few hours, which was basically the opposite of how I had been working in the computer. Spending hours moving waveforms around like a zombie, comping vocals, second guessing, trying to make things sound not lifeless, trying to make anything sound good at all, took months. But here on the tape it was so much more alive. More like painting or collaging. More like making actual music. Every move I made stuck like super glue. It was effortless. It was pure joy. I stopped caring if there were mistakes.  There’s not enough mistakes.  I played my old, blue, Gibson SG, Jazijoo, and she spewed mangled electrified gold.   For once, I sang and I didn’t hate my voice.  I played the drums badly and bounced them in mono to one track and it sounded like glorious shit.  I wish it sounded even worse.  Rock & Roll is the music of rodents and bugs. It should sound like it crept from a decrepit trashcan or a crypt or a toilet. It is not chill or vibey, autotuned or on the grid. It is not perfect, which is why it’s perfect. And I don’t care if it’s dead or alive, cool or uncool: when I hear it, and when I play it, as a chubby and balding 43 year old punk weirdo, I FEEL ENERGIZED. Mod Lang is Detroit’s best-kept secret—though not for long. This four-piece outfit blends jangly guitars, hook-laden melodies, and infectious energy that has quickly made them a local favorite. The group consists of Antonio Keka and Alex Belfie trading off on guitar and vocals, backed by the magnetic Ava East on bass and Ben Taber locking down rhythm on drums.Mod Lang has built an impressive reputation through their electric live shows—their chemistry and charisma lighting up every room they play. Their signature track, “TV Star,” has become a word-of-mouth anthem: catchy, cheeky, and impossible not to move to.With irresistible melodies, clever lyricism, and a stage presence that oozes charm, Mod Lang doesn’t just play shows—they throw a party. It’s Big Star with a leather jacket, The Jam with lipstick on the mic. If you’re lucky enough to catch them now, hold on tight.LineupKing TuffMod Lang\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/154304
@@ -651,9 +669,9 @@ URL:https://stonechurchvt.com#/events/154304
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-166@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260527T200000
-DTEND:20260527T220000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260527T200000
+DTEND;TZID=America/New_York:20260527T220000
 SUMMARY:Oranssi Pazuzu
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Oranssi PazuzuWayfarerWednesday May 27Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionFour years in the making, ORANSSI PAZUZU spew forth their latest mutational meisterwerk, Muuntautuja (or Shapeshifter in English) set to be released on October 11th,, 2024 via Nuclear Blast Records. A boa constrictor of slithering, warping, interdimensional cosmic horror, Muuntautuja is in a world of its own, seeping through the speakers like irradiated sand. Ever transmuting, unsettling chords that raise the hairs on the back of your head and then pummel it with nauseating rhythms that both transport and destroy you. Muuntautuja is like an encounter with a maleficent being, well and truly unhinged, that’s out to mess with your brain. Where delays distort in a dust cloud, riffs are white noise discharge and time signatures interweave, to create the genre that ORANSSI PAZUZU inhabits alone. A convulsing mass on collision course, the air-borne sonic viral load of Muuntautuja is undeniably infectious, and bound to turn heads.If Nasa discover a new form of metal element under the surface of Mars they would have to call it ORANSSI PAZUZU, a band that’s uncharted and pushing the boundaries of what heavy, extreme music should sound like. From their first spaced out underground Black Metal album Muukalainen Puhuu (2009), to second album Kosmonument (2011), their first album to get wider distribution, to their then-next record Valonielu (2013), which saw them delve deeper and weirder into Psychedelic Black Metal, setting the stage for Värähtelijä (2016), arguably their breakthrough record, ORANSSI PAZUZU have been impossible to pigeon-hole and a feast for those who dig deep, heavy and strange.Not so much a reinvention of form as a creative zenith, where ORANSSI PAZUZU have struck a vein of gold in the wasteland, the irony of it is that Muuntautuja sounds like the album they have been diligently mining all along. Dense, ferocious, glistening, blistering and buzzing, Muuntautuja is like tuning in and dropping out to hostile alien signals. The title of the album, meaning Shapeshifter, is a perfect description of the ORANSSI PAZUZU that emerged from their extraterrestrial cocoon in 2024. A new form of being, but whose flesh is eerily familiar, Muuntautuja sees ORANSSI PAZUZU contort their signature noise into something truly fearsome from their critically acclaimed previous album Mestarin kynsi (2020). Noise has always been a part of the classic Black Metal sound but Muuntautuja takes it to a more shattering and violent culmination.Bass player Ontto elaborates on Muuntautuja’s explosion of experimental and harsh sound when he talks about “noise as a compositional tool” and adds: “The noisier and the more experimental stuff came from a necessity to reinvent the way we were writing songs. The change was already in motion on Mestarin kynsi, but on the new album we really felt we wanted to shed the old skin and find new angles.”Vocalist Jun-His agrees when he states:“We felt that we could express things that we have been only flirting with previously. The noisier experiments started happening during live versions of Taivaan portti from the previous album, and it felt good to not leave it to that, but to expand on it.”When the protagonist of a movie or novel starts to unravel, and the world becomes malevolent, we’d imagine introducing the beginning of the track ‘Ikikäärme’, and let the celestial science fiction of it’s sound-track take us to Ari Aster or Robert Eggers like cinematic terror. Undercurrent layers swell in an alien language, inescapable and claustrophobic. Gestating a new form of metal in their host bodies, humid, equatorial and febrile, on Muuntautuja, ORANSSI PAZUZU constantly transpose and shift key, leaving us high and dry, exposed in space with no umbilical for air.If we delve into the centre of Muuntautuja, there is pure darkness. As the lyrics of ‘Hautatuuli’ (or “Grave Wind” in English) repeat in whispered, mantra-like succession, “gate behind a  . . .gate behind a”, behind the gate there is a gate and we have to keep entering the many levels of the album’s sonic symbolism. The layers of initiation ORANSSI PAZUZU are discussing are present in their music. A resonant ritual of layers upon layers, rhythms upon rhythms. If you pass through all the gates on Muuntautuja, you find the center and that is a darkness that’s impossible to illuminate.From the depiction of the mayhem of war in the tracks ‘Voitelu’ or themes of mass manipulation in ‘Bioalkemisti’, Muuntautuja’s concepts are colossal. The themes reach an almost mythical and religious element where Ontto explains: “In the more atmospheric tracks the subjects are introspective and mystical -  Muuntautuja deals with the idea of death as a transformation into a different state of being, and ‘Ikikäärme’ is a fantasy about pursuing immortality, by becoming united with a god snake after being devoured by it.”Drawing inspiration from eclectic sources ranging from Boredoms, Death Grips to Portishead’s Third album, ORANSSI PAZUZU mold their psychedelic alchemy into a potent brew where a tripped out Godflesh creates an alien being with Nine Inch Nails (Downward Spiral era), Beherit and My Bloody Valentine. The result is that Muuntautuja is electronically charged, both organic and inorganic in origin.Guitarist Ikon reflects:“Our experimentation with samplers and electronics made us step towards the weird concept of making nightmarish Rave music. We tried to find common ground between danceable rhythms and oppressive waves of noise and distortion.”Muuntautuja transcends genre, embodying a transcendent experience that slimes listeners in its nightmare of space and metamorphosis. Jun-His muses, "For us, this album is like a sculpture made of black electric ooze."Await the release of Muuntautuja, ORANSSI PAZUZU’s fire in the sky, where reality bends and shapes shift with each and every haunting note, and you will be visited by higher beings, though not with your best intentions entirely at heart.—Steeped as deeply in the wells of gothic country and Americana as they are in black metal, WAYFARER have given a sound and a face to the American West in the world of heavy music.Hailing from Denver, Colorado, and having carved out their identity for over a decade with five full length albums and tours around the world - the band are putting the final notes on the chapter that started with the heralded release of AMERICAN GOTHIC. Released in late 2023 to acclaim for music publications worldwide, the album placed at or near the top in many year-end accolades from sources like Rolling Stone, Metal Hammer, Decibel Magazine and more - and saw the band make their mark at festival and club stages around the world.They ride across the United States one final time for the AMERICAN GOTHIC era, alongside Finland's mind melting ORANSSI PAZUZU in their first proper US tour in nearly a decade. WAYFARER will take stages across the country with riff soaked elegies of blood and gunpowder in tow.LineupOranssi PazuzuWayfarer\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/149483
@@ -661,9 +679,9 @@ URL:https://stonechurchvt.com#/events/149483
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-193@things-we-love
-DTSTAMP:20260210T012008Z
-DTSTART:20260527T100000
-DTEND:20260527T120000
+DTSTAMP:20260210T012423Z
+DTSTART;TZID=America/New_York:20260527T100000
+DTEND;TZID=America/New_York:20260527T120000
 SUMMARY:American Red Cross Blood Drive
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:American Red Cross Blood DriveWednesday, May 27Minimum age:All agesShow time:10:00 AMDoors open:10:00 AMNext Stage ArtsSign Up\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169657
