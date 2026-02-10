@@ -25,7 +25,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:vt-event-122@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260211T180000
 DTEND;TZID=America/New_York:20260211T193000
 SUMMARY:Flying Trapeze Beginner Drop In Class
@@ -35,7 +35,7 @@ URL:https://iputney.com/event/flying-trapeze-beginner-drop-in-class-3/?instance_
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-172@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260211T190000
 DTEND;TZID=America/New_York:20260211T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -45,7 +45,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/166730
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-212@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260211T190000
 DTEND;TZID=America/New_York:20260211T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -55,7 +55,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169948
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-213@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260212T180000
 DTEND;TZID=America/New_York:20260212T200000
 SUMMARY:Jump In! Clown for Stage Session 2
@@ -65,7 +65,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/166127
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-134@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260213T200000
 DTEND;TZID=America/New_York:20260213T220000
 SUMMARY:Wicked Game: A Gothic Promenade
@@ -75,7 +75,7 @@ URL:https://stonechurchvt.com#/events/157998
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-173@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260213T173000
 DTEND;TZID=America/New_York:20260213T193000
 SUMMARY:Putney Community Supper
@@ -85,7 +85,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168873
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-202@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260213T183000
 DTEND;TZID=America/New_York:20260213T210000
 SUMMARY:BLADE RUNNER: Final Cut! w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -95,7 +95,7 @@ URL:https://www.epsilonspires.org/event-info/blade-runner-final-cut-w-live-music
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-214@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260213T190000
 DTEND;TZID=America/New_York:20260213T210000
 SUMMARY:Heartache Hideaway
@@ -104,8 +104,18 @@ DESCRIPTION:Heartache Hideaway Friday February 13Minimum age:18 and overShow tim
 URL:https://lastditchvenue.com/events-calendar#/events/169952
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-223@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260213T170000
+DTEND;TZID=America/New_York:20260213T210000
+SUMMARY:Get Lucky Valentines Makers' Market!
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Looking for a cozy night out with your special someone, your best gals, and all the loves in your lives? Come check out Brewbakers Cafe for the first annual Valentine’s Day Makers Market. Look no further for a host of romantic gifts and delicious treats. From beeswax candles to beaded jewelry, intricate embroidered decor to stunning painted canvases, vibrant ceramics to heartwarming scarves; all handmade with love and skill and ready to go to a happy home.  Alongside our happy vendors you’ll see a stage transformed into a photo booth bursting with color, created by the talented  Gnome Studio . Grab your loved ones and pose for a photo with all handmade props and you’ll take your very own polaroid to commemorate the night. Head to the makers’ space for crafts with WakaDoodles, and make your own bouquet at a  Billies + Tilli  flower bar.  To complete the night, have your pick of delicious specials from the Brewbakers pastry case and stroll the market with a cozy latte. Stop in before (or after) your dinner reservation, or sit and relax with a glass of wine. Either way, you won’t want to miss this cozy night out!\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/getlucky
+URL:https://www.novaarts.org/events/getlucky
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-124@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents The Baffo Box Show
@@ -118,7 +128,7 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-125@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260214T113000
 DTEND;TZID=America/New_York:20260214T130000
 SUMMARY:Flying Trapeze All Levels Drop In Class
@@ -128,7 +138,7 @@ URL:https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-10/?instan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-126@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260214T170000
 DTEND;TZID=America/New_York:20260214T211500
 SUMMARY:Kids Night Out
@@ -146,7 +156,7 @@ URL:https://iputney.com/event/kids-night-out-2/?instance_id=5190
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-135@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260214T200000
 DTEND;TZID=America/New_York:20260214T220000
 SUMMARY:Melt
@@ -156,7 +166,7 @@ URL:https://stonechurchvt.com#/events/162922
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-215@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260214T210000
 DTEND;TZID=America/New_York:20260214T230000
 SUMMARY:Drama Qweenz: Black Lovers\, a Drag Show
@@ -165,8 +175,26 @@ DESCRIPTION:Drama Qweenz: Black Lovers, a Drag ShowSaturday February 14Minimum a
 URL:https://lastditchvenue.com/events-calendar#/events/169953
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-224@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260214T190000
+DTEND;TZID=America/New_York:20260214T220000
+SUMMARY:Mardi Gras Dance Party w/ Folksoul Band & Celebration Brass Band
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ American music and New Orleans Mardi Gras culture have been inextricably linked for 200 years, ever since the imported, enslaved African people, mixing with a similarly oppressed native American culture, found free expression on Congo Square in New Orleans, where they were permitted to congregate for one day a week, two centuries ago. The spirit and rhythms expressed by this new American culture evolved into the Jazz and and Rock’n’roll of the 20th century. This American history has inspired the  Folksoul Band , which came together to create a Mardi Gras party, which we have done every year since, as our repertoire has expanded to include offshoots and branches. We try to bring this original source of American music to the New England audience in as pure a form as we can manage, allowing for our own inspirations and creativity. We always make room for that. We have a long and varied history that includes street performing and second line parading for both princes and paupers around the country in addition to many clubs, fairs and festivals. It’s a tradition we hope to keep alive. We are: Richard Doherty – Guitars, vocals / Tara Greenblatt – Drums, vocals / Fred Simmons – Trombone, tambourine, vocals / Ramsey Thomas – Stand-up bass / Leslie Vogel – Piano and accordion, vocals / Walden Whitham – Saxophone, flute, rubboard, vocals The Celebration Brass Band  is Southern VT’s signature ensemble for the distinctively vibrant music that we know as the New Orleans Brass Band sound! Since 2009, under the leadership of New Orleans native and Langdon NH resident Peter Simoneaux, the Celebration Brass Band has become familiar to Brattleboro area audiences through their performances at numerous Gallery Walks, the Strolling of the Heifers, 4th of July parades, and a host of other local community events. With band founder and director Simoneaux on bass drum and vocals and spouse and partner Linda Simoneaux on sousaphone, vocals and parade marshaling duties, CBB features a dynamic cast of Brattleboro area musicians, including co-directors Walter Slowinski (Woodpeckers, Butterfly Swing) and Ron Kelley (Hot Noodles, Bread & Puppet) on saxophones, Dan DeWalt (Simba, Creacion, Mambo Trio) on trombone, Anders Burrows (Alafia, Aura Shards) and Sam Johnson on trumpets, Tim Ellis on sousaphone and various players on snare drum or kit. Traditionally, since the late 1800s, New Orleans Brass Band music has been the music of jazz funerals and street parades in New Orleans, the style that gave birth to the careers of Buddy Bolden, Louis Armstrong, Sidney Bechet, and countless other musicians who have helped define the history of Jazz. Over the past 25 years, the New Orleans brass band revival has exploded in popularity, to the point where it has become the dominant musical force in the city, embracing both tradition and innovation, old forms and new. It is the mission of the Celebration Brass Band to bring this joy & energy to weddings, funerals, and other private & public functions throughout northern New England, to represent both the traditional and contemporary strains of the New Orleans brass band sound, and to discover the common threads between the New Orleans brass band genre, and those of modern jazz, and the wider Afro-Creole musical diaspora. Doors are at 7pm and music will begin at 730! Seating is first come first served! Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/mardigras2026
+URL:https://www.novaarts.org/events/mardigras2026
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-127@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260215T150000
 DTEND;TZID=America/New_York:20260215T170000
 SUMMARY:Home Land: Paintings by Finn Campman: Opening Reception
@@ -177,7 +205,7 @@ URL:https://iputney.com/event/home-land-paintings-by-finn-campman-opening-recept
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-174@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260215T150000
 DTEND;TZID=America/New_York:20260215T170000
 SUMMARY:Home Land: Paintings by Finn Campman
@@ -187,7 +215,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168053
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-203@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260215T180000
 DTEND;TZID=America/New_York:20260215T200000
 SUMMARY:ESCAPES (2017)
@@ -197,7 +225,7 @@ URL:https://www.epsilonspires.org/event-info/escapes-2017
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-128@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260218T180000
 DTEND;TZID=America/New_York:20260218T193000
 SUMMARY:Flying Trapeze Beginner Drop In Class
@@ -207,7 +235,7 @@ URL:https://iputney.com/event/flying-trapeze-beginner-drop-in-class-4/?instance_
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-175@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260218T110000
 DTEND;TZID=America/New_York:20260218T130000
 SUMMARY:Volunteer Income Tax Preparation Assistance (VITA) Program
@@ -217,7 +245,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168874
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-216@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260218T190000
 DTEND;TZID=America/New_York:20260218T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -227,7 +255,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169949
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-217@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260219T190000
 DTEND;TZID=America/New_York:20260219T210000
 SUMMARY:Lavender Line Dancing
@@ -236,8 +264,18 @@ DESCRIPTION:Lavender Line DancingThursday February 19Minimum age:18 and overShow
 URL:https://lastditchvenue.com/events-calendar#/events/169954
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-225@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260219T170000
+DTEND;TZID=America/New_York:20260219T190000
+SUMMARY:What Can We Do About It Here? Session 1
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:“What can we do about it here? A series of public discussions on political crises to build community solidarity”  Hosted by Cooperative Action Monadnock Session 1: “What can we do about a violent and unaccountable government?” Each session will include three community panelists discussing aspects of current political crises and then lead an open public discussion.  5-7pm. Free.\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/whatcanwedo1
+URL:https://www.novaarts.org/events/whatcanwedo1
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-136@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260220T200000
 DTEND;TZID=America/New_York:20260220T220000
 SUMMARY:The Gaslight Tinkers
@@ -247,7 +285,7 @@ URL:https://stonechurchvt.com#/events/158650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-176@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260220T193000
 DTEND;TZID=America/New_York:20260220T213000
 SUMMARY:Queralt Giralt Soler Trio
@@ -257,7 +295,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168554
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-199@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:What's On
@@ -267,7 +305,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-204@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260220T183000
 DTEND;TZID=America/New_York:20260220T200000
 SUMMARY:THE FLYING ACE w/ Pipe Organ Score by Jeff Rapsis!
@@ -277,7 +315,7 @@ URL:https://www.epsilonspires.org/event-info/the-flying-ace-w-pipe-organ-score-b
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-218@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260220T190000
 DTEND;TZID=America/New_York:20260220T210000
 SUMMARY:Two-Step Night
@@ -287,7 +325,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169955
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-130@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents Party Animals
@@ -299,7 +337,7 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-131@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260221T100000
 DTEND;TZID=America/New_York:20260221T113000
 SUMMARY:Flying Trapeze All Levels Drop In Class
@@ -309,7 +347,7 @@ URL:https://iputney.com/event/flying-trapeze-all-levels-drop-in-class-8/?instanc
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-137@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260221T200000
 DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:North Mississippi All Stars
@@ -319,7 +357,7 @@ URL:https://stonechurchvt.com#/events/158374
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-219@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260221T190000
 DTEND;TZID=America/New_York:20260221T210000
 SUMMARY:Queer Strip Night
@@ -328,8 +366,26 @@ DESCRIPTION:Queer Strip NightSaturday February 21Minimum age:21 and overShow tim
 URL:https://lastditchvenue.com/events-calendar#/events/169417
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-226@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260221T190000
+DTEND;TZID=America/New_York:20260221T220000
+SUMMARY:Wolfman Jack Play Primal Dead! 
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ Wolfman Jack  is a live music project of musicians from the New England area performing the psychedelic and electrifying Live Dead to Europe 72' era of The Grateful Dead. A true dance band in the style of such legendary venues as The Fillmores', Carousel Ballroom, Avalon Ballroom, Winterland Arena and the Strand Lyceum. They recreate those vintage sets from when the Grateful Dead were first cutting their teeth as a live music act. Don't miss it! Doors are at 7pm and music will begin at 730! Seating is first come first served! Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/wolfmanjack221
+URL:https://www.novaarts.org/events/wolfmanjack221
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-138@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260222T190000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Dueling Duets- Coleman Williams + Lightnin' Luke
@@ -339,7 +395,7 @@ URL:https://stonechurchvt.com#/events/159674
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-177@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260222T140000
 DTEND;TZID=America/New_York:20260222T160000
 SUMMARY:The Equivalent Lands
@@ -349,7 +405,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169153
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-205@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260222T183000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Frank Capra's LOST HORIZON (1937)
@@ -359,7 +415,7 @@ URL:https://www.epsilonspires.org/event-info/frank-capras-lost-horizon-1937
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-139@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260225T200000
 DTEND;TZID=America/New_York:20260225T220000
 SUMMARY:SKELETON CREWE
@@ -369,7 +425,7 @@ URL:https://stonechurchvt.com#/events/160254
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-206@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260225T183000
 DTEND;TZID=America/New_York:20260225T210000
 SUMMARY:BRAZIL (1985) w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -379,7 +435,7 @@ URL:https://www.epsilonspires.org/event-info/brazil-1985-w-live-music-by-revenan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-220@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260225T190000
 DTEND;TZID=America/New_York:20260225T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -389,7 +445,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169951
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-140@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260226T200000
 DTEND;TZID=America/New_York:20260226T220000
 SUMMARY:Moviola/Wet Tuna/Animal Piss It's Everywhere
@@ -399,7 +455,7 @@ URL:https://stonechurchvt.com#/events/155759
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-221@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260226T180000
 DTEND;TZID=America/New_York:20260226T200000
 SUMMARY:Jump In! Clown for Stage Session 3
@@ -409,7 +465,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/166128
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-178@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260227T190000
 DTEND;TZID=America/New_York:20260227T210000
 SUMMARY:Johnny Cash! The Man\, His World\, His Music
@@ -419,7 +475,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169539
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-207@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260227T190000
 DTEND;TZID=America/New_York:20260227T230000
 SUMMARY:SHIRAZ: ROMANCE OF INDIA w/ Music Score by Utsav Lal!
@@ -429,7 +485,7 @@ URL:https://www.epsilonspires.org/event-info/shiraz-romance-of-india-w-music-sco
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-141@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260228T200000
 DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:A Band of Brothers
@@ -439,7 +495,7 @@ URL:https://stonechurchvt.com#/events/152452
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-179@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260228T193000
 DTEND;TZID=America/New_York:20260228T213000
 SUMMARY:Corey Harris with Sunny Lowdown
@@ -448,8 +504,26 @@ DESCRIPTION:Corey Harris with Sunny LowdownAn evening of acoustic bluesSaturday,
 URL:https://www.nextstagearts.org/events-calendar#/events/169559
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-227@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260228T190000
+DTEND;TZID=America/New_York:20260228T220000
+SUMMARY:Jonee Earthquake Band w/ Coffin Flop & Phrogs
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ Jonee Earthquake Band  is an American punk band that originally started in 1979, opening for GG Allin and The Jabbers. The band has been playing since. They are well known in the Northern New England punk scene for only playing all ages shows and encouraging and supporting young, inexperienced punk bands. Phrogs  is an Experimental Rock band that blends latin melodies, gothic punk and old school rock n roll. For live performances, Edd-Phrog is on lead vocals and guitar, (lil) Jake is on bass guitar, Riley (Dick) Dickinson is on the trombone, and Loren is on the Drums. The four friends all hail from Claremont, NH and have been making music together for about a decade. They're known for high energy, goofy, awkward sets, and for always being booked with punk bands (although Eddy denies that we are punk). We’re  Coffin Flop , we make doomy swamp sludge from the bowels of Keene, NH. Our inspirations include Crowbar (both in sound and in body mass), Sleep, the ENTIRE Flenser lineup, and OBVIOUSLY Paul Bufano. PLEASE be PATIENT with us, our keyboard player was, in fact, conceived at a CREED show, but we are overcoming that the best that we can! With a sound resembling WET, WET MUD, you’ll need a shop rag to clean the crud out of your ears after one of our sets! Come for the trudging riffs, stay for the rambling banter about late-stage capitalism. Doors are at 7pm and music will start at 730. This show is all ages and seating is limited and also first come first served. Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/joneeearthquake
+URL:https://www.novaarts.org/events/joneeearthquake
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-142@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260305T200000
 DTEND;TZID=America/New_York:20260305T220000
 SUMMARY:Nathan Evans & The Saint PHNX Band
@@ -459,7 +533,7 @@ URL:https://stonechurchvt.com#/events/161469
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-143@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260306T190000
 DTEND;TZID=America/New_York:20260306T210000
 SUMMARY:Sepsiss\, Awaiting Abigail\, Under The Horizon\, Pulsifier
@@ -469,7 +543,7 @@ URL:https://stonechurchvt.com#/events/164287
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-180@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260306T193000
 DTEND;TZID=America/New_York:20260306T213000
 SUMMARY:Kalos plus Dan Houghton & Rachel Clemente
@@ -479,7 +553,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169579
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-144@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260307T200000
 DTEND;TZID=America/New_York:20260307T220000
 SUMMARY:The Slackers
@@ -489,7 +563,7 @@ URL:https://stonechurchvt.com#/events/153480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-208@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260307T183000
 DTEND;TZID=America/New_York:20260307T213000
 SUMMARY:NAKED LUNCH w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -499,7 +573,7 @@ URL:https://www.epsilonspires.org/event-info/naked-lunch-w-live-music-by-revenan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-145@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260311T200000
 DTEND;TZID=America/New_York:20260311T220000
 SUMMARY:Eilen Jewell
@@ -509,7 +583,7 @@ URL:https://stonechurchvt.com#/events/141805
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-181@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260311T190000
 DTEND;TZID=America/New_York:20260311T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -519,7 +593,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169586
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-146@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260312T200000
 DTEND;TZID=America/New_York:20260312T220000
 SUMMARY:Pat Travers
@@ -529,7 +603,7 @@ URL:https://stonechurchvt.com#/events/157888
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-182@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T210000
 SUMMARY:Community Sing-Along
@@ -539,7 +613,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169599
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-209@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T204000
 SUMMARY:MAINTENANCE ARTIST: Documentary w/ Director Q&A
@@ -549,7 +623,7 @@ URL:https://www.epsilonspires.org/event-info/maintenance-artist-documentary-w-di
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-147@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260314T200000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:LEFTöVER CRACK
@@ -559,7 +633,7 @@ URL:https://stonechurchvt.com#/events/161798
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-183@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260314T193000
 DTEND;TZID=America/New_York:20260314T213000
 SUMMARY:Race & Song: A Musical Conversation
@@ -568,8 +642,26 @@ DESCRIPTION:Opening Doors ProjectRace & Song: A Musical Conversationwith Pamela 
 URL:https://www.nextstagearts.org/events-calendar#/events/169612
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-228@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260314T190000
+DTEND;TZID=America/New_York:20260314T220000
+SUMMARY:Terraces / Sunset Mission
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ Born recently in the quiet fields of Walpole, NH,  TERRACES  creates instrumental soundscapes that stretch wide and deep - inviting listeners into exciting terrain. Fast or slow, loud or hushed, TERRACES blends every shade of sound into immersive sonic topography - music to close your eyes and wander wherever the echoes may take you. Sunset Mission  is a six-piece progressive rock band from Boston, MA. The group is influenced by bands like: Animals As Leaders (prog-metal), Ritual (folk-prog), Renaissance (historic folk-prog), Pain of Salvation (prog), Sweet Trip (shoegaze), along with classical music counterparts accompanying their heavy voicings of eight-strings in the band, piano, drums, and immersive soundscape tracks with ethereal vocals on top. Doors are at 7pm and music will begin at 730! Seating is first come first served! Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/terracessunsetmission
+URL:https://www.novaarts.org/events/terracessunsetmission
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-148@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T210000
 SUMMARY:Moon Walker | Demi the Daredevil |  Sarah and the Safe Word
@@ -579,7 +671,7 @@ URL:https://stonechurchvt.com#/events/164869
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-184@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260320T193000
 DTEND;TZID=America/New_York:20260320T213000
 SUMMARY:Singer/Songwriter Showcase
@@ -589,7 +681,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/170375
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-200@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:February 2026
@@ -599,7 +691,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-210@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T204000
 SUMMARY:PEACHES GOES BANANAS! +Director Q&A!
@@ -608,8 +700,26 @@ DESCRIPTION:PEACHES GOES BANANAS! (Marie Losier, 2024, France & Belgium, 73 min,
 URL:https://www.epsilonspires.org/event-info/peaches-goes-bananas-director-q-a
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-229@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260320T190000
+DTEND;TZID=America/New_York:20260320T220000
+SUMMARY:The Great Groove Theory / Reckoners
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ Formed in the famous Rynborn Restaurant and Blues Club,  The Great Groove Theory  has been entertaining audiences around the Monadnock region for the better part of twenty years. With one foot firmly in the blues they effectively blend funk, blues and jam into a high energy danceable sound that never disappoints. Rooted in soul and steeped in rock ‘n’ roll,  Reckoners  is a Boston-based band built from some of the region’s most respected and road-tested musicians. Fronted by singer and guitarist Tim Gearan, the group features guitarist and band leader Johnny Trama (Bettye LaVette, The Silks, Dub Apocalypse), drummer Tom Arey (Peter Wolf, The J. Geils Band, G. Love, Vapors of Morphine) bassist Marc Hickox (Bettye LaVette, Charlie Musselwhite), and keyboardist Darby Wolf (Bettye LaVette, Rubblebucket). Together, they channel the grit and groove of classic soul and rock into something timeless and deeply personal. Their self-produced debut album — now streaming on all major platforms — has drawn more than 43,000 monthly listeners and features the standout single “Looking for a Reason” with guest vocals by Susan Tedeschi. Reckoners have been building momentum across New England with sold-out headline shows and support slots alongside artists including Tedeschi Trucks Band, The Wallflowers, and Bonnie Raitt. Their music and live performances were recently spotlighted in Relix Magazine. Find tour dates, music, and more at reckonersband.com (https://www.reckonersband.com/). Doors are at 7pm and music will start at 730. This show is all ages and seating is limited and also first come first served. Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/greatgroovereckoners
+URL:https://www.novaarts.org/events/greatgroovereckoners
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-149@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260321T200000
 DTEND;TZID=America/New_York:20260321T220000
 SUMMARY:New Planets
@@ -619,7 +729,7 @@ URL:https://stonechurchvt.com#/events/161825
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-150@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260325T200000
 DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:The Cold Stares
@@ -629,7 +739,7 @@ URL:https://stonechurchvt.com#/events/165921
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-151@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260327T200000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Little Lies- Fleetwood Mac Tribute
@@ -639,7 +749,7 @@ URL:https://stonechurchvt.com#/events/155750
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-185@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260327T193000
 DTEND;TZID=America/New_York:20260327T213000
 SUMMARY:Vermont Comedy All Stars Live Stand-up Comedy Showcase!
@@ -648,8 +758,26 @@ DESCRIPTION:Vermont Comedy All Stars Live Stand-up Comedy Showcase!Friday, Mar 2
 URL:https://www.nextstagearts.org/events-calendar#/events/169619
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-230@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260327T190000
+DTEND;TZID=America/New_York:20260327T220000
+SUMMARY:Sean Rowe w/ Simon Gray
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ Sean Rowe  is an American singer-songwriter, musician, recording artist, and forager. Rowe has a powerful sound with an emotional conviction that demands attention. NPR’s All Songs Considered says of Rowe’s vocals, “He can just crush granite with that voice. It’s so powerful.” The Wall Street Journal proclaimed, “Mr. Rowe's ringing baritone is as timeless as his approach, recalling the ecstatic intensity of late-'60s Van Morrison and stark subtlety of late-era Johnny Cash.” Rowe has graced the stage of Mountain Jam, Wilco’s Solid Sound Festival as well as opening for Robert Plant and the Alabama Shakes. Both an appearance on “Jimmy Kimmel Live” and having his song, “To Leave Something Behind” featured in the film, “The Accountant”, have expanded his voice to an international audience. His latest release, The Darkness Dressed in Colored Lights, was recorded at The Hive in Wisconsin by Grammy-winning engineer, Brian Joseph (Bon Iver). Expanding his sound, Rowe continues to write heartfelt songs strongly rooted in singer-songwriter tradition. PopMatters.com reflected, “with lyrics that have the poetic storytelling quality you expect from Tom Waits and Leonard Cohen.” An avid naturalist and renowned forager, Rowe often speaks of his fascination with the woods and his connection to the land. Look for him on tour currently in a city near you in support of the new album. Simon Gray  is a multi-instrumentalist who got his start busking on the streets of Las Vegas. Over the years, he has played for passersby from Cadiz to San Miguel, New Orleans to Jaffa, Auckland to Kalalau. He was a founding member of Olympia, WA stoner-metal trio Skeeter, Oakland, CA artist collective The Fungal Jungle Big Band, Jawbone Flats, OR reggae band The Six Percenters, as well as Monadnock-area bands Blue Motel, Princess Kikou, and The Moops. Simon also produced the scores for several film projects, including indie-horror flick "The Production", documentaries "Davers" and "Dreams of White Mountain", and the microseries "Chronicles of Harambe". Doors are at 7pm and music will start at 730. This show is all ages and seating is limited and also first come first served. Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/seanrowe
+URL:https://www.novaarts.org/events/seanrowe
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-152@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260328T200000
 DTEND;TZID=America/New_York:20260328T220000
 SUMMARY:Bearly Dead
@@ -659,7 +787,7 @@ URL:https://stonechurchvt.com#/events/159705
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-222@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260402T190000
 DTEND;TZID=America/New_York:20260402T210000
 SUMMARY:SARIKA with Alouette Batteau & Olivia Nied
@@ -669,7 +797,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/168675
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-153@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260403T200000
 DTEND;TZID=America/New_York:20260403T220000
 SUMMARY:The Meteors
@@ -679,7 +807,7 @@ URL:https://stonechurchvt.com#/events/161480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-186@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260403T193000
 DTEND;TZID=America/New_York:20260403T213000
 SUMMARY:The Gaslight Tinkers Dance Party
@@ -689,7 +817,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169621
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-154@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260404T200000
 DTEND;TZID=America/New_York:20260404T220000
 SUMMARY:Wild Party/Capital Soiree
@@ -699,7 +827,7 @@ URL:https://stonechurchvt.com#/events/159959
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-187@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260408T190000
 DTEND;TZID=America/New_York:20260408T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -709,7 +837,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169623
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-155@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260410T200000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:Tanya Donelly and Chris Brokaw
@@ -719,7 +847,7 @@ URL:https://stonechurchvt.com#/events/156021
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-156@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260411T200000
 DTEND;TZID=America/New_York:20260411T220000
 SUMMARY:lespecial
@@ -729,7 +857,7 @@ URL:https://stonechurchvt.com#/events/166473
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-188@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260411T193000
 DTEND;TZID=America/New_York:20260411T213000
 SUMMARY:É.T.É
@@ -739,7 +867,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169227
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-157@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260412T190000
 DTEND;TZID=America/New_York:20260412T210000
 SUMMARY:Pallbearer
@@ -749,7 +877,7 @@ URL:https://stonechurchvt.com#/events/157992
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-158@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260417T200000
 DTEND;TZID=America/New_York:20260417T220000
 SUMMARY:The Antlers
@@ -759,7 +887,7 @@ URL:https://stonechurchvt.com#/events/156610
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-189@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260417T193000
 DTEND;TZID=America/New_York:20260417T213000
 SUMMARY:Jake Shulman-Ment
@@ -769,7 +897,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169639
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-159@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260420T190000
 DTEND;TZID=America/New_York:20260420T210000
 SUMMARY:Weedeater + Conan
@@ -779,7 +907,7 @@ URL:https://stonechurchvt.com#/events/160572
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-160@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260423T200000
 DTEND;TZID=America/New_York:20260423T220000
 SUMMARY:Courtney Marie Andrews
@@ -789,7 +917,7 @@ URL:https://stonechurchvt.com#/events/141536
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-161@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260430T200000
 DTEND;TZID=America/New_York:20260430T220000
 SUMMARY:Haley Heynderickx & Max Garcia Conover
@@ -799,7 +927,7 @@ URL:https://stonechurchvt.com#/events/158537
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-211@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260430T190000
 DTEND;TZID=America/New_York:20260430T213000
 SUMMARY:Whitney Johnson - Lia Kohl - Macie Stewart Trio
@@ -809,7 +937,7 @@ URL:https://www.epsilonspires.org/event-info/whitney-johnson-lia-kohl-macie-stew
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-162@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260501T200000
 DTEND;TZID=America/New_York:20260501T220000
 SUMMARY:Juice
@@ -819,7 +947,7 @@ URL:https://stonechurchvt.com#/events/162699
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-163@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260502T200000
 DTEND;TZID=America/New_York:20260502T220000
 SUMMARY:ULTRA SUNN
@@ -829,7 +957,7 @@ URL:https://stonechurchvt.com#/events/139076
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-190@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260508T193000
 DTEND;TZID=America/New_York:20260508T213000
 SUMMARY:Victoria Redel in Conversation with Robin MacArthur
@@ -839,7 +967,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-191@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260513T190000
 DTEND;TZID=America/New_York:20260513T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -849,7 +977,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169686
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-164@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260515T200000
 DTEND;TZID=America/New_York:20260515T220000
 SUMMARY:TAGABOW
@@ -858,8 +986,72 @@ DESCRIPTION:TAGABOWFriday May 15Minimum age:All agesShow time:8:00 PMDoors open:
 URL:https://stonechurchvt.com#/events/164398
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-231@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260515T160000
+DTEND;TZID=America/New_York:20260515T193000
+SUMMARY:Thing in the Spring Weekend Pass! 
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ It’s the 18th Thing in the Spring! Join us at Nova Arts & the Colonial Theatre in Keene NH to see three days of inspired curation in action. This ticket will get you into all of the performances at Nova as well as Ghostface Killah w/ Sammus happening at the Colonial! This year will feature performances by: Ghostface Killah / Sammus / Natural Information Society / Yasmin Williams / Woods / Saintseneca / Undertow Brass Band / Delicate Steve / Emily A. Sprague / Thanya Iyer / Big Blood / Habitat / Gregory Uhlmann / Kalia Vandever / Cole Pulice / Monadnock Music plays Katie Semro / Dinger / Jack in the Green / Edsel Axle / Mary Elizabeth Remington / and more! *Access for All is not available for Weekend Passes\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/thing2026pass
+URL:https://www.novaarts.org/events/thing2026pass
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-232@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260515T160000
+DTEND;TZID=America/New_York:20260515T223000
+SUMMARY:Thing in the Spring FRIDAY
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ This pass gets you into the Friday show at Nova Arts, featuring performances by: Yasmin Williams, Delicate Steve, Emily A. Sprague, Big Blood, Dinger, and Jack in the Green Seating is limited and first come first served. All ages. If you can pay full price, please do, but if not, use the Access for All option and pay what you can.\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/thing2026friday
+URL:https://www.novaarts.org/events/thing2026friday
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-233@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260516T120000
+DTEND;TZID=America/New_York:20260516T190000
+SUMMARY:Thing in the Spring Saturday
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ This pass will get you into all of the music at Nova Arts on Saturday 5/16, featuring performances by Natural Information Society, Kalie Vandever, Cole Pulice, Gregory Uhlmann, Undertow Brass Band, Monadnock Music play Katie Semro, plus readings by John-Francis Quiñonez, Diannely Antigua, Jess Rizkallah, & Maya Williams. Seating is limited and first come first served. All ages. If you can pay full price, please do, but if not, use the Access for All option and pay what you can. This pass DOES NOT cover the Colonial show. To get a ticket to the Colonial show, visit them  HERE .\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/thing2026saturday
+URL:https://www.novaarts.org/events/thing2026saturday
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-234@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260516T190000
+DTEND;TZID=America/New_York:20260516T220000
+SUMMARY:Thing in the Spring: Ghostface Killah w/ Sammus at The Colonial Theatre
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:BUY TICKETS   Dennis Coles (born May 9, 1970), known as  Ghostface Killah , is a highly influential rapper from Staten Island, NY, and a core member of the iconic Wu-Tang Clan, famous for his vivid storytelling, soulful sound, and prolific solo career that began with Ironman (1996) after the group’s breakthrough. He’s known for alter egos like Tony Starks (Iron Man), has a distinctive fast-paced flow, and is critically acclaimed as a master storyteller in hip-hop, with a catalog including classics like Supreme Clientele. SAMMUS  (Enongo Lumumba-Kasongo) is a Black feminist rapper, beatmaker, and scholar from Ithaca, NY with family roots in Côte D'Ivoire and the Democratic Republic of Congo. She is the David S. Josephson Assistant Professor of Music at Brown University as well as the Faculty Director of the Black Music Lab. Since 2010 she has written, produced, and recorded six albums  alongside several collaborations with notable artists including Moor Mother, Open Mike Eagle, Mega Ran, and William Brittelle. She has also produced work for a diverse range of video game developers, podcasters, and filmmakers. As noted by the Los Angeles Times, SAMMUS “has a gift for getting a message across.” She is currently completing two studio projects slated for release in 2025. Dr. Lumumba-Kasongo received her PhD from Cornell University in Science and Technology Studies in 2019. Her scholarly areas of interest include Black feminist sound studies and hip-hop praxis, particularly as it intersects with AI and gaming technocultures. Since Fall 2021 she has been a member of the steering committee for Brown’s science, technology, and society program. From 2019 to 2024 she served as the Director of Audio at Glow Up Games, the first women-of-color led game studio. THIS SHOW IS HAPPENING AT THE COLONIAL THEATRE. THIS SHOW  IS INCLUDED  WITH YOUR LIMITED WEEKEND PASS. INDIVIDUAL TICKETS CAN BE PURCHASED VIA THE COLONIAL THEATER  HERE\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/thingghostface
+URL:https://www.novaarts.org/events/thingghostface
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-192@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260517T190000
 DTEND;TZID=America/New_York:20260517T210000
 SUMMARY:John Gorka
@@ -868,8 +1060,26 @@ DESCRIPTION:Twilight MusicJohn GorkaSoulful, timeless folk music from a master o
 URL:https://www.nextstagearts.org/events-calendar#/events/169652
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-235@things-we-love
+DTSTAMP:20260210T025356Z
+DTSTART;TZID=America/New_York:20260517T120000
+DTEND;TZID=America/New_York:20260517T193000
+SUMMARY:Thing in the Spring Sunday
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ This pass gets you into the Sunday show at Nova Arts, featuring performances by: Woods, Saintseneca, Thanya Iyer, Habitat, Nova One, Edsel Axle, and Mary Elizabeth Remington. Seating is limited and first come first served. All ages. If you can pay full price, please do, but if not, use the Access for All option and pay what you can.\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/thing2026sunday
+URL:https://www.novaarts.org/events/thing2026sunday
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-165@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260523T200000
 DTEND;TZID=America/New_York:20260523T220000
 SUMMARY:King Tuff
@@ -879,7 +1089,7 @@ URL:https://stonechurchvt.com#/events/154304
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-166@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260527T200000
 DTEND;TZID=America/New_York:20260527T220000
 SUMMARY:Oranssi Pazuzu
@@ -889,7 +1099,7 @@ URL:https://stonechurchvt.com#/events/149483
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-193@things-we-love
-DTSTAMP:20260210T025051Z
+DTSTAMP:20260210T025356Z
 DTSTART;TZID=America/New_York:20260527T100000
 DTEND;TZID=America/New_York:20260527T120000
 SUMMARY:American Red Cross Blood Drive
