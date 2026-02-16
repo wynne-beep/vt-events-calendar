@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Things We Love - Southern VT Events</title>
+<style>
+  body { font-family: -apple-system, sans-serif; max-width: 600px; margin: 40px auto; padding: 0 20px; color: #333; }
+  h1 { color: #2d3748; }
+  code { background: #f7f7f7; padding: 4px 8px; border-radius: 4px; font-size: 0.95em; word-break: break-all; }
+  ul { line-height: 1.8; }
+  a { color: #c2185b; }
+</style>
+</head>
+<body>
+<h1>Things We Love - Southern VT Events</h1>
+<p>A community calendar aggregating local events from southern Vermont and the surrounding area.</p>
+
+<h2>Subscribe in Google Calendar</h2>
+<ol>
+<li>Open <a href="https://calendar.google.com">Google Calendar</a></li>
+<li>Click the + next to "Other calendars" on the left</li>
+<li>Choose "From URL"</li>
+<li>Paste the URL below</li>
+</ol>
+<p><strong>Calendar URL:</strong></p>
+<code id="cal-url"></code>
+
+<h2>Our Sources</h2>
+<ul>
+<li><a href="https://www.babesvt.com/events">Babes</a></li>
+<li><a href="https://www.bellowsfallsoperahouse.com/event-calendar/">Bellows Falls Opera House</a></li>
+<li><a href="https://www.epsilonspires.org/">Epsilon Spires</a></li>
+<li><a href="http://www.hallartfoundation.org/location/vermont/special-programs">Hall Art - Special Programs</a></li>
+<li><a href="https://lastditchvenue.com/events-calendar#/events">Last Ditch</a></li>
+<li><a href="https://www.nextstagearts.org/#/events">Next Stage Arts</a></li>
+<li><a href="https://www.novaarts.org/events">Nova Arts</a></li>
+<li><a href="https://putneylibrary.org/events/list/">Putney Library</a></li>
+<li><a href="https://stage33live.com/tickets/">Stage 22</a></li>
+<li><a href="https://stonechurchvt.com/#/events">Stone Church</a></li>
+<li><a href="https://www.instagram.com/thebuoyantheart/">The Buoyant Heart</a></li>
+<li><a href="https://vtjazz.org/calendar/">Vermont Jazz Center</a></li>
+<li><a href="https://iputney.com/iputney-calendar/action~agenda/request_format~html/">iPutney</a></li>
+</ul>
+
+<p><em>Updated automatically. Have a source to suggest? Email ourvtevents@gmail.com</em></p>
+
+<script>
+var base = window.location.href.replace('index.html', '');
+document.getElementById('cal-url').textContent = base + 'vt_events.ics';
+</script>
+</body>
+</html>

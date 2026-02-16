@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//VT Events Browser//Things We Love//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:PutneyHub
-X-WR-CALDESC:Local events in southern Vermont
+X-WR-CALNAME:Things We Love
+X-WR-CALDESC:Local events in southern Vermont. Sources: Babes\, Bellows Falls Opera House\, Epsilon Spires\, Hall Art - Special Programs\, Last Ditch\, Next Stage Arts\, Nova Arts\, Putney Library\, Stage 22\, Stone Church\, The Buoyant Heart\, Vermont Jazz Center\, iPutney
 X-WR-TIMEZONE:America/New_York
 BEGIN:VTIMEZONE
 TZID:America/New_York
@@ -24,8 +24,18 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:vt-event-263@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20260216
+DTEND;TZID=America/New_York:20260216T235900
+SUMMARY:Library Closed for Presidents Day
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-presidents-day-4/
+URL:https://putneylibrary.org/event/library-closed-for-presidents-day-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-175@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260218T110000
 DTEND;TZID=America/New_York:20260218T130000
 SUMMARY:Volunteer Income Tax Preparation Assistance (VITA) Program
@@ -35,7 +45,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168874
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-216@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260218T190000
 DTEND;TZID=America/New_York:20260218T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -44,8 +54,18 @@ DESCRIPTION:Karaoke with DJ KouchWednesday February 18Minimum age:All agesShow t
 URL:https://lastditchvenue.com/events-calendar#/events/169949
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-264@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260218T140000
+DTEND;TZID=America/New_York:20260218T150000
+SUMMARY:Putney Amblers Walking Group
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Would you like to get outside and walk in the company of others? The Putney Amblers is a casual walking group sponsored by Putney Public Library. Moseying with others is [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/putney-amblers-walking-group-2/2026-02-18/
+URL:https://putneylibrary.org/event/putney-amblers-walking-group-2/2026-02-18/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-217@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260219T190000
 DTEND;TZID=America/New_York:20260219T210000
 SUMMARY:Lavender Line Dancing
@@ -55,7 +75,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169954
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-225@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260219T170000
 DTEND;TZID=America/New_York:20260219T190000
 SUMMARY:What Can We Do About It Here? Session 1
@@ -65,7 +85,7 @@ URL:https://www.novaarts.org/events/whatcanwedo1
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-136@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260220T200000
 DTEND;TZID=America/New_York:20260220T220000
 SUMMARY:The Gaslight Tinkers
@@ -75,7 +95,7 @@ URL:https://stonechurchvt.com#/events/158650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-176@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260220T193000
 DTEND;TZID=America/New_York:20260220T213000
 SUMMARY:Queralt Giralt Soler Trio
@@ -85,7 +105,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168554
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-199@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:What's On
@@ -95,7 +115,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-204@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260220T183000
 DTEND;TZID=America/New_York:20260220T200000
 SUMMARY:THE FLYING ACE w/ Pipe Organ Score by Jeff Rapsis!
@@ -105,7 +125,7 @@ URL:https://www.epsilonspires.org/event-info/the-flying-ace-w-pipe-organ-score-b
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-218@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260220T190000
 DTEND;TZID=America/New_York:20260220T210000
 SUMMARY:Two-Step Night
@@ -115,7 +135,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169955
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-236@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260220T174500
 DTEND;TZID=America/New_York:20260220T191500
 SUMMARY:Friday Night Flights!
@@ -125,7 +145,7 @@ URL:https://iputney.com/event/friday-night-flights-9/?instance_id=5193
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-130@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents Party Animals
@@ -137,7 +157,7 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-137@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260221T200000
 DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:North Mississippi All Stars
@@ -147,7 +167,7 @@ URL:https://stonechurchvt.com#/events/158374
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-219@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260221T190000
 DTEND;TZID=America/New_York:20260221T210000
 SUMMARY:Queer Strip Night
@@ -157,7 +177,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169417
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-226@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260221T190000
 DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:Wolfman Jack Play Primal Dead! 
@@ -175,7 +195,7 @@ URL:https://www.novaarts.org/events/wolfmanjack221
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-237@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260221T193000
 DTEND;TZID=America/New_York:20260221T213000
 SUMMARY:Nate Smith Trio
@@ -205,8 +225,18 @@ Brattleboro, VT 05301\n\nSource: iPutney\n\nDetails: https://iputney.com/event/n
 URL:https://iputney.com/event/nate-smith-trio/?instance_id=5194
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-257@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260221T193000
+DTEND;TZID=America/New_York:20260221T220000
+SUMMARY:SOLD OUT 2025-2026 Season: Nate Smith
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill #222\, Brattleboro\, VT
+DESCRIPTION:&lt;p&gt;Five-time Grammy-nominated drummer Nate Smith is one of the most dynamic and versatile voices in modern music.&lt;/p&gt;\n\n\nSource: Vermont Jazz Center\n\nDetails: https://vtjazz.org/calendar/nate-smith/
+URL:https://vtjazz.org/calendar/nate-smith/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-138@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260222T190000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Dueling Duets- Coleman Williams + Lightnin' Luke
@@ -216,7 +246,7 @@ URL:https://stonechurchvt.com#/events/159674
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-177@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260222T140000
 DTEND;TZID=America/New_York:20260222T160000
 SUMMARY:The Equivalent Lands
@@ -226,7 +256,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169153
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-205@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260222T183000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Frank Capra's LOST HORIZON (1937)
@@ -236,7 +266,7 @@ URL:https://www.epsilonspires.org/event-info/frank-capras-lost-horizon-1937
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-238@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260222T120000
 DTEND;TZID=America/New_York:20260222T150000
 SUMMARY:4th Annual Snow Golf
@@ -246,7 +276,7 @@ URL:https://iputney.com/event/4th-annual-snow-golf/?instance_id=5174
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-239@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260223T090000
 DTEND;TZID=America/New_York:20260223T110000
 SUMMARY:February Break Circus Camp
@@ -255,8 +285,28 @@ DESCRIPTION:Run away and join the circus for a 1/2 day or full day or full week 
 URL:https://iputney.com/event/february-break-circus-camp/?instance_id=5191
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-265@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20260224
+DTEND;TZID=America/New_York:20260224T235900
+SUMMARY:Stickerpalooza!
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Bring stickers, take stickers, make cool sticker books. All ages are invited to drop in and sift through our collection of stickers and to create your own sticker book.&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stickerpalooza-2/
+URL:https://putneylibrary.org/event/stickerpalooza-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-266@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260224T153000
+DTEND;TZID=America/New_York:20260224T163000
+SUMMARY:Read With A Dog
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Practice your reading skills with Virgil, our therapy dog volunteer and his human Abigail. All ages and abilities welcome Virgil loves to listen!&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/read-with-a-dog-16/
+URL:https://putneylibrary.org/event/read-with-a-dog-16/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-139@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260225T200000
 DTEND;TZID=America/New_York:20260225T220000
 SUMMARY:SKELETON CREWE
@@ -266,7 +316,7 @@ URL:https://stonechurchvt.com#/events/160254
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-206@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260225T183000
 DTEND;TZID=America/New_York:20260225T210000
 SUMMARY:BRAZIL (1985) w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -276,7 +326,7 @@ URL:https://www.epsilonspires.org/event-info/brazil-1985-w-live-music-by-revenan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-220@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260225T190000
 DTEND;TZID=America/New_York:20260225T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -286,7 +336,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169951
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-240@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260225T133000
 DTEND;TZID=America/New_York:20260225T143000
 SUMMARY:Senior Community Drum Circle
@@ -299,8 +349,28 @@ Senior drum circle demo video: https://www.youtube.com/watch?v=2voFc3HtjCg\n\nSo
 URL:https://iputney.com/event/senior-community-drum-circle/?instance_id=5148
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-267@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260225T140000
+DTEND;TZID=America/New_York:20260225T150000
+SUMMARY:Putney Amblers Walking Group
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Would you like to get outside and walk in the company of others? The Putney Amblers is a casual walking group sponsored by Putney Public Library. Moseying with others is [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/putney-amblers-walking-group-2/2026-02-25/
+URL:https://putneylibrary.org/event/putney-amblers-walking-group-2/2026-02-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-268@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260225T180000
+DTEND;TZID=America/New_York:20260225T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-8/
+URL:https://putneylibrary.org/event/stitch-together-8/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-140@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260226T200000
 DTEND;TZID=America/New_York:20260226T220000
 SUMMARY:Moviola/Wet Tuna/Animal Piss It's Everywhere
@@ -310,7 +380,7 @@ URL:https://stonechurchvt.com#/events/155759
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-221@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260226T180000
 DTEND;TZID=America/New_York:20260226T200000
 SUMMARY:Jump In! Clown for Stage Session 3
@@ -320,7 +390,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/166128
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-178@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260227T190000
 DTEND;TZID=America/New_York:20260227T210000
 SUMMARY:Johnny Cash! The Man\, His World\, His Music
@@ -330,7 +400,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169539
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-207@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260227T190000
 DTEND;TZID=America/New_York:20260227T220000
 SUMMARY:SHIRAZ: ROMANCE OF INDIA w/ Music Score by Utsav Lal!
@@ -340,7 +410,7 @@ URL:https://www.epsilonspires.org/event-info/shiraz-romance-of-india-w-music-sco
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-244@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260227T210000
 DTEND;TZID=America/New_York:20260227T230000
 SUMMARY:Bratt QDP- Every Body Dance
@@ -350,7 +420,7 @@ URL:https://stonechurchvt.com#/events/145088
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-141@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260228T200000
 DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:A Band of Brothers
@@ -360,7 +430,7 @@ URL:https://stonechurchvt.com#/events/152452
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-179@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260228T193000
 DTEND;TZID=America/New_York:20260228T213000
 SUMMARY:Corey Harris with Sunny Lowdown
@@ -370,7 +440,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169559
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-227@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260228T190000
 DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:Jonee Earthquake Band w/ Coffin Flop & Phrogs
@@ -388,7 +458,7 @@ URL:https://www.novaarts.org/events/joneeearthquake
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-241@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260301
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents The Fairy Circus
@@ -399,7 +469,7 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-242@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260228T133000
 DTEND;TZID=America/New_York:20260228T153000
 SUMMARY:Make Your Own Mosaic Mirror
@@ -419,7 +489,7 @@ URL:https://iputney.com/event/make-your-own-mosaic-mirror/?instance_id=5147
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-243@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260228T190000
 DTEND;TZID=America/New_York:20260228T210000
 SUMMARY:Sunburned Hand of the Man at Stage 33 Live
@@ -435,8 +505,38 @@ Stage 33 Live gratefully acknowledges the help of so many individuals without wh
 URL:https://iputney.com/event/sunburned-hand-of-the-man-at-stage-33-live/?instance_id=5189
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-269@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260228T093000
+DTEND;TZID=America/New_York:20260228T223000
+SUMMARY:Music & Movement
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Join Sarah &amp; Stu for a fun, playful, and participatory song circle for children ages 0-5! In this dynamic class, children (and their caregivers) will be invited to sing, play, [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/music-movement-30/
+URL:https://putneylibrary.org/event/music-movement-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-270@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20260303
+DTEND;TZID=America/New_York:20260303T235900
+SUMMARY:Library Closed for Town Meeting Day
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-town-meeting-day-3/
+URL:https://putneylibrary.org/event/library-closed-for-town-meeting-day-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-271@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260304T140000
+DTEND;TZID=America/New_York:20260304T150000
+SUMMARY:Putney Amblers Walking Group
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Would you like to get outside and walk in the company of others? The Putney Amblers is a casual walking group sponsored by Putney Public Library. Moseying with others is [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/putney-amblers-walking-group-2/2026-03-04/
+URL:https://putneylibrary.org/event/putney-amblers-walking-group-2/2026-03-04/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-142@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260305T200000
 DTEND;TZID=America/New_York:20260305T220000
 SUMMARY:Nathan Evans & The Saint PHNX Band
@@ -446,7 +546,7 @@ URL:https://stonechurchvt.com#/events/161469
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-250@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260305T170000
 DTEND;TZID=America/New_York:20260305T190000
 SUMMARY:What Can We Do About It Here? Session 2
@@ -456,7 +556,7 @@ URL:https://www.novaarts.org/events/whatcanwedo2
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-143@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260306T190000
 DTEND;TZID=America/New_York:20260306T210000
 SUMMARY:Sepsiss\, Awaiting Abigail\, Under The Horizon\, Pulsifier
@@ -466,7 +566,7 @@ URL:https://stonechurchvt.com#/events/164287
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-180@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260306T193000
 DTEND;TZID=America/New_York:20260306T213000
 SUMMARY:Kalos plus Dan Houghton & Rachel Clemente
@@ -476,7 +576,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169579
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-248@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260306T193000
 DTEND;TZID=America/New_York:20260306T213000
 SUMMARY:Kalos plus If You Must Know
@@ -486,7 +586,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169579
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-251@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260306T190000
 DTEND;TZID=America/New_York:20260306T220000
 SUMMARY:The Wooden Nickels w/ Liam Grant & Sam Boston
@@ -504,7 +604,7 @@ URL:https://www.novaarts.org/events/thewoodennickels
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-144@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260307T200000
 DTEND;TZID=America/New_York:20260307T220000
 SUMMARY:The Slackers
@@ -514,7 +614,7 @@ URL:https://stonechurchvt.com#/events/153480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-208@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260307T183000
 DTEND;TZID=America/New_York:20260307T213000
 SUMMARY:NAKED LUNCH w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -523,8 +623,18 @@ DESCRIPTION:NAKED LUNCH (1991, 115 mins, Dir. David Cronenberg).MATURE AUDIENCES
 URL:https://www.epsilonspires.org/event-info/naked-lunch-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-258@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260307T193000
+DTEND;TZID=America/New_York:20260307T220000
+SUMMARY:2025-2026 Season: Miguel Zenón Quartet
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill #222\, Brattleboro\, VT
+DESCRIPTION:&lt;p&gt; “One of the most esteemed and singular-voiced alto saxophonists in jazz.”&lt;/p&gt;\n\n\nSource: Vermont Jazz Center\n\nDetails: https://vtjazz.org/calendar/2025-2026-season-miguel-zenon/
+URL:https://vtjazz.org/calendar/2025-2026-season-miguel-zenon/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-145@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260311T200000
 DTEND;TZID=America/New_York:20260311T220000
 SUMMARY:Eilen Jewell
@@ -534,7 +644,7 @@ URL:https://stonechurchvt.com#/events/141805
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-181@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260311T190000
 DTEND;TZID=America/New_York:20260311T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -544,7 +654,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169586
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-249@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260311T113000
 DTEND;TZID=America/New_York:20260311T133000
 SUMMARY:Volunteer Income Tax Preparation Assistance (VITA) Program
@@ -553,8 +663,18 @@ DESCRIPTION:SEVCAVolunteer Income Tax Preparation Assistance (VITA) ProgramWedne
 URL:https://www.nextstagearts.org/events-calendar#/events/171895
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-272@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260311T180000
+DTEND;TZID=America/New_York:20260311T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-9/
+URL:https://putneylibrary.org/event/stitch-together-9/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-146@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260312T200000
 DTEND;TZID=America/New_York:20260312T220000
 SUMMARY:Pat Travers
@@ -564,7 +684,7 @@ URL:https://stonechurchvt.com#/events/157888
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-182@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T210000
 SUMMARY:Community Sing-Along
@@ -574,7 +694,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169599
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-209@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T204000
 SUMMARY:MAINTENANCE ARTIST: Documentary w/ Director Q&A
@@ -584,7 +704,7 @@ URL:https://www.epsilonspires.org/event-info/maintenance-artist-documentary-w-di
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-147@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260314T200000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:LEFTöVER CRACK
@@ -594,7 +714,7 @@ URL:https://stonechurchvt.com#/events/161798
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-183@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260314T193000
 DTEND;TZID=America/New_York:20260314T213000
 SUMMARY:Race & Song: A Musical Conversation
@@ -604,7 +724,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169612
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-228@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260314T190000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:Terraces / Sunset Mission
@@ -622,7 +742,7 @@ URL:https://www.novaarts.org/events/terracessunsetmission
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-245@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260314T200000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:LEFTöVER CRACK/PILFERS/CORRUPT WORD
@@ -631,8 +751,28 @@ DESCRIPTION:LEFTöVER CRACK/PILFERS/CORRUPT WORDSaturday March 14Minimum age:All
 URL:https://stonechurchvt.com#/events/161798
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-273@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260314T093000
+DTEND;TZID=America/New_York:20260314T103000
+SUMMARY:Music & Movement
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Join Sarah &amp; Stu for a fun, playful, and participatory song circle for children ages 0-5! In this dynamic class, children (and their caregivers) will be invited to sing, play, [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/music-movement-31/
+URL:https://putneylibrary.org/event/music-movement-31/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-274@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260315T130000
+DTEND;TZID=America/New_York:20260315T160000
+SUMMARY:Mending Bee
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Do you have a pile of nice wool socks with holes, favorite jeans that would be perfect if not for a rip in the knee, or sweaters with moth holes? [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/mending-bee-23/
+URL:https://putneylibrary.org/event/mending-bee-23/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-252@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260319T190000
 DTEND;TZID=America/New_York:20260319T210000
 SUMMARY:Mutual Aid Open Mic! 
@@ -649,8 +789,18 @@ DESCRIPTION:Buy Tickets on Eventbrite
 URL:https://www.novaarts.org/events/openmic319
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-275@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260319T183000
+DTEND;TZID=America/New_York:20260319T200000
+SUMMARY:The Pursuit of Happiness with Meg Mott
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;250 years ago, a new nation was brought forth by a People who had the gall to think they could govern themselves. As long as each citizen worked to improve [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/the-pursuit-of-happiness-with-meg-mott/
+URL:https://putneylibrary.org/event/the-pursuit-of-happiness-with-meg-mott/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-148@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T210000
 SUMMARY:Moon Walker | Demi the Daredevil |  Sarah and the Safe Word
@@ -660,7 +810,7 @@ URL:https://stonechurchvt.com#/events/164869
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-184@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260320T193000
 DTEND;TZID=America/New_York:20260320T213000
 SUMMARY:Singer/Songwriter Showcase
@@ -670,7 +820,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/170375
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-200@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:February 2026
@@ -680,7 +830,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-210@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T204000
 SUMMARY:PEACHES GOES BANANAS! +Director Q&A!
@@ -690,7 +840,7 @@ URL:https://www.epsilonspires.org/event-info/peaches-goes-bananas-director-q-a
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-229@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T220000
 SUMMARY:The Great Groove Theory / Reckoners
@@ -708,7 +858,7 @@ URL:https://www.novaarts.org/events/greatgroovereckoners
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-149@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260321T200000
 DTEND;TZID=America/New_York:20260321T220000
 SUMMARY:New Planets
@@ -718,7 +868,7 @@ URL:https://stonechurchvt.com#/events/161825
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-255@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260321T180000
 DTEND;TZID=America/New_York:20260321T194500
 SUMMARY:EAST AND WEST (1924) Yiddish Silent Film w/ Live Music by Alicia Svigals & Donald Sosin!
@@ -728,7 +878,7 @@ URL:https://www.epsilonspires.org/event-info/east-and-west-1924-yiddish-silent-f
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-256@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260321T194500
 DTEND;TZID=America/New_York:20260321T214500
 SUMMARY:EAST AND WEST: Dinner & Film Experience!
@@ -737,8 +887,38 @@ DESCRIPTION:Doors open 6pm, Film begins 6:15,  After the film at 7:45pm, Enjoy a
 URL:https://www.epsilonspires.org/event-info/east-and-west-dinner-film-experience
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-259@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260321T193000
+DTEND;TZID=America/New_York:20260321T220000
+SUMMARY:Windham County Heat Fund Benefit Concert Cameron Brown’s 80th Birthday Celebration
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill #222\, Brattleboro\, VT
+DESCRIPTION:&lt;p&gt;Bass maestro Cameron Brown has been teaching at the VJC’s Summer Jazz Workshop since 2006. We honor his contributions and historic legacy by hosting him and his New York-based band. All proceeds pledged to the Windham County Heat Fund.&lt;/p&gt;\n\n\nSource: Vermont Jazz Center\n\nDetails: https://vtjazz.org/calendar/2025-2026-season-cameron-brown/
+URL:https://vtjazz.org/calendar/2025-2026-season-cameron-brown/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-276@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260321T110000
+DTEND;TZID=America/New_York:20260321T123000
+SUMMARY:I Draw You\, You Draw Me
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Are you a kid who would like to draw a portrait of an adult? Are you an adult who would like to draw a portrait of a kid? We’ll match [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/i-draw-you-you-draw-me-2/
+URL:https://putneylibrary.org/event/i-draw-you-you-draw-me-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-277@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260324T183000
+DTEND;TZID=America/New_York:20260324T200000
+SUMMARY:The Problem with Plastic book discussion
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/the-problem-with-plastic-book-discussion/
+URL:https://putneylibrary.org/event/the-problem-with-plastic-book-discussion/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-150@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260325T200000
 DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:The Cold Stares
@@ -747,8 +927,18 @@ DESCRIPTION:The Cold StaresWednesday March 25Minimum age:All agesShow time:8:00 
 URL:https://stonechurchvt.com#/events/165921
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-278@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260325T180000
+DTEND;TZID=America/New_York:20260325T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-10/
+URL:https://putneylibrary.org/event/stitch-together-10/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-151@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260327T200000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Little Lies- Fleetwood Mac Tribute
@@ -758,7 +948,7 @@ URL:https://stonechurchvt.com#/events/155750
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-185@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260327T193000
 DTEND;TZID=America/New_York:20260327T213000
 SUMMARY:Vermont Comedy All Stars Live Stand-up Comedy Showcase!
@@ -768,7 +958,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169619
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-230@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260327T190000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Sean Rowe w/ Simon Gray
@@ -786,7 +976,7 @@ URL:https://www.novaarts.org/events/seanrowe
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-152@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260328T200000
 DTEND;TZID=America/New_York:20260328T220000
 SUMMARY:Bearly Dead
@@ -795,8 +985,18 @@ DESCRIPTION:Bearly DeadSaturday March 28Minimum age:All agesShow time:8:00 PMDoo
 URL:https://stonechurchvt.com#/events/159705
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-279@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260328T093000
+DTEND;TZID=America/New_York:20260328T103000
+SUMMARY:Music & Movement
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Join Sarah &amp; Stu for a fun, playful, and participatory song circle for children ages 0-5! In this dynamic class, children (and their caregivers) will be invited to sing, play, [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/music-movement-32/
+URL:https://putneylibrary.org/event/music-movement-32/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-222@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260402T190000
 DTEND;TZID=America/New_York:20260402T210000
 SUMMARY:SARIKA with Alouette Batteau & Olivia Nied
@@ -806,7 +1006,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/168675
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-153@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260403T200000
 DTEND;TZID=America/New_York:20260403T220000
 SUMMARY:The Meteors
@@ -816,7 +1016,7 @@ URL:https://stonechurchvt.com#/events/161480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-186@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260403T193000
 DTEND;TZID=America/New_York:20260403T213000
 SUMMARY:The Gaslight Tinkers Dance Party
@@ -826,7 +1026,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169621
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-154@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260404T200000
 DTEND;TZID=America/New_York:20260404T220000
 SUMMARY:Wild Party/Capital Soiree
@@ -836,7 +1036,7 @@ URL:https://stonechurchvt.com#/events/159959
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-253@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260404T190000
 DTEND;TZID=America/New_York:20260404T220000
 SUMMARY:TAKAAT w/ Kal Marks (solo)
@@ -854,7 +1054,7 @@ URL:https://www.novaarts.org/events/takaat44
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-187@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260408T190000
 DTEND;TZID=America/New_York:20260408T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -863,8 +1063,18 @@ DESCRIPTION:NXT Rockumentary Film SeriesA moving documentary on the struggles an
 URL:https://www.nextstagearts.org/events-calendar#/events/169623
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-280@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260408T180000
+DTEND;TZID=America/New_York:20260408T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-11/
+URL:https://putneylibrary.org/event/stitch-together-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-155@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260410T200000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:Tanya Donelly and Chris Brokaw
@@ -873,8 +1083,18 @@ DESCRIPTION:Tanya Donelly and Chris BrokawMadrigals and GuitarFriday April 10Min
 URL:https://stonechurchvt.com#/events/156021
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-260@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260410T193000
+DTEND;TZID=America/New_York:20260410T220000
+SUMMARY:2025-2026 Solo Jazz Piano Festival
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill #222\, Brattleboro\, VT
+DESCRIPTION:&lt;p&gt;For all music lovers, not just pianists, who are interested in both the practical and spiritual aspects of jazz and improvised music. &lt;/p&gt;\n\n\nSource: Vermont Jazz Center\n\nDetails: https://vtjazz.org/calendar/2025-2026-solo-jazz-piano-festival/
+URL:https://vtjazz.org/calendar/2025-2026-solo-jazz-piano-festival/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-156@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260411T200000
 DTEND;TZID=America/New_York:20260411T220000
 SUMMARY:lespecial
@@ -884,7 +1104,7 @@ URL:https://stonechurchvt.com#/events/166473
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-188@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260411T193000
 DTEND;TZID=America/New_York:20260411T213000
 SUMMARY:É.T.É
@@ -894,7 +1114,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169227
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-157@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260412T190000
 DTEND;TZID=America/New_York:20260412T210000
 SUMMARY:Pallbearer
@@ -904,7 +1124,7 @@ URL:https://stonechurchvt.com#/events/157992
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-246@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260415T200000
 DTEND;TZID=America/New_York:20260415T220000
 SUMMARY:Poison Ruïn
@@ -914,7 +1134,7 @@ URL:https://stonechurchvt.com#/events/158144
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-158@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260417T200000
 DTEND;TZID=America/New_York:20260417T220000
 SUMMARY:The Antlers
@@ -924,7 +1144,7 @@ URL:https://stonechurchvt.com#/events/156610
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-189@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260417T193000
 DTEND;TZID=America/New_York:20260417T213000
 SUMMARY:Jake Shulman-Ment
@@ -933,8 +1153,18 @@ DESCRIPTION:Jake Shulman-MentFierce klezmer violinist blending tradition, improv
 URL:https://www.nextstagearts.org/events-calendar#/events/169639
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-281@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260419T130000
+DTEND;TZID=America/New_York:20260419T160000
+SUMMARY:Mending Bee
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Do you have a pile of nice wool socks with holes, favorite jeans that would be perfect if not for a rip in the knee, or sweaters with moth holes? [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/mending-bee-24/
+URL:https://putneylibrary.org/event/mending-bee-24/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-159@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260420T190000
 DTEND;TZID=America/New_York:20260420T210000
 SUMMARY:Weedeater + Conan
@@ -943,8 +1173,18 @@ DESCRIPTION:Weedeater + ConanMonday April 20Minimum age:All agesShow time:7:00 P
 URL:https://stonechurchvt.com#/events/160572
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-282@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260422T180000
+DTEND;TZID=America/New_York:20260422T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-12/
+URL:https://putneylibrary.org/event/stitch-together-12/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-160@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260423T200000
 DTEND;TZID=America/New_York:20260423T220000
 SUMMARY:Courtney Marie Andrews
@@ -954,7 +1194,7 @@ URL:https://stonechurchvt.com#/events/141536
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-161@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260430T200000
 DTEND;TZID=America/New_York:20260430T220000
 SUMMARY:Haley Heynderickx & Max Garcia Conover
@@ -964,7 +1204,7 @@ URL:https://stonechurchvt.com#/events/158537
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-211@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260430T190000
 DTEND;TZID=America/New_York:20260430T213000
 SUMMARY:Whitney Johnson - Lia Kohl - Macie Stewart Trio
@@ -974,7 +1214,7 @@ URL:https://www.epsilonspires.org/event-info/whitney-johnson-lia-kohl-macie-stew
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-162@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260501T200000
 DTEND;TZID=America/New_York:20260501T220000
 SUMMARY:Juice
@@ -984,7 +1224,7 @@ URL:https://stonechurchvt.com#/events/162699
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-163@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260502T200000
 DTEND;TZID=America/New_York:20260502T220000
 SUMMARY:ULTRA SUNN
@@ -993,8 +1233,18 @@ DESCRIPTION:ULTRA SUNNForever GreySaturday May 2Minimum age:All agesShow time:8:
 URL:https://stonechurchvt.com#/events/139076
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-283@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260506T180000
+DTEND;TZID=America/New_York:20260506T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-16/
+URL:https://putneylibrary.org/event/stitch-together-16/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-190@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260508T193000
 DTEND;TZID=America/New_York:20260508T213000
 SUMMARY:Victoria Redel in Conversation with Robin MacArthur
@@ -1004,7 +1254,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-191@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260513T190000
 DTEND;TZID=America/New_York:20260513T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -1014,7 +1264,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169686
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-164@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260515T200000
 DTEND;TZID=America/New_York:20260515T220000
 SUMMARY:TAGABOW
@@ -1024,7 +1274,7 @@ URL:https://stonechurchvt.com#/events/164398
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-231@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260515T160000
 DTEND;TZID=America/New_York:20260515T193000
 SUMMARY:Thing in the Spring Weekend Pass! 
@@ -1042,7 +1292,7 @@ URL:https://www.novaarts.org/events/thing2026pass
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-232@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260515T160000
 DTEND;TZID=America/New_York:20260515T223000
 SUMMARY:Thing in the Spring FRIDAY
@@ -1060,7 +1310,7 @@ URL:https://www.novaarts.org/events/thing2026friday
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-254@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260515T160000
 DTEND;TZID=America/New_York:20260515T193000
 SUMMARY:Thing in the Spring Weekend Pass SOLD OUT
@@ -1078,7 +1328,7 @@ URL:https://www.novaarts.org/events/thing2026pass
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-233@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260516T120000
 DTEND;TZID=America/New_York:20260516T190000
 SUMMARY:Thing in the Spring Saturday
@@ -1096,7 +1346,7 @@ URL:https://www.novaarts.org/events/thing2026saturday
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-234@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260516T190000
 DTEND;TZID=America/New_York:20260516T220000
 SUMMARY:Thing in the Spring: Ghostface Killah w/ Sammus at The Colonial Theatre
@@ -1105,8 +1355,18 @@ DESCRIPTION:BUY TICKETS   Dennis Coles (born May 9, 1970), known as  Ghostface K
 URL:https://www.novaarts.org/events/thingghostface
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-261@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260516T193000
+DTEND;TZID=America/New_York:20260516T220000
+SUMMARY:2025-2026 Season: Sean Jones
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill #222\, Brattleboro\, VT
+DESCRIPTION:&lt;p&gt;Nationally acclaimed trumpeter, composer, bandleader, and educator Sean Jones to perform May 16, 2026 at Vermont Jazz Center. Known for his commanding presence and versatility, he moves seamlessly across genres – leading his own ensembles, collaborating with orchestras, and mentoring emerging talent.&lt;/p&gt;\n\n\nSource: Vermont Jazz Center\n\nDetails: https://vtjazz.org/calendar/2025-2026-season-sean-jones/
+URL:https://vtjazz.org/calendar/2025-2026-season-sean-jones/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-192@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260517T190000
 DTEND;TZID=America/New_York:20260517T210000
 SUMMARY:John Gorka
@@ -1116,7 +1376,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169652
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-235@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260517T120000
 DTEND;TZID=America/New_York:20260517T193000
 SUMMARY:Thing in the Spring Sunday
@@ -1133,8 +1393,28 @@ DESCRIPTION:Buy Tickets on Eventbrite
 URL:https://www.novaarts.org/events/thing2026sunday
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-284@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260517T130000
+DTEND;TZID=America/New_York:20260517T160000
+SUMMARY:Mending Bee
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Do you have a pile of nice wool socks with holes, favorite jeans that would be perfect if not for a rip in the knee, or sweaters with moth holes? [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/mending-bee-25/
+URL:https://putneylibrary.org/event/mending-bee-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-285@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260520T180000
+DTEND;TZID=America/New_York:20260520T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-13/
+URL:https://putneylibrary.org/event/stitch-together-13/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-165@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260523T200000
 DTEND;TZID=America/New_York:20260523T220000
 SUMMARY:King Tuff
@@ -1143,8 +1423,18 @@ DESCRIPTION:King TuffMod LangSaturday May 23Minimum age:All agesShow time:8:00 P
 URL:https://stonechurchvt.com#/events/154304
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-286@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20260525
+DTEND;TZID=America/New_York:20260525T235900
+SUMMARY:Library Closed for Memorial Day
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-memorial-day-4/
+URL:https://putneylibrary.org/event/library-closed-for-memorial-day-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-166@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260527T200000
 DTEND;TZID=America/New_York:20260527T220000
 SUMMARY:Oranssi Pazuzu
@@ -1154,7 +1444,7 @@ URL:https://stonechurchvt.com#/events/149483
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-193@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20260527T100000
 DTEND;TZID=America/New_York:20260527T120000
 SUMMARY:American Red Cross Blood Drive
@@ -1163,13 +1453,123 @@ DESCRIPTION:American Red Cross Blood DriveWednesday, May 27Minimum age:All agesS
 URL:https://www.nextstagearts.org/events-calendar#/events/169657
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-287@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260603T180000
+DTEND;TZID=America/New_York:20260603T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-14/
+URL:https://putneylibrary.org/event/stitch-together-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-262@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260613T193000
+DTEND;TZID=America/New_York:20260613T220000
+SUMMARY:2026-2026 Season: Convergence Project
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill #222\, Brattleboro\, VT
+DESCRIPTION:&lt;p&gt;Join VJC Director, Eugene Uman as he mines his repertoire of original music with a dream team of collaborators.&lt;/p&gt;\n\n\nSource: Vermont Jazz Center\n\nDetails: https://vtjazz.org/calendar/2026-convergence-project/
+URL:https://vtjazz.org/calendar/2026-convergence-project/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-288@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260614T130000
+DTEND;TZID=America/New_York:20260614T160000
+SUMMARY:Mending Bee
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Do you have a pile of nice wool socks with holes, favorite jeans that would be perfect if not for a rip in the knee, or sweaters with moth holes? [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/mending-bee-26/
+URL:https://putneylibrary.org/event/mending-bee-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-289@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20260617T180000
+DTEND;TZID=America/New_York:20260617T200000
+SUMMARY:Stitch Together
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:&lt;p&gt;Stitch Together at Putney Library Come knit, crochet, embroider, mend or work on any handwork craft in the company of others. The library is cozy and the lighting is perfect [&hellip;]&lt;/p&gt;\n\n\nSource: Putney Library\n\nDetails: https://putneylibrary.org/event/stitch-together-15/
+URL:https://putneylibrary.org/event/stitch-together-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-290@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20260619
+DTEND;TZID=America/New_York:20260619T235900
+SUMMARY:Library Closed for Juneteenth
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-juneteenth-2/
+URL:https://putneylibrary.org/event/library-closed-for-juneteenth-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-291@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20260703
+DTEND;TZID=America/New_York:20260703T235900
+SUMMARY:Library Closed for 4th of July
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-4th-of-july/
+URL:https://putneylibrary.org/event/library-closed-for-4th-of-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-292@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20260907
+DTEND;TZID=America/New_York:20260907T235900
+SUMMARY:Library Closed for Labor Day
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-labor-day-4/
+URL:https://putneylibrary.org/event/library-closed-for-labor-day-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-293@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20261012
+DTEND;TZID=America/New_York:20261012T235900
+SUMMARY:Library Closed for Indigenous Peoples Day
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-indigenous-peoples-day-3/
+URL:https://putneylibrary.org/event/library-closed-for-indigenous-peoples-day-3/
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-247@things-we-love
-DTSTAMP:20260216T231846Z
+DTSTAMP:20260216T232134Z
 DTSTART;TZID=America/New_York:20261022T200000
 DTEND;TZID=America/New_York:20261022T220000
 SUMMARY:Carsie Blanton
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
 DESCRIPTION:Carsie BlantonThursday October 22Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionCarsie Blanton is a songwriter with hooks, chutzpah, and revolutionary optimism. A radical folk artist in the tradition of Woody Guthrie, her infectious melodies and lyrical wit keep listeners rapt while she conjures spirits of vaudeville, campfire singalongs, and punk rock. Blanton and her road-tested band deploy humor, camaraderie, and considerable musical muscle to enroll each audience in a rare vision of hope and solidarity.In addition to writing and performing music, Carsie works as a political organizer and activist. In fall of 2025, she participated in the Global Sumud Flotilla, a direct action to bring humanitarian aid to Gaza by sailboat. In early October, after a month at sea, she was imprisoned in Israel for five days along with hundreds of her comrades.Soon after, Blanton released The Little Flame, a song of solidarity covered widely on social media during her detention. The Little Flame features background vocals from Irish band Ye Vagabonds and Carsie’s Palestinian/New Zealander prison-mate Rana Hamida, and appears on her latest album, The Red Album Vol II.After two decades spent on the road, Blanton has amassed a dedicated fan base and a small menagerie of viral hits, and regularly sells out mid-size venues across the U.S. and Europe. 2026 will find her touring heavily with her own band and in collaboration with Canadian folk-punk rabblerousers The Burning Hell, as well as continuing her organizing work with Artists Against Apartheid, Party for Socialism and Liberation and others.“Beautiful, militant anthems.” - Ken Tucker, NPR’s Fresh Air“Carsie Blanton is fighting fascism with big hooks andan even bigger heart.” -American SongwriterLineupCarsie Blanton\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/151481
 URL:https://stonechurchvt.com#/events/151481
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-294@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20261111
+DTEND;TZID=America/New_York:20261111T235900
+SUMMARY:Library Closed for Veterans Day
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-veterans-day-5/
+URL:https://putneylibrary.org/event/library-closed-for-veterans-day-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-295@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;VALUE=DATE:20261126
+DTEND;TZID=America/New_York:20261126T235900
+SUMMARY:Library Closed for Thanksgiving
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closed-for-thanksgiving-2/
+URL:https://putneylibrary.org/event/library-closed-for-thanksgiving-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-296@things-we-love
+DTSTAMP:20260216T232134Z
+DTSTART;TZID=America/New_York:20261224T150000
+DTEND;TZID=America/New_York:20261224T180000
+SUMMARY:Library Closes at 3pm for Christmas Eve
+LOCATION:Putney Public Library\, 55 Main St\, Putney\, VT
+DESCRIPTION:Source: Putney Library\n\nDetails: https://putneylibrary.org/event/library-closes-at-3pm-for-christmas-eve-2/
+URL:https://putneylibrary.org/event/library-closes-at-3pm-for-christmas-eve-2/
 END:VEVENT
 END:VCALENDAR
