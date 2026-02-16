@@ -24,170 +24,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:vt-event-172@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260211T190000
-DTEND;TZID=America/New_York:20260211T210000
-SUMMARY:NXT Rockumentary Film Series
-LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
-DESCRIPTION:NXT Rockumentary Film SeriesUtopian rock festival dreams clash with commerce amid legendary 1970 sets.Wednesday, Feb 11Minimum age:All agesShow time:7:00 PMDoors open:6:15 PMNext Stage ArtsRSVPDescription$8 suggested donationJoin us for the next installment of the NXT Rockumentary Film Series, featuring a feature-length documentary that transports audiences to one of the most legendary large-scale music gatherings of the early rock era. Set over several unforgettable days in 1970, the film captures the electrifying live performances, the spirit and idealism of the crowd, and the behind-the-scenes challenges of staging a festival at the height of countercultural momentum. With stunning concert footage and candid moments on and off the stage, this screening offers a vivid portrait of a pivotal moment in music history.Due to licensing restrictions, we’re unable to publicly list the film title. To find out what’s screening, join our mailing list or contact us directly.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/166730
-URL:https://www.nextstagearts.org/events-calendar#/events/166730
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-212@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260211T190000
-DTEND;TZID=America/New_York:20260211T210000
-SUMMARY:Karaoke with DJ Kouch
-LOCATION:Last Ditch\, 10 Fiske Ave\, Greenfield\, MA
-DESCRIPTION:Karaoke with DJ KouchWednesday February 11Minimum age:All agesShow time:7:00 PMDoors open:7:00 PMLast DitchTicketsDescriptionThis event is all ages and free! 7pm-12am! Masks are required for entry (available at venue). Elevator entry is located in the street level foyer of 10 Fiske Ave, through the glass double doors!\n\nSource: Last Ditch\n\nDetails: https://lastditchvenue.com/events-calendar#/events/169948
-URL:https://lastditchvenue.com/events-calendar#/events/169948
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-213@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260212T180000
-DTEND;TZID=America/New_York:20260212T200000
-SUMMARY:Jump In! Clown for Stage Session 2
-LOCATION:Last Ditch\, 10 Fiske Ave\, Greenfield\, MA
-DESCRIPTION:Jump In! Clown for Stage Session 2Thursday February 12Minimum age:All agesShow time:6:00 PMDoors open:6:00 PMLast DitchTicketsDescriptionJUMP IN!Clown for StageSession 2: Object WorkThursday, February 12, 2026LAST DITCH BAR, 6-9 pm $1010 Fiske Ave GreenfieldWheelchair access, open captioned, masks required and provided. Class material adjusted to needs of participants.Image description: The top half of a face. Wild dark hair, black smeared eyeliner, aggressive eyebrows, red clown nose. Mouth not visible, tops of bare shoulders. Hand holds a notebook with the following words in red, pink, black and white: JUMP IN! Clown for Stage Session 2: Object Work Feb 12, 2026monsterclowngirl.mmm.page\n\nSource: Last Ditch\n\nDetails: https://lastditchvenue.com/events-calendar#/events/166127
-URL:https://lastditchvenue.com/events-calendar#/events/166127
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-134@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260213T200000
-DTEND;TZID=America/New_York:20260213T220000
-SUMMARY:Wicked Game: A Gothic Promenade
-LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
-DESCRIPTION:Wicked Game: A Gothic PromenadePresented by Green Mountains of MadnessFriday February 13Minimum age:18 and overShow time:8:00 PMDoors open:7:30 PMStone ChurchTicketsDescription𝕨𝕚𝕔𝕜𝕖𝕕 𝕘𝕒𝕞𝕖 - 𝔞 𝔤𝔬𝔱𝔥𝔦𝔠 𝔭𝔯𝔬𝔪𝔢𝔫𝔞𝔡𝔢:: what a wicked game to play ::// slip into something darker this valentine’s day //Join us for an evening of sinister delights as we transform Stone Church into a gothic dreamland of beauty, intrigue, heartbreak, and darknessFeaturing music on the darker side of sound from Academy Order, Night Protocol, Dutch Experts, The Goat, Clock Serum and Vetica.Waltz with shadows and promenade between pole and burlesque dancers, dark decor, immersive visuals, dramatic lighting, a free photo booth, and a complete rejection of normality.Misfits Encouraged & A Dark Dress Code ExpectedPresented by Green Mountains of Madness\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/157998
-URL:https://stonechurchvt.com#/events/157998
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-173@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260213T173000
-DTEND;TZID=America/New_York:20260213T193000
-SUMMARY:Putney Community Supper
-LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
-DESCRIPTION:Putney Community SupperFriday, Feb 13Minimum age:All agesShow time:5:30 PMDoors open:5:30 PMNext Stage ArtsMore InfoDescriptionAdmission is by donation and All Are Welcome!More info: Simoninvermont@gmail.com or mmrowicki@gmail.com\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/168873
-URL:https://www.nextstagearts.org/events-calendar#/events/168873
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-202@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260213T183000
-DTEND;TZID=America/New_York:20260213T210000
-SUMMARY:BLADE RUNNER: Final Cut! w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
-LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
-DESCRIPTION:BLADE RUNNER (1982, 117 mins, Dir. Ridley Scott), In the year 2019, Ex-cop Rick Deckard (Harrison Ford) hunts down fugitive, human-like androids called “replicants” in a dystopian, twenty-first century Los Angeles, where neon saturates the crowded landscape and the traffic woes are quelled by endless skyways for flying vehicles. Based on Philip K. Dick’s 1968 novelDo Androids Dream of Electric Sheep?(and borrowing the title of a short story by William S. Burroughs), the film and its story popularized the now-classic cyberpunk conflict about the boundary between human consciousness and artificial intelligence.BLADE RUNNER is one of the most influential films of the past 30 years. While so many special effects spectacles are lost in time "like tears in the rain", the film remains every bit as influential in its vision as was Fritz Lang’sMetropolisover a half century before. Working with an innovative art department and synth…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/blade-runner-final-cut-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
-URL:https://www.epsilonspires.org/event-info/blade-runner-final-cut-w-live-music-by-revenant-sea-sheri-hupfer-mark-schwaber
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-214@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260213T190000
-DTEND;TZID=America/New_York:20260213T210000
-SUMMARY:Heartache Hideaway
-LOCATION:Last Ditch\, 10 Fiske Ave\, Greenfield\, MA
-DESCRIPTION:Heartache Hideaway Friday February 13Minimum age:18 and overShow time:8:30 PMDoors open:7:00 PMLast DitchTicketsDescriptionAn evening of art featuring Blood Bucket, mourning dove, GRLFOE, Ulan, Kyle Zegel, and Daniel Lev. This event is 18+. Doors at 7pm, music at 8:30pm. $5-$10 cover (pay what you can, no one turned away for lack of funds). Masks are required for entry (available at venue). Elevator entry is located in the street level foyer of 10 Fiske Ave, through the glass double doors!\n\nSource: Last Ditch\n\nDetails: https://lastditchvenue.com/events-calendar#/events/169952
-URL:https://lastditchvenue.com/events-calendar#/events/169952
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-223@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260213T170000
-DTEND;TZID=America/New_York:20260213T210000
-SUMMARY:Get Lucky Valentines Makers' Market!
-LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
-DESCRIPTION:Looking for a cozy night out with your special someone, your best gals, and all the loves in your lives? Come check out Brewbakers Cafe for the first annual Valentine’s Day Makers Market. Look no further for a host of romantic gifts and delicious treats. From beeswax candles to beaded jewelry, intricate embroidered decor to stunning painted canvases, vibrant ceramics to heartwarming scarves; all handmade with love and skill and ready to go to a happy home.  Alongside our happy vendors you’ll see a stage transformed into a photo booth bursting with color, created by the talented  Gnome Studio . Grab your loved ones and pose for a photo with all handmade props and you’ll take your very own polaroid to commemorate the night. Head to the makers’ space for crafts with WakaDoodles, and make your own bouquet at a  Billies + Tilli  flower bar.  To complete the night, have your pick of delicious specials from the Brewbakers pastry case and stroll the market with a cozy latte. Stop in before (or after) your dinner reservation, or sit and relax with a glass of wine. Either way, you won’t want to miss this cozy night out!\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/getlucky
-URL:https://www.novaarts.org/events/getlucky
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-124@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;VALUE=DATE:20260214
-DTEND;VALUE=DATE:20260215
-SUMMARY:Sandglass Theater’s Winter Sunshine Series presents The Baffo Box Show
-LOCATION:Putney\, VT\, Putney
-DESCRIPTION:For nearly two decades, the Winter Sunshine Series has been a warm beacon during Vermont’s coldest months—bringing laughter, imagination, and shared experiences to audiences of all ages. Sandglass Theater invites families, friends, and neighbors to gather once again this February and celebrate the joy of puppetry together.
-Performed in a one-of-a-kind suit-stage, this show packs classic hand puppetry, Dadaist ventriloquism, and stand-up comedy into a cardboard box and delivers it, with impeccable timing, live on stage.
-Inside the box are the Baffos — two slapstick chaps who keep the sun, moon and everything else running on schedule. From the moment the lid opens, audiences are captivated as the Baffos juggle and dance their way through the day’s chores, despite the undeniable evidence that their world is changing.
-A daring work of puppetry and object manipulation, full of beautiful images, junk music sonatas, and Modern Times Theater’s unique brand of all ages comedy. This re-envisioning of classic hand puppet forms is digital entertainment as it was meant to be: two hands, ten fingers, and no camera tricks.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents-the-baffo-box-show/?instance_id=5153
-URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents-the-baffo-box-show/?instance_id=5153
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-135@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260214T200000
-DTEND;TZID=America/New_York:20260214T220000
-SUMMARY:Melt
-LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
-DESCRIPTION:MeltMimi FangSaturday February 14Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescription Pulsing with the energy of their hometown, New York City, ‘If There’s a  Heaven’ (2024) is the debut album from indie band Melt. Hear the band  simultaneously at their most airtight and freewheeling—evoking the raw,  communal spirit of Fleetwood Mac as well as the modern, danceable  hooks of MUNA. Recorded live to tape with producer Sam Evian (Big Thief), the eleven tracks span existential, feel-good pop (“Plant the Garden”), classic love ballads (“Your Name”) and lush, soulful rockers  (“Heaven”). Melt’s debut is a joyous, timeless soundtrack for coming of  age and finding oneself and one’s community. Melt formed in 2017 and cut their teeth touring on the heels of their viral  single “Sour Candy.” Called “one groovy superorganism” by NPR, the  band’s ecstatic live set has led them to supporting slots with a wide  array of artists from Grouplove, Lawrence, My Morning Jacket, and  Grace Potter. Back with their first release since ‘If There’s a Heaven,’ the band’s new  single “Stay for the High” is 2025’s “Yellow”—an early aughts heartbreaker with the edge of a queer rock band.LineupMeltMimi Fang\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/162922
-URL:https://stonechurchvt.com#/events/162922
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-215@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260214T210000
-DTEND;TZID=America/New_York:20260214T230000
-SUMMARY:Drama Qweenz: Black Lovers\, a Drag Show
-LOCATION:Last Ditch\, 10 Fiske Ave\, Greenfield\, MA
-DESCRIPTION:Drama Qweenz: Black Lovers, a Drag ShowSaturday February 14Minimum age:18 and overShow time:8:00 PMDoors open:9:00 PMLast DitchTicketsDescriptionA theater drag show hosted by Mz. Clementine KuLayd honoring black artistry and love! Featuring Henna C Johnson and OG. Come show them some love! This show is 18+. Doors at 8pm, show at 9pm. $10-$15 cover (pay what you can, no one turned away for lack of funds). Masks are required for entry (available at venue). Elevator entry is located in the street level foyer of 10 Fiske Ave, through the glass double doors!\n\nSource: Last Ditch\n\nDetails: https://lastditchvenue.com/events-calendar#/events/169953
-URL:https://lastditchvenue.com/events-calendar#/events/169953
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-224@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260214T190000
-DTEND;TZID=America/New_York:20260214T220000
-SUMMARY:Mardi Gras Dance Party w/ Folksoul Band & Celebration Brass Band
-LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
-DESCRIPTION:Buy Tickets on Eventbrite 
- 
- Buy Tickets 
- 
- 
- 
- 
- 
- American music and New Orleans Mardi Gras culture have been inextricably linked for 200 years, ever since the imported, enslaved African people, mixing with a similarly oppressed native American culture, found free expression on Congo Square in New Orleans, where they were permitted to congregate for one day a week, two centuries ago. The spirit and rhythms expressed by this new American culture evolved into the Jazz and and Rock’n’roll of the 20th century. This American history has inspired the  Folksoul Band , which came together to create a Mardi Gras party, which we have done every year since, as our repertoire has expanded to include offshoots and branches. We try to bring this original source of American music to the New England audience in as pure a form as we can manage, allowing for our own inspirations and creativity. We always make room for that. We have a long and varied history that includes street performing and second line parading for both princes and paupers around the country in addition to many clubs, fairs and festivals. It’s a tradition we hope to keep alive. We are: Richard Doherty – Guitars, vocals / Tara Greenblatt – Drums, vocals / Fred Simmons – Trombone, tambourine, vocals / Ramsey Thomas – Stand-up bass / Leslie Vogel – Piano and accordion, vocals / Walden Whitham – Saxophone, flute, rubboard, vocals The Celebration Brass Band  is Southern VT’s signature ensemble for the distinctively vibrant music that we know as the New Orleans Brass Band sound! Since 2009, under the leadership of New Orleans native and Langdon NH resident Peter Simoneaux, the Celebration Brass Band has become familiar to Brattleboro area audiences through their performances at numerous Gallery Walks, the Strolling of the Heifers, 4th of July parades, and a host of other local community events. With band founder and director Simoneaux on bass drum and vocals and spouse and partner Linda Simoneaux on sousaphone, vocals and parade marshaling duties, CBB features a dynamic cast of Brattleboro area musicians, including co-directors Walter Slowinski (Woodpeckers, Butterfly Swing) and Ron Kelley (Hot Noodles, Bread & Puppet) on saxophones, Dan DeWalt (Simba, Creacion, Mambo Trio) on trombone, Anders Burrows (Alafia, Aura Shards) and Sam Johnson on trumpets, Tim Ellis on sousaphone and various players on snare drum or kit. Traditionally, since the late 1800s, New Orleans Brass Band music has been the music of jazz funerals and street parades in New Orleans, the style that gave birth to the careers of Buddy Bolden, Louis Armstrong, Sidney Bechet, and countless other musicians who have helped define the history of Jazz. Over the past 25 years, the New Orleans brass band revival has exploded in popularity, to the point where it has become the dominant musical force in the city, embracing both tradition and innovation, old forms and new. It is the mission of the Celebration Brass Band to bring this joy & energy to weddings, funerals, and other private & public functions throughout northern New England, to represent both the traditional and contemporary strains of the New Orleans brass band sound, and to discover the common threads between the New Orleans brass band genre, and those of modern jazz, and the wider Afro-Creole musical diaspora. Doors are at 7pm and music will begin at 730! Seating is first come first served! Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/mardigras2026
-URL:https://www.novaarts.org/events/mardigras2026
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-127@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260215T150000
-DTEND;TZID=America/New_York:20260215T170000
-SUMMARY:Home Land: Paintings by Finn Campman: Opening Reception
-LOCATION:Putney\, VT\, Putney
-DESCRIPTION:Join us for the opening of Home Land, a new exhibition of paintings by Finn Campman. Rooted in place, memory, and presence, Campman’s work explores painting as a way of marking where we are—emotionally and physically—and affirming our connection to the land we inhabit. A Putney School alum and longtime multidisciplinary artist, Campman brings a rich creative history to this deeply personal body of work.
-The exhibition will remain on view through May 10. Gallery open during events and by appointment.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/home-land-paintings-by-finn-campman-opening-reception/?instance_id=5188
-URL:https://iputney.com/event/home-land-paintings-by-finn-campman-opening-reception/?instance_id=5188
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-174@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260215T150000
-DTEND;TZID=America/New_York:20260215T170000
-SUMMARY:Home Land: Paintings by Finn Campman
-LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
-DESCRIPTION:NXT GalleryHome Land: Paintings by Finn CampmanOpening ReceptionSunday, Feb 15Minimum age:All agesShow time:3:00 PMDoors open:3:00 PMNext Stage ArtsRSVPDescriptionOpening reception 3:00-5:00pmArtist’s StatementMy process is about the act of reaching out to make sure I know where I am—to check my coordinates, to mark a signpost for my memories—as if to say, “This is where I am now.” My paintings serve as a tether to a place and a time, to a mood or disposition. Through painting, I recognize and affirm the connection I feel to the land. It becomes a kind of rite, a way of assuring myself that I am looking, that I am aware, and that I am part of this place—this Home Land.BiographyFinn Campman is a Putney School alum who studied printmaking, poetry, and literature at Sarah Lawrence College. In 1991, he joined Sandglass Theater and later founded Company of Strangers, whose production Moth and Moon received a UNIMA Citation of Excellence in 1999. He has toured extensively worldwide performing his theater work, created the video component for the Brattleboro Music Center’s production of Divine Chemistry, and presented work at three Puppetry in the Green Mountain festivals. More recently, Finn collaborated as a composer and puppeteer with Bodel Dance Arts on forecasts & findings. He is currently focusing his creative energy on painting and electronic music with his band, The Brothers Chorizo, and has taught English and Art at Hilltop Montessori School for 25 years.This show will remain on exhibit through May 10. The Next Stage Gallery is open during events, and by appointment with the artist or by contacting Next Stage at info@nextstagearts.org or (802) 387-0102.LineupFinn Campman\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/168053
-URL:https://www.nextstagearts.org/events-calendar#/events/168053
-END:VEVENT
-BEGIN:VEVENT
-UID:vt-event-203@things-we-love
-DTSTAMP:20260210T025426Z
-DTSTART;TZID=America/New_York:20260215T180000
-DTEND;TZID=America/New_York:20260215T200000
-SUMMARY:ESCAPES (2017)
-LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
-DESCRIPTION:ESCAPES (2017, 89 minutes).Directed by Michael Almereyda (Experimenter) and executive produced by Wes Anderson (The Grand Budapest Hotel),Escapesblazes a wild path through mid-20th-century Hollywood via the experiences of Hampton Fancher – flamenco dancer, actor, and the unlikely producer and screenwriter of the landmark sci-fi classicBladeRunner. (Fancher also penned the story for its sequel,Blade Runner 2049.) A consummate raconteur, Fancher recounts episodes from his remarkable life — romantic misadventures with silver-screen stars, wayward acts of chivalry, jealousy, and friendship — matched with a parallel world of film and TV footage wherein Fancher plays cowboys, killers, fops, cads, and the occasional hero.Escapesshows how one man’s personal journey can unexpectedly shape a medium’s future.CRITICAL ACCLAIM:“A thoroughly charming, thoroughly engaging portrait of this great adventurer. Part of the pleasure ofEscapesis how Mr. Almereyda, drawing deeply from the American pop archives… connects the originalBlade…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/escapes-2017
-URL:https://www.epsilonspires.org/event-info/escapes-2017
-END:VEVENT
-BEGIN:VEVENT
 UID:vt-event-175@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260218T110000
 DTEND;TZID=America/New_York:20260218T130000
 SUMMARY:Volunteer Income Tax Preparation Assistance (VITA) Program
@@ -197,7 +35,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168874
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-216@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260218T190000
 DTEND;TZID=America/New_York:20260218T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -207,7 +45,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169949
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-217@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260219T190000
 DTEND;TZID=America/New_York:20260219T210000
 SUMMARY:Lavender Line Dancing
@@ -217,7 +55,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169954
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-225@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260219T170000
 DTEND;TZID=America/New_York:20260219T190000
 SUMMARY:What Can We Do About It Here? Session 1
@@ -227,17 +65,17 @@ URL:https://www.novaarts.org/events/whatcanwedo1
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-136@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260220T200000
 DTEND;TZID=America/New_York:20260220T220000
 SUMMARY:The Gaslight Tinkers
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
-DESCRIPTION:The Gaslight TinkersLuke ConcannonFriday February 20Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionThe Gaslight Tinkers' mix of global rhythms creates a joyous world beat sound around a core of traditional New England old time and Celtic fiddle music, merging boundless positive energy with melody and song. Drawing from their extensive musical backgrounds in traditional folk, Caribbean, old time, Celtic, and rock, I-Shea, Clara, Garrett, Elie, and Peter craft a sound that brings world traditions togetherLineupThe Gaslight TinkersLuke Concannon\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/158650
+DESCRIPTION:The Gaslight TinkersLuke ConcannonFriday February 20Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionThe Gaslight Tinkers' mix of global rhythms creates a joyous world beat sound around a core of traditional New England old time and Celtic fiddle music, merging boundless positive energy with melody and song. Drawing from their extensive musical backgrounds in traditional folk, Caribbean, old time, Celtic, and rock, I-Shea, Clara, Garrett, Elie, and Peter craft a sound that brings world traditions togetherLuke Concannon has early memories of falling asleep at irish family parties to the sound of guitars, singing, and dancing. he has been making music in community ever since. upon meeting double-bassist john parker in school, the two formed the folk hip-hop duo nizlopi (best known for the ‘jcb song’), selling a million records in their twenties and deeply influencing the young ed sheeran who interned with them. through the strain of recording and touring world-wide with a small family-run label, nizlopi parted ways.invigorated by a hitch-hiking trip to palestine, luke wrote his first solo album, ‘give it all,’ kindling the fire for a solo singer-songwriter career. ‘ecstatic bird in the burning,’ luke's 2022 album, debuted at number 12 in the folk charts on both sides of the atlantic, including a number 7 single, ‘doing nothing,’ and garnered rave reviews:“CONCANNON DAZZLES … FOLK MUSIC WITH A LITTLE EXTRA SOMETHING.” – DANCING ABOUT ARCHITECTUREA pandemic collaboration with multi-instrumentalist composer Darius Christian  (Macklemore/Leslie Odom Jr) led to the singles ‘What Would You Change,’ ‘Brother,’ and ‘Dance with You.’ These and more appear on Luke and Darius's new album, ‘Midnight Bloom’ (2025).Luke followed his love, Stephanie Hollenberg, to the United States in 2016. Stephanie is a singer, creator, and spiritual caregiver, and frequently performs alongside Luke. Luke, Stephanie and their wee babe reside on Abenaki land, in a yurt in the Vermont woods with wonderful neighbours and a parliament of bard owls.LineupThe Gaslight TinkersLuke Concannon\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/158650
 URL:https://stonechurchvt.com#/events/158650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-176@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260220T193000
 DTEND;TZID=America/New_York:20260220T213000
 SUMMARY:Queralt Giralt Soler Trio
@@ -247,7 +85,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/168554
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-199@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:What's On
@@ -257,7 +95,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-204@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260220T183000
 DTEND;TZID=America/New_York:20260220T200000
 SUMMARY:THE FLYING ACE w/ Pipe Organ Score by Jeff Rapsis!
@@ -267,7 +105,7 @@ URL:https://www.epsilonspires.org/event-info/the-flying-ace-w-pipe-organ-score-b
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-218@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260220T190000
 DTEND;TZID=America/New_York:20260220T210000
 SUMMARY:Two-Step Night
@@ -276,8 +114,18 @@ DESCRIPTION:Two-Step NightFriday February 20Minimum age:All agesShow time:7:30 P
 URL:https://lastditchvenue.com/events-calendar#/events/169955
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-236@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260220T174500
+DTEND;TZID=America/New_York:20260220T191500
+SUMMARY:Friday Night Flights!
+LOCATION:Putney\, VT\, Putney
+DESCRIPTION:Ever wanted to fly through the air with the greatest of ease? Now is your chance! Friday Night Flights has been expanded to weekly due to high demand! This highly discounted class (20$ off 👀) aims to make flying trapeze more accessible. This class is for flyers at every level of ability and experience—whether you’ve never tried flying trapeze before, or you’re working on taking tricks out of lines. Beginning students will learn how to take off from the platform, perform fundamental trapeze tricks, and begin working on the ‘swing’—the bread and butter of flying trapeze. More experienced flyers will continue to work on fundamentals and on advancing their trick vocabulary. In the last half hour of class, flyers who are ready will be able to take their tricks across to a catcher (one of their coaches) swinging from a second trapeze. Age 7 and up.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/friday-night-flights-9/?instance_id=5193
+URL:https://iputney.com/event/friday-night-flights-9/?instance_id=5193
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-130@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Sandglass Theater’s Winter Sunshine Series presents Party Animals
@@ -289,7 +137,7 @@ URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-137@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260221T200000
 DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:North Mississippi All Stars
@@ -299,7 +147,7 @@ URL:https://stonechurchvt.com#/events/158374
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-219@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260221T190000
 DTEND;TZID=America/New_York:20260221T210000
 SUMMARY:Queer Strip Night
@@ -309,7 +157,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/169417
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-226@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260221T190000
 DTEND;TZID=America/New_York:20260221T220000
 SUMMARY:Wolfman Jack Play Primal Dead! 
@@ -326,18 +174,49 @@ DESCRIPTION:Buy Tickets on Eventbrite
 URL:https://www.novaarts.org/events/wolfmanjack221
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-237@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260221T193000
+DTEND;TZID=America/New_York:20260221T213000
+SUMMARY:Nate Smith Trio
+LOCATION:Putney\, VT\, Putney
+DESCRIPTION:Nate Smith at the Vermont Jazz Center
+Saturday, February 21, 2026
+7:30 pm
+Vermont Jazz Center
+In-person & live streamed
+Join us to see drummer Nate Smith, in a contemporary jazz groove-based performance.
+Smith is one of the most dynamic & versatile voices in modern music.
+On February 2, 2026, Smith won two Grammy Awards, including Best Alternative Jazz Album for LIVE ACTION and Best Arrangement, Instruments and Vocals for the song “Big Fish” featuring säje.
+He is widely regarded as one of the most in-demand musicians of his generation, known for his dynamic blend of jazz, funk, & soul.
+Smith has played with artists ranging from Jon Baptiste, Norah Jones, & Vulfpeck to Betty Carter, Charlie Hunter, Pat Metheny, & Kurt Elling.
+This trio features Jeremey ‘J3PO’ Pollack on keyboards & Ben ‘CARTOONS’ Carr on electric bass.
+Sponsored by Sonic Circus &/ a friend of the VJC’s Educational Programs.
+$25-60 general admission in person
+donations for live stream welcome.
+For accessibility support please call in advance.
+802 254 9088 ext. 1
+sarah@vtjazz.org
+eugene@vtjazz.org
+www.vtjazz.org
+Vermont Jazz Center
+72 Cotton Mill Hill #222
+Brattleboro, VT 05301\n\nSource: iPutney\n\nDetails: https://iputney.com/event/nate-smith-trio/?instance_id=5194
+URL:https://iputney.com/event/nate-smith-trio/?instance_id=5194
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-138@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260222T190000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Dueling Duets- Coleman Williams + Lightnin' Luke
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
-DESCRIPTION:Dueling Duets- Coleman Williams + Lightnin' LukeSunday February 22Minimum age:All agesShow time:7:00 PMDoors open:6:00 PMStone ChurchTicketsDescriptionJoin us for a special evening of Dueling Duets featuring Coleman Williams IV & Lightnin’ Luke of The Bridge City Sinners!LineupColeman WilliamsLightnin' Luke\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/159674
+DESCRIPTION:Dueling Duets- Coleman Williams + Lightnin' LukeSlow PonySunday February 22Minimum age:All agesShow time:7:00 PMDoors open:6:00 PMStone ChurchTicketsDescriptionJoin us for a special evening of Dueling Duets featuring Coleman Williams IV & Lightnin’ Luke of The Bridge City Sinners!Coleman WilliamsAs the great-grandson of Hank Williams Sr., grandson of Hank Williams Jr., and only son of Hank 3, Coleman spent years waging an internal battle with the expectations thrust upon him by others about his own lineage.Determined to blaze his own trail, Coleman left town after high school and traveled across America. Trying to create a unique sound that would fill his songs with his stories while still trying to show love to his country roots and his Nashville home.Coleman finally channeled his love of the weird into his first album Southern Circus with former band mate Jason Dietz. After the release in 2022, he was able to continue extensive touring and refine his sound with new bandmates. Now leading to the upcoming follow up record Hang Dog. Produced by Shooter Jennings and being released November 17th, 2023. He hopes to show people a journey of love for his old dog and the strange moments in life that can define us. Finding a balance between spectacle and spirit, melodies and muscle. Making the music of a man honoring his family tree while planting his own garden.Lightnin' LukeLightnin' Luke's powerful vocals, heartfelt lyrics, and wild fiddle playing have made him a versatile musical force, and a towering presence in the underground folk music scene. His resume includes a dizzying list of collaborations as a member of The Bridge City Sinners, Yes Ma'am, Tejon Street Corner Thieves, Clyde and the Milltailers and King Strang along with on-stage appearances with The Goddamn Gallows, Pete Bernhard (of The Devil Makes Three), Amigo the Devil, IV and The Strange Band, and many many more. Appearing on a majority of the catalogue from Portland indie label Flail Records, Luke has become a defining pilar of the label's unique sound.Slow Pony At the intersection of traditional and contemporary music, Slow Pony is the accordion-centered, organ-adjacent collective led by Eli Dworkin. Drawing from Balkan, blues, tango, klezmer, cumbia, jazz manouche, punk, and Americana, their music is unpredictable, hypnotic, and unmistakably their own. For over two decades, Eli has defied genre as a multi-instrumentalist, vocalist, songwriter, storyteller, and performer, bringing together an ever-changing cast of accompanists to navigate intricate, fiercely composed-yet-improvised material.Known for dark humor, collective awkwardness, and hypnotic instrumental shredding, Slow Pony captivates audiences from weddings, to festivals, to burlesque shows, to mosh pits. Cutting his teeth on the street, Eli is practiced at stopping the passerby in their tracks, and offering song where it's unexpected. With the combined powers of technical mastery and a relentless drive to create, connect, and revolt, every show is a singular experience, impossible to predict and impossible to forget.LineupColeman WilliamsLightnin' LukeSlow Pony\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/159674
 URL:https://stonechurchvt.com#/events/159674
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-177@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260222T140000
 DTEND;TZID=America/New_York:20260222T160000
 SUMMARY:The Equivalent Lands
@@ -347,7 +226,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169153
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-205@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260222T183000
 DTEND;TZID=America/New_York:20260222T210000
 SUMMARY:Frank Capra's LOST HORIZON (1937)
@@ -356,8 +235,28 @@ DESCRIPTION:LOST HORIZON (1937, 133 mins). We offer you a radical change of pace
 URL:https://www.epsilonspires.org/event-info/frank-capras-lost-horizon-1937
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-238@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260222T120000
+DTEND;TZID=America/New_York:20260222T150000
+SUMMARY:4th Annual Snow Golf
+LOCATION:Putney\, VT\, Putney
+DESCRIPTION:We held our inaugural Snow Golf challenge in 2023 on a beautiful snowy day and had so much fun, we’ve made it an annual event! Snow or no snow, seasoned golfer or novice, we always have a great time for a good cause. Once again we’ll be partnering with the Brattleboro Country Club on the design and layout of our challenges and featuring our popular Scott Farm pop up bar. The unique “kid-driven” food cart from Newton’s Curveball Concessions will return as well. There will plenty of reasons to make an afternoon of it and bring your friends and family!\n\nSource: iPutney\n\nDetails: https://iputney.com/event/4th-annual-snow-golf/?instance_id=5174
+URL:https://iputney.com/event/4th-annual-snow-golf/?instance_id=5174
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-239@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260223T090000
+DTEND;TZID=America/New_York:20260223T110000
+SUMMARY:February Break Circus Camp
+LOCATION:Putney\, VT\, Putney
+DESCRIPTION:Run away and join the circus for a 1/2 day or full day or full week of circus camp! Kids will receive top-notch instruction in a noncompetitive environment. They’ll get a sense of pride and increased confidence as they learn communication skills, perseverance, and self-determination, as well as how to be a spectacular acrobat, aerialist, juggler, or clown. We honor the traditions of the circus by including activities to develop creative and performance skills, share the history of circus while passing along fun circus traditions. Students will work in groups by age and ability for the best learning experience. We work with the energy of our youngest students by including separate art activities and quiet time suited to their learning needs.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/february-break-circus-camp/?instance_id=5191
+URL:https://iputney.com/event/february-break-circus-camp/?instance_id=5191
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-139@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260225T200000
 DTEND;TZID=America/New_York:20260225T220000
 SUMMARY:SKELETON CREWE
@@ -367,7 +266,7 @@ URL:https://stonechurchvt.com#/events/160254
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-206@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260225T183000
 DTEND;TZID=America/New_York:20260225T210000
 SUMMARY:BRAZIL (1985) w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -377,7 +276,7 @@ URL:https://www.epsilonspires.org/event-info/brazil-1985-w-live-music-by-revenan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-220@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260225T190000
 DTEND;TZID=America/New_York:20260225T210000
 SUMMARY:Karaoke with DJ Kouch
@@ -386,8 +285,22 @@ DESCRIPTION:Karaoke with DJ KouchWednesday February 25Minimum age:All agesShow t
 URL:https://lastditchvenue.com/events-calendar#/events/169951
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-240@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260225T133000
+DTEND;TZID=America/New_York:20260225T143000
+SUMMARY:Senior Community Drum Circle
+LOCATION:Putney\, VT\, Putney
+DESCRIPTION:1:30-2:30 pm
+Last Wednesdays of the month: January 28, February 25, March 25, April 29, May 27, June 24
+Instructor Tara Murphy
+If you have a heartbeat, you can drum! For millennia, drumming has brought people together to create peace, health and wellness. The uplifting rhythms of Africa relieve stress and help people connect with each other, as well as their own joy. Tara Murphy leads creative movement and drum classes for seniors of all abilities, inspired by traditional West African dance and drumming. It is a great time to release energy, lift spirits, connect with others, have fun, and get healthy exercise. She encourages participants to jam out and express their rhythms creatively, first through chair-based movement and then through drumming. Participants will do simple rhythm exercises and then learn traditional rhythms on the dundun drums of Mali and Guinea, West Africa, and play together as an ensemble. The drum circle emphasizes community, self-expression and the joy of rhythm. Drums provided and no experience necessary.
+Senior drum circle demo video: https://www.youtube.com/watch?v=2voFc3HtjCg\n\nSource: iPutney\n\nDetails: https://iputney.com/event/senior-community-drum-circle/?instance_id=5148
+URL:https://iputney.com/event/senior-community-drum-circle/?instance_id=5148
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-140@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260226T200000
 DTEND;TZID=America/New_York:20260226T220000
 SUMMARY:Moviola/Wet Tuna/Animal Piss It's Everywhere
@@ -397,7 +310,7 @@ URL:https://stonechurchvt.com#/events/155759
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-221@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260226T180000
 DTEND;TZID=America/New_York:20260226T200000
 SUMMARY:Jump In! Clown for Stage Session 3
@@ -407,7 +320,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/166128
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-178@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260227T190000
 DTEND;TZID=America/New_York:20260227T210000
 SUMMARY:Johnny Cash! The Man\, His World\, His Music
@@ -417,17 +330,27 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169539
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-207@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260227T190000
-DTEND;TZID=America/New_York:20260227T230000
+DTEND;TZID=America/New_York:20260227T220000
 SUMMARY:SHIRAZ: ROMANCE OF INDIA w/ Music Score by Utsav Lal!
 LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
 DESCRIPTION:Trailblazing pianistUtsav Lalimprovises a new score to this ravishing, romantic tale about the building of the Taj Mahal.Based on the romance between 17th-century Mughal ruler Shah Jahan and his queen, this epic silent film is the captivating story behind the creation of one of the architectural wonders of the world, the Taj Mahal. Shot entirely on location in India, with an all-Indian cast, it features lavish costumes and gorgeous settings. Choosing to perform on an instrument that has traditionally been considered unsuitable for Hindustani classical music, Utsav’s innovative handling of a raga blends his diverse musical influences and has left listeners spellbound. Utsav has performed at leading classical concert venues worldwide, including The Kennedy Centre, Carnegie Hall, Southbank Centre and The Bridgewater Hall, Manchester.Shiraz: A Romance of India(1929, 120 Mins), Doors 7:00pm, Show begins 7:30pm."Imperialism for the masses, the movie culture of the 1920s, purveyed…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/shiraz-romance-of-india-w-music-score-by-utsav-lal
 URL:https://www.epsilonspires.org/event-info/shiraz-romance-of-india-w-music-score-by-utsav-lal
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-244@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260227T210000
+DTEND;TZID=America/New_York:20260227T230000
+SUMMARY:Bratt QDP- Every Body Dance
+LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
+DESCRIPTION:Bratt QDP- Every Body DanceFriday February 27Minimum age:18 and overShow time:9:00 PMDoors open:9:00 PMStone ChurchTicketsDescriptionBQDP presentsEvery Body DanceFriday, February 27th 2026At The Stone Church210 Main St, Brattleboro, VT9p-1aBrattleboro Queer Dance Party is returning to our roots with Every Body Dance, a performance-free dance party to bring our community together through the joys of moving our bodies together while also raising funds to support the Root Social Justice Center. Featuring the beats of DJ Cartier, we invite you to bring your besties to the most supportive dance floor around and get your groove thang on!Sliding Scale $10-20notaflofThis party is for Queers and Allies ages 18+We kindly request that you wear a mask to protect yourself and others in these times of indoor entertainment\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/145088
+URL:https://stonechurchvt.com#/events/145088
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-141@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260228T200000
 DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:A Band of Brothers
@@ -437,7 +360,7 @@ URL:https://stonechurchvt.com#/events/152452
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-179@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260228T193000
 DTEND;TZID=America/New_York:20260228T213000
 SUMMARY:Corey Harris with Sunny Lowdown
@@ -447,7 +370,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169559
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-227@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260228T190000
 DTEND;TZID=America/New_York:20260228T220000
 SUMMARY:Jonee Earthquake Band w/ Coffin Flop & Phrogs
@@ -464,8 +387,56 @@ DESCRIPTION:Buy Tickets on Eventbrite
 URL:https://www.novaarts.org/events/joneeearthquake
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-241@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Sandglass Theater’s Winter Sunshine Series presents The Fairy Circus
+LOCATION:Putney\, VT\, Putney
+DESCRIPTION:The Fairy Circus features over twenty turn-of-the-century-style trick puppets. The puppets dance, play instruments, juggle, contort, transform, and fly through the air with the greatest of ease, all to the best-loved music of favorite composers. This show is sure to delight young children and family audiences alike.
+For nearly two decades, the Winter Sunshine Series has been a warm beacon during Vermont’s coldest months—bringing laughter, imagination, and shared experiences to audiences of all ages. Sandglass Theater invites families, friends, and neighbors to gather once again this February and celebrate the joy of puppetry together.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents-the-fairy-circus/?instance_id=5155
+URL:https://iputney.com/event/sandglass-theaters-winter-sunshine-series-presents-the-fairy-circus/?instance_id=5155
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-242@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260228T133000
+DTEND;TZID=America/New_York:20260228T153000
+SUMMARY:Make Your Own Mosaic Mirror
+LOCATION:Putney\, VT\, Putney
+DESCRIPTION:Sliding Scale $100-$125
+Learn more about our pricing philosophy here!
+Susan guides participants on how to create a good mosaic design, using color and
+composition for an outstanding finished mosaic mirror art piece. Students are given a
+12”x12” wooden base with a 6”x6” beveled mirror, mosaic tile, and other found object
+pieces.
+Day #1 is spent learning the process of making a mosaic art piece, with instructions on
+how to create a mosaic design. All mosaic tiles are cemented on the wooden backer by
+the end of Day 1, as the pieces need to dry overnight.
+Day #2, students are instructed on grout application, applying grout, and cleaning tiles
+to finish their piece.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/make-your-own-mosaic-mirror/?instance_id=5147
+URL:https://iputney.com/event/make-your-own-mosaic-mirror/?instance_id=5147
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-243@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260228T190000
+DTEND;TZID=America/New_York:20260228T210000
+SUMMARY:Sunburned Hand of the Man at Stage 33 Live
+LOCATION:Putney\, VT\, Putney
+DESCRIPTION:Sunburned Hand of the Man are an enigmatic experimental collective with a stunningly large discography and frequent personnel changes. Their improvisations incorporate elements of free jazz, space rock, psych-rock, hypno krautrock, drone, folk, funk, punk, and dirty synth. Their live shows are a surprise every time — even to them, usually — ranging from wild freak-outs to more coherently sculpted material careening from unsettling to hypnotic to mellow.
+According to Sean Kitching, writing in The Quietus, “Sunburned at their best are capable of taking the listener on a shamanic, boogie-fueled trip outside of quotidian reality. Live shows blend monstrous tectonics of rhythm, caustic guitar, echoing phased vocals, insect electronics and kitchen sink instrumentation that collide in an ecstatic racket.”
+Throughout the mid-’90s they represented New England’s “free rock” contingency, and the “free folk” — sometimes misnomered “freak folk” — era described by David Keenan’s 2003 article “New Weird America” in British music magazine The Wire.
+There will be no opener for this show, it will be 100% Sunburned. It’s likely to be loud. Stage 33 Live has no idea what the lineup will be, or how long the show will go. This is in accordance with the strange purity of Sunburned Hand of the Man.
+Daisy Frederick will provide old-school psychedelic interactive liquid light projections.
+February 28, 2026, which is a Saturday, at 7:00 PM. Tickets are just $20 in advance through stage33live.com or at the door as available. Advance tickets guarantee entry. Only 40 tickets will be sold. The performances will be recorded and filmed. Stage 33 Live is located at 33 Bridge Street in Bellows Falls, Vermont.
+Stage 33 Live is a casual and intimate industrial-rustic listening room in a former factory hosting local, regional, and national performances and presentations of original material. No bar or kitchen, the stage is the mission; coffee / soda / juice / water and weird snacks available by donation. More information about the nonprofit, all-volunteer project, and this and other upcoming events, online at stage33live.com
+Stage 33 Live gratefully acknowledges the help of so many individuals without whom none of this would be able to happen, and institutional support this season from The Island Corporation, WOOL-FM, Guilford Sound, and the Rockingham Arts & Museum Project to help fund improvements and maintenance, and generally smooth out a lot of the rough edges. Stage 33 Live is a 501(c)3 nonprofit organization, and all donations are deductible to the fullest extent. Volunteers run the thing from stem to stern.\n\nSource: iPutney\n\nDetails: https://iputney.com/event/sunburned-hand-of-the-man-at-stage-33-live/?instance_id=5189
+URL:https://iputney.com/event/sunburned-hand-of-the-man-at-stage-33-live/?instance_id=5189
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-142@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260305T200000
 DTEND;TZID=America/New_York:20260305T220000
 SUMMARY:Nathan Evans & The Saint PHNX Band
@@ -474,8 +445,18 @@ DESCRIPTION:Nathan Evans & The Saint PHNX BandThursday March 5Minimum age:All ag
 URL:https://stonechurchvt.com#/events/161469
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-250@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260305T170000
+DTEND;TZID=America/New_York:20260305T190000
+SUMMARY:What Can We Do About It Here? Session 2
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:“What can we do about it here? A series of public discussions on political crises to build community solidarity”  Hosted by Cooperative Action Monadnock Session 2: “From the rule of billionaires to the price of groceries: Unaffordability, unsustainability, and the roots of inequality.” Each session will include three community panelists discussing aspects of current political crises and then lead an open public discussion.  5-7pm. Free.\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/whatcanwedo2
+URL:https://www.novaarts.org/events/whatcanwedo2
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-143@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260306T190000
 DTEND;TZID=America/New_York:20260306T210000
 SUMMARY:Sepsiss\, Awaiting Abigail\, Under The Horizon\, Pulsifier
@@ -485,7 +466,7 @@ URL:https://stonechurchvt.com#/events/164287
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-180@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260306T193000
 DTEND;TZID=America/New_York:20260306T213000
 SUMMARY:Kalos plus Dan Houghton & Rachel Clemente
@@ -494,8 +475,36 @@ DESCRIPTION:Twilight MusicKalos plus Dan Houghton & Rachel ClementeHigh-energy t
 URL:https://www.nextstagearts.org/events-calendar#/events/169579
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-248@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260306T193000
+DTEND;TZID=America/New_York:20260306T213000
+SUMMARY:Kalos plus If You Must Know
+LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
+DESCRIPTION:Twilight MusicKalos plus If You Must KnowHigh-energy trad folk with pipes, fiddle, guitars, and fearless twistsFriday, Mar 6Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$22 Advance / $25 Door / $10 LivestreamKalos is a trio of innovative interpreters and composers of Celtic roots music: Eric McDonald, Ryan McKasson, and Jeremiah McLane. Masters of tradition, they purposefully explore its shadowed edges, delivering music of striking complexity, spontaneity, and joyful exuberance. Their sound sets a high bar for traditional repertoire, driven by a pulsing rhythmic energy and deep artistic integrity.Each member brings a remarkably diverse musical background. Eric studied jazz and bluegrass mandolin at the Berklee College of Music before finding his voice on DADGAD guitar. Ryan holds a degree in viola performance and is among the youngest musicians ever to win the U.S. National Scottish Fiddle Championship. Jeremiah, raised with Scottish roots, has studied Indonesian gamelan, West African drumming, and the works of minimalist composers Steve Reich and Philip Glass; his award-winning compositions have also been featured in film.Kalos is a band made for the stage—live performance is their heart and strength. Their close musical partnership, rooted in long-standing friendships, comes alive through an engaging and playful stage presence. Drawing from Celtic, Breton, American, and other traditions, Kalos forges a bold and contemporary path on accordion, guitar, fiddle, and vocals.While firmly rooted in the rich traditions of Scottish music, If You Must Know (harpist Rachel Clemente and piper Dan Houghton) bring a gritty, avant-garde edge that places them at the forefront of New England’s Celtic folk scene. Both are avid composers, and their repertoire blends original works with traditional melodies. Clemente was crowned U.S. National Scottish Harp Champion in 2016 and earned a bachelor’s degree in traditional Scottish music from the Royal Conservatoire of Scotland in Glasgow in 2018.Houghton, a Scottish piper, flautist, and DADGAD guitarist, has won numerous competitions, including the Scottish Lowland and Border Pipers’ Society “Open Borderpipes” and “New Composition” events, as well as the St. Chartier “Maître de Cornemuse.” He has toured and taught extensively across Britain, Europe, Ireland, America, Asia, and the Antipodes, performing both as a soloist and with ensembles such as Cantrip, the salsa-fusion band Salsa Celtica, Parcel of Rogues, the Celtic rock band Prydein, and Piper’s Den.LineupKalosIf You Must Know\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169579
+URL:https://www.nextstagearts.org/events-calendar#/events/169579
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-251@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260306T190000
+DTEND;TZID=America/New_York:20260306T220000
+SUMMARY:The Wooden Nickels w/ Liam Grant & Sam Boston
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ The Wooden Nickels  are a collective of acoustic musicians and old friends with a rousing take on traditional bluegrass and Americana, including members of Princess Kikou and Poor Monroe. Liam Grant  is a New England guitarist and improviser cut from the American Primitive cloth. The restless guitar explorations, modal epics, and driving uptempo rags recall the likes of Grant's pedagogue, Takoma Records, and the path that was paved by his forebears John Fahey, Robbie Basho, Peter Walker, Max Ochs and later Glenn Jones, Steffen Basho-Junghans, Jack Rose, and others. Bridging that past, Grant evokes the pith of the landscape where he was raised. Instrumental memoirs and ruminations on the banks of the Merrimack River. Amoskeag. And the place where the waters flow around it. Salmon tails up the river, the exodus to Stratton-Eustis and the last night on Dead River before the great flood. Sam Boston  is from Connecticut. He builds instruments, tools, and sound sculptures. His focus is on resonating objects, long-duration events, and attempts at repetition. His latest concentration has been self-modified electric 2x4 duo-chord hurdy gurdies and handmade fretless lap steel guitars - instruments he has built for musicians like Tashi Dorji, Henry Birdsey, Zach Rowden and others. He frequently works alongside his partner Emma Mistele with whom he recorded his last album “ Table Music ” - pieces for an unstable network of oscillators, microphones, and motors resonating through the table on which they were performed. He has additionally worked with Petr Kotik’s S.E.M Ensemble, Nat Baldwin, Manuel J Perez III, The Suncook Symphony, Marie Carroll and recently performed alongside Loren Connors and Bob Bellerue. His forthcoming album “ Dimensional Blinds ,” a composition for Boston’s hurdy gurdies and bilateral stage blinds in 3 second cycles, for the Annex Blues Society label will be released on February 21st. Doors are at 7pm and music will begin at 730! Seating is first come first served! Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/thewoodennickels
+URL:https://www.novaarts.org/events/thewoodennickels
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-144@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260307T200000
 DTEND;TZID=America/New_York:20260307T220000
 SUMMARY:The Slackers
@@ -505,7 +514,7 @@ URL:https://stonechurchvt.com#/events/153480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-208@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260307T183000
 DTEND;TZID=America/New_York:20260307T213000
 SUMMARY:NAKED LUNCH w/ Live Music by Revenant Sea (Sheri Hupfer & Mark Schwaber)!
@@ -515,27 +524,37 @@ URL:https://www.epsilonspires.org/event-info/naked-lunch-w-live-music-by-revenan
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-145@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260311T200000
 DTEND;TZID=America/New_York:20260311T220000
 SUMMARY:Eilen Jewell
 LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
-DESCRIPTION:Eilen JewellWednesday March 11Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionHailed by American Songwriter as “one of America’s most intriguing, creative, and idiosyncratic voices,” Eilen Jewell rises from the ashes on her captivating new album, Get Behind The Wheel, picking up the pieces of her shattered world and finding new purpose and meaning after watching her marriage, her band, and what felt like her entire career fall apart in a series of spectacular, heartbreaking implosions. Co-produced by multi-instrumental wizard Will Kimbrough (Todd Snider, Hayes Carll), the collection pushes the acclaimed singer and songwriter’s trademark blend of vintage roots-noir into more psychedelic territory, with spacious, cinematic arrangements complementing her revelatory explorations of grief, loss, resilience, and redemption. An Idaho native, Jewell built her career the old fashioned way, touring relentlessly with the kind of undeniable live show that converts the uninitiated into instant acolytes. Over the course of nine albums, she’s crisscrossed the globe countless times and shared bills with the likes of Lucinda Williams, Loretta Lynn, Mavis Staples, Wanda Jackson, George Jones, and Emmylou Harris. Rolling Stone lauded Jewell’s “clever writing,” while NPR declared that she has a “sweet and clear voice with a killer instinct lurking beneath the shiny surface,” and The Washington Post mused that “if Neko Case, Madeleine Peyroux and Billie Holiday had a baby girl who grew up to front a rockabilly band, she’d probably sound a lot like Eilen Jewell.”LineupEilen Jewell\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/141805
+DESCRIPTION:Eilen JewellWednesday March 11Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionTwenty years of touring. Twenty years on the road. "My own weariness amazes me," as Bob Dylan sings to his Tambourine Man. I feel ya, Bob. But the depth of my gratitude amazes me too. I'm humbled by the countless gifts of fanship and friendship throughout the past two decades. I would say it's been a dream, except I never could have dreamt up most of it. I've shared stages and drinks in hotel rooms with my heroes, met children named after me, made friendships rooted in music from Auckland to the Arctic Circle, performed on trains, on boats, for Wall Street men in tuxes and for the muddy denizens of a musk ox farm... Not bad for a lonely rambler girl from Idaho. It was always a nebulous gut feeling that got the show on the road, and so it is now but in reverse. A gut feeling is telling me to get off the road, at least for now. After 2026, touring and I will part ways for a year, maybe two, maybe fifty...it's hard to say at this point. I do hope to keep performing in some capacity. Maybe come see me on a weeknight in some Boise dive, playing for potatoes? Or strumming the guitar for a handful of fellow meditators as we contemplate the Dharma and the temporary nature of all things. I need some time for a new exploration, to try to be the kind of mother I want to be, and to stop moving long enough "to let my soul catch up with me," as my grandma Jeanne used to say. Who knows what will come of that? Maybe on some jingle-jangle morning I'll come following the next great dream, rested and ready to go anywhere. But until then, suffice it to say...thank you. Thank you, thank you to everyone who carried me forward all this way and in all your different ways.With love, gratitude, and solidarity in music always, -EilenLineupEilen Jewell\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/141805
 URL:https://stonechurchvt.com#/events/141805
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-181@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260311T190000
 DTEND;TZID=America/New_York:20260311T210000
 SUMMARY:NXT Rockumentary Film Series
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
-DESCRIPTION:NXT Rockumentary Film SeriesA raw concert documentary capturing a music scene in motion.Wednesday, Mar 11Minimum age:All agesShow time:7:00 PMDoors open:6:15 PMNext Stage ArtsRSVPDescription$8 suggested donationJoin us for the next installment of the NXT Rockumentary Film SeriesThis high-energy concert documentary drops viewers into a restless moment in music history, capturing one live performance after another from a wide range of touring acts. The result is loose, loud, and unpredictable—less a polished showcase than a raw snapshot of a scene in motion. From tense, provocative moments to playful bursts of pop energy, the film offers rare glimpses of artists who didn’t always make it into the history books, alongside performers on the verge of much wider recognition.Due to licensing restrictions, we’re unable to publicly list the film title. To find out what’s screening, join our mailing list or contact us directly.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169586
+DESCRIPTION:NXT Rockumentary Film SeriesA raw concert documentary capturing the British New Wave music scene in motion.Wednesday, Mar 11Minimum age:All agesShow time:7:00 PMDoors open:6:15 PMNext Stage ArtsRSVPDescription$8 suggested donationJoin us for the next installment of the NXT Rockumentary Film SeriesThis high-energy concert documentary drops viewers into a restless moment in British New Wave music history, capturing one live performance after another from a wide range of touring acts. The result is loose, loud, and unpredictable—less a polished showcase than a raw snapshot of a scene in motion. From tense, provocative moments to playful bursts of pop energy, the film offers rare glimpses of artists who didn’t always make it into the history books, alongside performers on the verge of much wider recognition.Due to licensing restrictions, we’re unable to publicly list the film title. To find out what’s screening, join our mailing list or contact us directly.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169586
 URL:https://www.nextstagearts.org/events-calendar#/events/169586
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-249@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260311T113000
+DTEND;TZID=America/New_York:20260311T133000
+SUMMARY:Volunteer Income Tax Preparation Assistance (VITA) Program
+LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
+DESCRIPTION:SEVCAVolunteer Income Tax Preparation Assistance (VITA) ProgramWednesday, Mar 11Minimum age:All agesShow time:11:30 AMDoors open:11:30 AMNext Stage ArtsMore InfoDescriptionThe Volunteer Income Tax Assistance (VITA) program has been in existence for 50 years, offering free tax help to people who cannot afford professional assistance. Volunteers come from all backgrounds and undergo a comprehensive training program. Tax preparers must pass annual certifying exams to prove their understanding of relevant tax laws and proficiency of e-filing and tax preparation methods using IRS-approved software. SEVCA also provides assistance to Vermont residents that aren’t required to file a tax return, but need help with their Homestead Declaration, Property Tax Credit Claim, or Renter Credit Claim. We can support you year-round.\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/171895
+URL:https://www.nextstagearts.org/events-calendar#/events/171895
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-146@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260312T200000
 DTEND;TZID=America/New_York:20260312T220000
 SUMMARY:Pat Travers
@@ -545,27 +564,27 @@ URL:https://stonechurchvt.com#/events/157888
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-182@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T210000
 SUMMARY:Community Sing-Along
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
-DESCRIPTION:Community Sing-Alongwith Rich GrumbineFriday, Mar 13Minimum age:All agesShow time:7:00 PMDoors open:6:45 PMNext Stage ArtsRSVPDescriptionJoin us after the September Putney Community Supper for an evening of joyful singing in the main performance space.Led by guitarist and song leader Rich Grumbine, this community sing-along invites everyone to take turns choosing favorites from a digital songbook of 100+ well-loved tunes. Lyrics will be projected on a big screen, so all can sing along with ease. Expect songs from many traditions—folk, golden oldies, gospel, Beatles, classic pop and rock, children’s songs, and show tunes.The event is free, open to all, and accessible to people with disabilities.For more information, contact Rich Grumbine at richgrumbine1@gmail.com or Next Stage Arts at info@nextstagearts.org.Next Stage Arts15 Kimball HillPutney, VT 05346www.nextstagearts.org\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169599
+DESCRIPTION:Community Sing-Alongwith Rich GrumbineFriday, Mar 13Minimum age:All agesShow time:7:00 PMDoors open:6:45 PMNext Stage ArtsRSVPDescriptionJoin us after the March Putney Community Supper for an evening of joyful singing in the main performance space.Led by guitarist and song leader Rich Grumbine, this community sing-along invites everyone to take turns choosing favorites from a digital songbook of 100+ well-loved tunes. Lyrics will be projected on a big screen, so all can sing along with ease. Expect songs from many traditions—folk, golden oldies, gospel, Beatles, classic pop and rock, children’s songs, and show tunes.The event is free, open to all, and accessible to people with disabilities.For more information, contact Rich Grumbine at richgrumbine1@gmail.com or Next Stage Arts at info@nextstagearts.org.Next Stage Arts15 Kimball HillPutney, VT 05346www.nextstagearts.org\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169599
 URL:https://www.nextstagearts.org/events-calendar#/events/169599
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-209@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260313T190000
 DTEND;TZID=America/New_York:20260313T204000
 SUMMARY:MAINTENANCE ARTIST: Documentary w/ Director Q&A
 LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
-DESCRIPTION:Maintenance Artist (2025, 90 min, English and Japanese with English subtitles). Screening will be followed by an in-person conversation with Director Toby Perl Frielich.This vibrant portrait chronicles the life and work of trailblazing artist Mierle Laderman Ukeles, drawing from never-before-seen archival footage,Maintenance Artistoffers a deeply moving meditation on care, labor, and visibility during the social and artistic upheavals of the last fifty years.“After the Revolution, who’s going to pick up the garbage on Monday morning?” challenged artist Mierle Laderman Ukeles. After she became a mother, Ukeles published a daring manifesto declaring all her acts of household maintenance, including childcare, to be performance art. As she blasted her way into the largely male late-1960s avant-garde, Ukeles began to scale up her “maintenance revolution,” collaborating with the invisible class of workers who maintain museums, galleries and public spaces. In 1977, she radically reframed public art by becoming the first official,…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/maintenance-artist-documentary-w-director-q-a
+DESCRIPTION:Maintenance Artist(2025, 90 min, English and Japanese with English subtitles). Screening will be followed by an in-person conversation with Director Toby Perl Frielich facilitated byJessamyn Fiore, the Director of the Estate of Gordon Matta-Clark.This vibrant portrait chronicles the life and work of trailblazing artist Mierle Laderman Ukeles, drawing from never-before-seen archival footage,Maintenance Artistoffers a deeply moving meditation on care, labor, and visibility during the social and artistic upheavals of the last fifty years.“After the Revolution, who’s going to pick up the garbage on Monday morning?” challenged artist Mierle Laderman Ukeles. After she became a mother, Ukeles published a daring manifesto declaring all her acts of household maintenance, including childcare, to be performance art. As she blasted her way into the largely male late-1960s avant-garde, Ukeles began to scale up her “maintenance revolution,” collaborating with the invisible class of workers who maintain museums, galleries and public spaces.…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/maintenance-artist-documentary-w-director-q-a
 URL:https://www.epsilonspires.org/event-info/maintenance-artist-documentary-w-director-q-a
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-147@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260314T200000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:LEFTöVER CRACK
@@ -575,17 +594,17 @@ URL:https://stonechurchvt.com#/events/161798
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-183@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260314T193000
 DTEND;TZID=America/New_York:20260314T213000
 SUMMARY:Race & Song: A Musical Conversation
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
-DESCRIPTION:Opening Doors ProjectRace & Song: A Musical Conversationwith Pamela Means & Alastair MoockSaturday, Mar 14Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$20 Advance / $25 Door / $10 LivestreamJoin Opening Doors artists Pamela Means and Alastair Moock for an all-ages performance of "Race and Song: A Musical Conversation" at Next Stage Arts in Putney, VT.Pamela Means has been compared to Tracy Chapman, Ani DiFranco, a cross between Suzanne Vega and Jimi Hendrix, and an heir to the legacy of Nina Simone. She's “one of the fiercest guitar players and politically-rooted musicians in the industry today" (Curve Magazine), who has worn a hole in two of her guitars with her "insanely brilliant" (Press Herald, Portland ME) playing and “stark, defiant songs.” (New York Times). Alastair Moock is an award-winning singer-songwriter, GRAMMY-nominated family musician, social justice and songwriting educator, and co-founder of The Opening Doors Project. The Boston Globe calls Alastair “one of the town’s best and most adventurous songwriters.” The Washington Post says “every song is a gem.”LineupOpening Doors ProjectPamela MeansAlastair Moock\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169612
+DESCRIPTION:Opening Doors ProjectRace & Song: A Musical Conversationwith Pamela Means & Alastair MoockSaturday, Mar 14Minimum age:All agesShow time:7:30 PMDoors open:6:45 PMNext Stage ArtsTicketsDescription$20 Advance / $25 Door / $10 LivestreamRACE AND SONG is an exploration of history and current events through the lens of race, using the powerful tool of music. Veteran musicians and storytelling troubadours Pamela Means and Alastair Moock draw on their long-standing friendship to engage audiences in thoughtful, generous conversations about race, class, gender, and history.In musical dialogue, Pamela and Alastair share lived experiences through song (which always helps the medicine go down!) alongside historical and personal photos. The program features songs such as “Wade in the Water,” “Freight Train,” “It’s a Mighty Long Way,” “This Little Light of Mine,” and Moock’s own “Be a Pain.” These songs—and the stories behind them—amplify and provide historical context for Pamela Means’ and Alastair Moock’s life stories and perspectives.Over the past few years, Pamela Means and Alastair Moock have brought meaningful, accessible conversations about race to a wide range of audiences and spaces. One of their greatest strengths as a duo is their ability to meet audiences where they are. Race and Song has toured nationally to theaters, performing arts centers, houses of worship, libraries, senior centers, and schools of all kinds—from elementary and high schools to colleges and universities.Pamela Means has been compared to Tracy Chapman, Ani DiFranco, a cross between Suzanne Vega and Jimi Hendrix, and an heir to the legacy of Nina Simone. She's “one of the fiercest guitar players and politically-rooted musicians in the industry today" (Curve Magazine), who has worn a hole in two of her guitars with her "insanely brilliant" (Press Herald, Portland ME) playing and “stark, defiant songs.” (New York Times). Alastair Moock is an award-winning singer-songwriter, GRAMMY-nominated family musician, social justice and songwriting educator, and co-founder of The Opening Doors Project. The Boston Globe calls Alastair “one of the town’s best and most adventurous songwriters.” The Washington Post says “every song is a gem.”This performance is part of the “Voices Rising” series by the Opening Doors Project.Funded in part by the New England States Touring program of the New England Foundation for the Arts, made possible with funding from the National Endowment for the Arts and the six New England state arts agencies.LineupOpening Doors ProjectPamela MeansAlastair Moock\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169612
 URL:https://www.nextstagearts.org/events-calendar#/events/169612
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-228@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260314T190000
 DTEND;TZID=America/New_York:20260314T220000
 SUMMARY:Terraces / Sunset Mission
@@ -602,8 +621,36 @@ DESCRIPTION:Buy Tickets on Eventbrite
 URL:https://www.novaarts.org/events/terracessunsetmission
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-245@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260314T200000
+DTEND;TZID=America/New_York:20260314T220000
+SUMMARY:LEFTöVER CRACK/PILFERS/CORRUPT WORD
+LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
+DESCRIPTION:LEFTöVER CRACK/PILFERS/CORRUPT WORDSaturday March 14Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionLeftöver Crack is an American punk rock band formed in 1998 following the breakup of its predecessor Choking Victim, sharing band members Stza Crack & Alec Baillie until Alec’s tragic death in November of 2021. The band has created the new record label RECIDIVIST BIBLE CAMP & Is co-releasing a 7” single with Austria’s SBAM records featuring the new song “White Guilt Atrocity Quilt” accompanied by a major motion music video. The song is also slated to be included on the as yet untitled 4th full length album from this New York City based Punk Band. The B side to this new single is an unreleased track from the 2014 “Constructs of the State” record titled “Brad Sabbath”, featuring the classic Leftöver Crack line-up of Stza, Baillie, Brad Logan, Donny Morris & Chris Mann with the more recent addition of singer Tibbie X, formerly of the NYC bands X-Possibles & Kissy Kamikaze as well as the Philly based band GASH. Along with this new single, Leftöver Crack are also in the works of reissuing all of their previous albums, with the exception of “Mediocre Generica” (which remains on Hellcat/Epitaph Records) through the partnership of RECIDIVIST & SBAM. Leftöver Crack’s current line-up consists of Scott Sturgeon aka Stza Crack (vocals, guitar, synth), Tibbie X (vocals, synth), Jon Yi (guitar, vocals) Skunk Chellovek of the LA band Informal Society (guitar, vocals), Marc Cody (bass, vocals) & Ethan Nickles (drums). Leftöver Crack has both defied genre pigeon-holing while creating the “Crack Rock Steady” musical genre (along with LöC predecessors Choking Victim & No Commercial Value) which mixes anarcho-punk with ska, hardcore, garage, crust-punk & the gloriously unholy metal trifecta of thrash, doom & death. All of this & many other styles are combined with grating crust-punk vocals delivered with a snotty snarling attitude by a multitude of genders & an endless list of vocal & musical inspirations including vastly contrasting musics from top 40 pop from the last 50 Years, to 90’s hip hop, early 80’s goth, late 80’s “alternative”, indie rock & most styles in between & outside of every box. The lyrical content is mostly political & of a radical leftist nature, opposing religion, capitalism, authority & prejudice. Members of Leftöver Crack’s band & crew traditionally reside at the infamous C-Squat near Tompkins square park in the Lower East Side of New York City. Band members have had a well-known history of back-and-forth conflict with the NYPD which precedes the band's formation. The name "Leftöver Crack" is explained by Stza as being "an oxymoron", based on the idea that crack cocaine addicts are known for vigorous use, and are unlikely to have any "leftover"(s). Leftover Crack’s band members & Collaborators have been in a plethora of other bands both punk & otherwise with recognizable names such as: Suicidal Tendencies, The Coup, Dead Milkmen, Nausea, The Beastie Boys, Reagan Youth, Dwarves, Skarp, F-Minus, D.R.I., Bouncing Souls, Dead Kennedy’s, Crass, NOFX, Riverboat Gamblers, Big Black, Street-Sweeper Social Club, The Adolescents, Star Fucking Hipsters, DayCare Swindlers, the Distillers, Phobia, The Hold Steady, Lard, X-Possibles, Operation Ivy, Band of Horses, MDC,No Commercial Value,John Cougar Mellencamp, World/Inferno Friendship Society, Classics of Love, Scoflaws, Total Chaos, Henry Thugsworth & the Severinator, Hepcat, Lagwagon,& many many others…After a long hiatus the Crack Rock Steady Beat Drums on with Leftöver Crack back for their first real new release since 2015 as well as their 4th full length album to be released this fall. Look for Leftöver Crack on tour all over the states, at several of the Punk in the Park festivals this year along with the 25th year of Punk Rock Bowling & then in Europe & fir their first time in Istanbul, South America & hopefully Asia.Pilfers, the iconic band hailing from the heart of New York City, is making waves in the music industry as their legendary album "Chawalaleng" sees the light of day once again after a quarter of a century. Sony Music, recognizing the timeless appeal of Pilfers' music, has officially re-released "Chawalaleng" on all major streaming platforms.This monumental event marks a rare occurrence for a small band, putting Pilfers in the esteemed company of musical legends like Bob Marley, Michael Jackson, and Elvis Presley. The re-release is a testament to the enduring quality and cultural significance of Pilfers' music, which continues to resonate with fans across generations.In celebration of this historic moment, Pilfers has announced a series of live shows scheduled for September, featuring the original members of the band. Fans can expect a nostalgic journey through the band's illustrious career, with performances that capture the energy and spirit of their early days.Adding to the excitement, there are strong rumors circulating within the music community that Pilfers is gearing up to return to the studio. The prospect of new material has sparked anticipation among fans, as the band is known for their genre-blending sound and socially conscious lyrics. If these rumors hold true, it would mark a significant chapter in Pilfers' musical journey.  Formed in 1997 with members of several bands in NYC. Lead Singer Coolie Ranx is known for his role in GTA IV as little Jacob and the former lead singer of New York City’s legendary band The Toaster. Vinny Nobile known for his Trombone and vocal style hails from Boston legendary band Bim Skala Bim. The Rhythm section ,James Blanck on the drums and Anna Milat Meyer on bass also hails from NYC band Skinnerbox. Guitar of Thunder Nicholas Bacon Together they seamlessly combine Hardcore, Punk, SKA, Dancehall, Reggae and dub to create a genre they  dubbed “Raggacore”LineupLeftöver CrackPilfersCORRUPT WORLD\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/161798
+URL:https://stonechurchvt.com#/events/161798
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-252@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260319T190000
+DTEND;TZID=America/New_York:20260319T210000
+SUMMARY:Mutual Aid Open Mic! 
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ The open mic will be from 7-9 pm on March 19th, right here at Nova Arts (48 Emerald St, Keene, NH 03431). Performances of music, poetry, writing, comedy, and more are all welcome. Performances should be around 5 minutes in length. For any questions, reach out to us by email at mutualaidkeene@gmail.com or on Instagram or Facebook @keenemutualaid. Sign up  HERE There is no required fee for entry to the open mic, but a donation of $5 at the door is encouraged, or you can make a digital donation via this event page as well :)\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/openmic319
+URL:https://www.novaarts.org/events/openmic319
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-148@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T210000
 SUMMARY:Moon Walker | Demi the Daredevil |  Sarah and the Safe Word
@@ -613,7 +660,7 @@ URL:https://stonechurchvt.com#/events/164869
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-184@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260320T193000
 DTEND;TZID=America/New_York:20260320T213000
 SUMMARY:Singer/Songwriter Showcase
@@ -623,7 +670,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/170375
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-200@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:February 2026
@@ -633,7 +680,7 @@ URL:https://www.bellowsfallsoperahouse.com/event-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-210@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T204000
 SUMMARY:PEACHES GOES BANANAS! +Director Q&A!
@@ -643,7 +690,7 @@ URL:https://www.epsilonspires.org/event-info/peaches-goes-bananas-director-q-a
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-229@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260320T190000
 DTEND;TZID=America/New_York:20260320T220000
 SUMMARY:The Great Groove Theory / Reckoners
@@ -661,7 +708,7 @@ URL:https://www.novaarts.org/events/greatgroovereckoners
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-149@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260321T200000
 DTEND;TZID=America/New_York:20260321T220000
 SUMMARY:New Planets
@@ -670,8 +717,28 @@ DESCRIPTION:New PlanetsSaturday March 21Minimum age:All agesShow time:8:00 PMDoo
 URL:https://stonechurchvt.com#/events/161825
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-255@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260321T180000
+DTEND;TZID=America/New_York:20260321T194500
+SUMMARY:EAST AND WEST (1924) Yiddish Silent Film w/ Live Music by Alicia Svigals & Donald Sosin!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:Doors open 6pm, Film begins 6:15,  After the film at 7:45pm, Enjoy a very special Jewish Heritage-Inspired Dinner.East and West(1923, 84 mins),is a delicious comedy that bears the distinction of being the earliest surviving Yiddish language film and the earliest recorded performance of Molly Picon, then just 25, already on the path from Yiddish theater to a long career in film, radio, television, and worldwide stage tours with her husband and frequent co-star, Jacob Kalich. A wonderful role model for the renegade in all of us, best known today for her role as Yente the matchmaker inFiddler on the Roof(1971), Picon shines here as a spirited New York girl who loves boxing, eating, and stirring up trouble— and could not be more different from her religious European relatives. Her New World ways turn the lives of her shtetl relatives upside down, much to the exasperation of…Show More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/east-and-west-1924-yiddish-silent-film-w-live-music-by-alicia-svigals-donald-sosin
+URL:https://www.epsilonspires.org/event-info/east-and-west-1924-yiddish-silent-film-w-live-music-by-alicia-svigals-donald-sosin
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-256@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260321T194500
+DTEND;TZID=America/New_York:20260321T214500
+SUMMARY:EAST AND WEST: Dinner & Film Experience!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT
+DESCRIPTION:Doors open 6pm, Film begins 6:15,  After the film at 7:45pm, Enjoy a very special Jewish Heritage-Inspired Dinner created byStella Mori Silbert:improviser, audio editor, curator, cook, field recordist, disorganizer of sounds, organizer of multi-disciplinary gatherings in Western Massachussetts.MENU:-Chicken soup (flavor vibe is lemon, parsnip, peas, dill, celery.No noodles, so this hearty soup is accessible to gluten-free folks)- Paprika sauerkraut stew with potatoes and beans (vegan & gluten-free)- Horseradish sour cream (as an optional garnish for the soups)- Rosemary rye challahShow More\n\nSource: Epsilon Spires\n\nDetails: https://www.epsilonspires.org/event-info/east-and-west-dinner-film-experience
+URL:https://www.epsilonspires.org/event-info/east-and-west-dinner-film-experience
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-150@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260325T200000
 DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:The Cold Stares
@@ -681,7 +748,7 @@ URL:https://stonechurchvt.com#/events/165921
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-151@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260327T200000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Little Lies- Fleetwood Mac Tribute
@@ -691,7 +758,7 @@ URL:https://stonechurchvt.com#/events/155750
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-185@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260327T193000
 DTEND;TZID=America/New_York:20260327T213000
 SUMMARY:Vermont Comedy All Stars Live Stand-up Comedy Showcase!
@@ -701,7 +768,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169619
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-230@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260327T190000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:Sean Rowe w/ Simon Gray
@@ -719,7 +786,7 @@ URL:https://www.novaarts.org/events/seanrowe
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-152@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260328T200000
 DTEND;TZID=America/New_York:20260328T220000
 SUMMARY:Bearly Dead
@@ -729,7 +796,7 @@ URL:https://stonechurchvt.com#/events/159705
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-222@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260402T190000
 DTEND;TZID=America/New_York:20260402T210000
 SUMMARY:SARIKA with Alouette Batteau & Olivia Nied
@@ -739,7 +806,7 @@ URL:https://lastditchvenue.com/events-calendar#/events/168675
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-153@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260403T200000
 DTEND;TZID=America/New_York:20260403T220000
 SUMMARY:The Meteors
@@ -749,7 +816,7 @@ URL:https://stonechurchvt.com#/events/161480
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-186@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260403T193000
 DTEND;TZID=America/New_York:20260403T213000
 SUMMARY:The Gaslight Tinkers Dance Party
@@ -759,7 +826,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169621
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-154@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260404T200000
 DTEND;TZID=America/New_York:20260404T220000
 SUMMARY:Wild Party/Capital Soiree
@@ -768,8 +835,26 @@ DESCRIPTION:Wild Party/Capital SoireeSaturday April 4Minimum age:All agesShow ti
 URL:https://stonechurchvt.com#/events/159959
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-253@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260404T190000
+DTEND;TZID=America/New_York:20260404T220000
+SUMMARY:TAKAAT w/ Kal Marks (solo)
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ TAKAAT  (pronounced tuh-cot), meaning “noise” in the Tuareg language Tamashek, is the trio of Ahmoudou Madassane, Mikey Coltun, and Souleymane Ibrahim, also known as the rhythm section of Mdou Moctar. TAKAAT is sonic chaos, improvisation, freedom of exploration, and the punk styles of bands such as Fugazi and Unwound, all mixed together with the guitar music from the Sahel. TAKAAT started during soundchecks while on the road with Mdou Moctar when the trio indulged their shared love for amps cranked to 11 and the sound of blown out speakers. Towards the end of 2023, the three started writing music together, inspired by their shared experiences with the sounds and energy of Hausa bar bands, gritty soukous, and 2000s post-punk. The music of TAKAAT is intense, dark, and energetic. Deeply inspired by the DIY ethos of punk, Ahmoudou, Mikey, and Souleymane capture that thrill of the new and the ecstasy of togetherness in these heavy rockers. TAKAAT follows in the spirit of the independent music culture that birthed hardcore basement shows, bedroom tape labels, and generator-powered pick-up wedding bands. Carl Shane is the guitarist, vocalist, and songwriter behind  Kal Marks , a band known for its raw intensity, guttural vocals, and emotionally direct songwriting. After a major lineup change and a period of uncertainty, Shane reformed the group with new members and created My Name Is Hell—a record that marks a bold, dynamic shift in the band's sound. Now based in Providence, he continues to write music that reflects both personal struggle and broader social anxieties, with a blend of heaviness, honesty, and unexpected beauty. Now Carl has started a new project Wild Birds Unlimited. It delves into more atmospheric terrain. The first release "The Fossils Are On Fire, And That's Too Bad For You" was self released this February as a fundraising project for a grander more ambitious follow up. The collection is quite abstract and hints at the full songs to come. Doors are at 7pm and music will begin at 730! Seating is first come first served! Thanks to support from Savings Bank of Walpole, this show has an Access For All option which lets you name your price (you can't buy multiples of this option at the same time, so to buy more than one ticket, it is necessary to do each additional ticket in a different transaction).\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/takaat44
+URL:https://www.novaarts.org/events/takaat44
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-187@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260408T190000
 DTEND;TZID=America/New_York:20260408T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -779,7 +864,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169623
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-155@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260410T200000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:Tanya Donelly and Chris Brokaw
@@ -789,7 +874,7 @@ URL:https://stonechurchvt.com#/events/156021
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-156@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260411T200000
 DTEND;TZID=America/New_York:20260411T220000
 SUMMARY:lespecial
@@ -799,7 +884,7 @@ URL:https://stonechurchvt.com#/events/166473
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-188@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260411T193000
 DTEND;TZID=America/New_York:20260411T213000
 SUMMARY:É.T.É
@@ -809,7 +894,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169227
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-157@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260412T190000
 DTEND;TZID=America/New_York:20260412T210000
 SUMMARY:Pallbearer
@@ -818,8 +903,18 @@ DESCRIPTION:PallbearerKnollSunday April 12Minimum age:All agesShow time:7:00 PMD
 URL:https://stonechurchvt.com#/events/157992
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-246@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260415T200000
+DTEND;TZID=America/New_York:20260415T220000
+SUMMARY:Poison Ruïn
+LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
+DESCRIPTION:Poison RuïnPeace TalksWednesday April 15Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionBuilding off the strengths of their critically acclaimed works, POISON RUIN return with their new album, Hymns From the Hills. The Philadelphia Punk band have developed their signature approach to grim mythmaking and scythe-swinging aggression in bold new directions, offering up a new body of songs that strike one as equal parts natural, undeniably of this world, and phantasmal.The band's vision has grown substantially, pushing well past the tales of peasants and serfs that stood as allegories for contemporary alienation in their previous work. On this newest offering, their previous stories of toil and dispossession are revealed to be but one chapter etched upon a bleaker tapestry- One populated by spirits traversing sunless deserts and wilted hillsides, demonic torture objects limning the edges of the psyche, bodies transfigured into Luciferian snakes, Sadean prisoners bound to the screaming silence of abandoned castle towers. The record is at once a forceful restatement of POISON RUIN's trademark sound and a departure from it- The crackling, cassette-dubbed darkness and crushing rhythms listeners have become accustomed to are buttressed by a carefully sculpted mosaic of new textures, from flourishes of Killing Joke hacksaw primitivism and blast-beats worthy of the Relapse catalogue number to crisp analog synth lines and ambient serenades reminiscent of Scott Walker and The Durutti Column. Like a serpent moving ever outward with spiraling circularity, Hymns From the Hills expands POISON RUIN's sonic landscape in imaginative new directions while maintaining its center of gravity firmly in the band’s already established mythos.Hymns From the Hills is meticulously composed. Much like the rest of POISON RUIN's body of work, this LP was self-recorded without the use of professional studio equipment. To meet the greater sonic demands of Hymns From the Hills, however, mastermind Mac Kennedy relocated to a private practice space, retiring from his previous routine of squeezing in tracking sessions around the rare moments that the band’s shared practice space happened to be vacant. “Having added time to breathe and really get things right felt crucial this time,” he remarks. “The stress of having to work quickly and at chaotic intervals used to feel productive, in that it instilled a sort of rough, energetic ethos into the recordings, but I began to feel that those working habits were blocking me from pursuing certain ideas that required a more measured, methodical approach.” To best serve the record’s grander ambitions, the band enlisted the mixing prowess of Jonah Falco (Fucked Up, Career Suicide) and the mastering of Arthur Rizk (Power Trip, Trapped Under Ice, Cavalera, Integrity), who helped to elevate the record’s teeming variety of sounds to new heights of self-assured fidelity. Kennedy lent a second hand to the mixing process, splicing in grittier tape recorded segments in order to maintain a certain tonal continuity with the band’s previous work, creating a rich structure of unconventional frictions, crystalline flashes of polish ripping through abysses of hissing low end only to shatter against the whipping sting of rusted chains moments later.Lyrically, Hymns From The Hills extends both the cynicism and the defiant bravado of POISON RUIN's established fantasy aesthetics. While the record continues POISON RUIN'S tradition of employing medieval-inflected fantasy imagery, Kennedy does not intend for these figures to be read as historically accurate. “I’m not very interested in conveying the historical facts of medieval culture. If we are to make sense of the present, we need to employ a more mythic mode of language and symbol  to reach beyond the spiritual malaise that envelopes us. A mythic truth resonates within any time, but it’s echos call from outside of time. Medieval and fantasy imagery are simply effective personal starting points for tapping into that mode of communication.”With Hymns From The Hills, POISON RUIN have accomplished a feat of creative labor which few have the courage to entertain, much less the capacity to execute so effectively. Hymns From The Hills ambitiously rewrites the very rules of what punk is capable of achieving, pushing POISON RUIN's sound into expansive new terrains without sacrificing an ounce of the bleak symbolism and uncompromising aggression that first established them as an urgent new voice in the world of extreme music.LineupPoison RuïnPeace Talks\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/158144
+URL:https://stonechurchvt.com#/events/158144
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-158@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260417T200000
 DTEND;TZID=America/New_York:20260417T220000
 SUMMARY:The Antlers
@@ -829,7 +924,7 @@ URL:https://stonechurchvt.com#/events/156610
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-189@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260417T193000
 DTEND;TZID=America/New_York:20260417T213000
 SUMMARY:Jake Shulman-Ment
@@ -839,7 +934,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169639
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-159@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260420T190000
 DTEND;TZID=America/New_York:20260420T210000
 SUMMARY:Weedeater + Conan
@@ -849,7 +944,7 @@ URL:https://stonechurchvt.com#/events/160572
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-160@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260423T200000
 DTEND;TZID=America/New_York:20260423T220000
 SUMMARY:Courtney Marie Andrews
@@ -859,7 +954,7 @@ URL:https://stonechurchvt.com#/events/141536
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-161@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260430T200000
 DTEND;TZID=America/New_York:20260430T220000
 SUMMARY:Haley Heynderickx & Max Garcia Conover
@@ -869,7 +964,7 @@ URL:https://stonechurchvt.com#/events/158537
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-211@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260430T190000
 DTEND;TZID=America/New_York:20260430T213000
 SUMMARY:Whitney Johnson - Lia Kohl - Macie Stewart Trio
@@ -879,7 +974,7 @@ URL:https://www.epsilonspires.org/event-info/whitney-johnson-lia-kohl-macie-stew
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-162@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260501T200000
 DTEND;TZID=America/New_York:20260501T220000
 SUMMARY:Juice
@@ -889,7 +984,7 @@ URL:https://stonechurchvt.com#/events/162699
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-163@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260502T200000
 DTEND;TZID=America/New_York:20260502T220000
 SUMMARY:ULTRA SUNN
@@ -899,7 +994,7 @@ URL:https://stonechurchvt.com#/events/139076
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-190@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260508T193000
 DTEND;TZID=America/New_York:20260508T213000
 SUMMARY:Victoria Redel in Conversation with Robin MacArthur
@@ -909,7 +1004,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169650
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-191@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260513T190000
 DTEND;TZID=America/New_York:20260513T210000
 SUMMARY:NXT Rockumentary Film Series
@@ -919,7 +1014,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169686
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-164@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260515T200000
 DTEND;TZID=America/New_York:20260515T220000
 SUMMARY:TAGABOW
@@ -929,7 +1024,7 @@ URL:https://stonechurchvt.com#/events/164398
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-231@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260515T160000
 DTEND;TZID=America/New_York:20260515T193000
 SUMMARY:Thing in the Spring Weekend Pass! 
@@ -947,7 +1042,7 @@ URL:https://www.novaarts.org/events/thing2026pass
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-232@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260515T160000
 DTEND;TZID=America/New_York:20260515T223000
 SUMMARY:Thing in the Spring FRIDAY
@@ -964,8 +1059,26 @@ DESCRIPTION:Buy Tickets on Eventbrite
 URL:https://www.novaarts.org/events/thing2026friday
 END:VEVENT
 BEGIN:VEVENT
+UID:vt-event-254@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20260515T160000
+DTEND;TZID=America/New_York:20260515T193000
+SUMMARY:Thing in the Spring Weekend Pass SOLD OUT
+LOCATION:Brewbakers\, 48 Emerald St\, Keene\, NH\, 03431
+DESCRIPTION:Buy Tickets on Eventbrite 
+ 
+ Buy Tickets 
+ 
+ 
+ 
+ 
+ 
+ It’s the 18th Thing in the Spring! Join us at Nova Arts & the Colonial Theatre in Keene NH to see three days of inspired curation in action. This ticket will get you into all of the performances at Nova as well as Ghostface Killah w/ Sammus happening at the Colonial! This year will feature performances by: Ghostface Killah / Sammus / Natural Information Society / Yasmin Williams / Woods / Saintseneca / Undertow Brass Band / Delicate Steve / Emily A. Sprague / Thanya Iyer / Big Blood / Habitat / Gregory Uhlmann / Kalia Vandever / Cole Pulice / Monadnock Music plays Katie Semro / Dinger / Jack in the Green / Edsel Axle / Mary Elizabeth Remington / and more! *Access for All is not available for Weekend Passes\n\nSource: Nova Arts\n\nDetails: https://www.novaarts.org/events/thing2026pass
+URL:https://www.novaarts.org/events/thing2026pass
+END:VEVENT
+BEGIN:VEVENT
 UID:vt-event-233@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260516T120000
 DTEND;TZID=America/New_York:20260516T190000
 SUMMARY:Thing in the Spring Saturday
@@ -983,7 +1096,7 @@ URL:https://www.novaarts.org/events/thing2026saturday
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-234@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260516T190000
 DTEND;TZID=America/New_York:20260516T220000
 SUMMARY:Thing in the Spring: Ghostface Killah w/ Sammus at The Colonial Theatre
@@ -993,7 +1106,7 @@ URL:https://www.novaarts.org/events/thingghostface
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-192@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260517T190000
 DTEND;TZID=America/New_York:20260517T210000
 SUMMARY:John Gorka
@@ -1003,7 +1116,7 @@ URL:https://www.nextstagearts.org/events-calendar#/events/169652
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-235@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260517T120000
 DTEND;TZID=America/New_York:20260517T193000
 SUMMARY:Thing in the Spring Sunday
@@ -1021,7 +1134,7 @@ URL:https://www.novaarts.org/events/thing2026sunday
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-165@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260523T200000
 DTEND;TZID=America/New_York:20260523T220000
 SUMMARY:King Tuff
@@ -1031,7 +1144,7 @@ URL:https://stonechurchvt.com#/events/154304
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-166@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260527T200000
 DTEND;TZID=America/New_York:20260527T220000
 SUMMARY:Oranssi Pazuzu
@@ -1041,12 +1154,22 @@ URL:https://stonechurchvt.com#/events/149483
 END:VEVENT
 BEGIN:VEVENT
 UID:vt-event-193@things-we-love
-DTSTAMP:20260210T025426Z
+DTSTAMP:20260216T231846Z
 DTSTART;TZID=America/New_York:20260527T100000
 DTEND;TZID=America/New_York:20260527T120000
 SUMMARY:American Red Cross Blood Drive
 LOCATION:Next Stage Arts\, 15 Kimball Hill Rd\, Putney\, VT
 DESCRIPTION:American Red Cross Blood DriveWednesday, May 27Minimum age:All agesShow time:10:00 AMDoors open:10:00 AMNext Stage ArtsSign Up\n\nSource: Next Stage Arts\n\nDetails: https://www.nextstagearts.org/events-calendar#/events/169657
 URL:https://www.nextstagearts.org/events-calendar#/events/169657
+END:VEVENT
+BEGIN:VEVENT
+UID:vt-event-247@things-we-love
+DTSTAMP:20260216T231846Z
+DTSTART;TZID=America/New_York:20261022T200000
+DTEND;TZID=America/New_York:20261022T220000
+SUMMARY:Carsie Blanton
+LOCATION:Stone Church\, 210 Main St\, Bellows Falls\, VT
+DESCRIPTION:Carsie BlantonThursday October 22Minimum age:All agesShow time:8:00 PMDoors open:7:00 PMStone ChurchTicketsDescriptionCarsie Blanton is a songwriter with hooks, chutzpah, and revolutionary optimism. A radical folk artist in the tradition of Woody Guthrie, her infectious melodies and lyrical wit keep listeners rapt while she conjures spirits of vaudeville, campfire singalongs, and punk rock. Blanton and her road-tested band deploy humor, camaraderie, and considerable musical muscle to enroll each audience in a rare vision of hope and solidarity.In addition to writing and performing music, Carsie works as a political organizer and activist. In fall of 2025, she participated in the Global Sumud Flotilla, a direct action to bring humanitarian aid to Gaza by sailboat. In early October, after a month at sea, she was imprisoned in Israel for five days along with hundreds of her comrades.Soon after, Blanton released The Little Flame, a song of solidarity covered widely on social media during her detention. The Little Flame features background vocals from Irish band Ye Vagabonds and Carsie’s Palestinian/New Zealander prison-mate Rana Hamida, and appears on her latest album, The Red Album Vol II.After two decades spent on the road, Blanton has amassed a dedicated fan base and a small menagerie of viral hits, and regularly sells out mid-size venues across the U.S. and Europe. 2026 will find her touring heavily with her own band and in collaboration with Canadian folk-punk rabblerousers The Burning Hell, as well as continuing her organizing work with Artists Against Apartheid, Party for Socialism and Liberation and others.“Beautiful, militant anthems.” - Ken Tucker, NPR’s Fresh Air“Carsie Blanton is fighting fascism with big hooks andan even bigger heart.” -American SongwriterLineupCarsie Blanton\n\nSource: Stone Church\n\nDetails: https://stonechurchvt.com#/events/151481
+URL:https://stonechurchvt.com#/events/151481
 END:VEVENT
 END:VCALENDAR
